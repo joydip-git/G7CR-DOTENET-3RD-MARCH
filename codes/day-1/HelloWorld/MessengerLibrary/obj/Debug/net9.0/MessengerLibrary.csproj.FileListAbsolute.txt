@@ -1,0 +1,12 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\bin\Debug\net9.0\MessengerLibrary.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\bin\Debug\net9.0\MessengerLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\bin\Debug\net9.0\MessengerLibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\obj\Debug\net9.0\MessengerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\obj\Debug\net9.0\MessengerLibrary.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\obj\Debug\net9.0\MessengerLibrary.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\obj\Debug\net9.0\MessengerLibrary.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\obj\Debug\net9.0\MessengerLibrary.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\obj\Debug\net9.0\MessengerLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\obj\Debug\net9.0\refint\MessengerLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\obj\Debug\net9.0\MessengerLibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\HelloWorld\MessengerLibrary\obj\Debug\net9.0\ref\MessengerLibrary.dll

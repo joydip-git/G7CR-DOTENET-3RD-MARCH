@@ -3,7 +3,7 @@ https://github.com/joydip-git/G7CR-DOTENET-3RD-MARCH
 .NET:
 	a framework to create, build, test, deploy and run an application
 
-.NET Framework
+.NET Framework [legacy]
 -----------------------------------------
 year		version		runtime		C#
 2002 		1.0		1.0		1.0
@@ -55,6 +55,83 @@ source code is converted to intermediate language code (IL) by the comiler (for 
 step-2:
 ---------------
 during runtime, JIT compiler (part of runtime) converts to IL code into binary/machine code and the code is executed
+
+
+app-folder
+	project-folder
+		*.cs (code file)
+		*.csproj (project file)
+		bin (folder for output files)
+			debug
+				net<version>
+					*.dll (output file - assembly) + .exe (optional) + *.deps.json + *.runtimeconfig.json (optional) + *.pdb files
+		obj (folder for other assets)
+	*.sln
+
+view IL code and others from output file (*.dll):
+-----------------------------------------------------
+tool name: ILDASM (Intermediate Language Dis-assembler)
+path: C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools
+
+namespace (like package) name == application/project name (by default)
+you can change the namespace name
+
+when you add multiple projects in a solution, the first one added, becomes start-up project (when you press F5 or Ctrl+F5 to run an app in VS) for the VS by default. Change the start-up project by right clicking on the project file, select "Set as Start-up project" from the context menu
+
+
+C#:
+----
+OOP language
+strictly/implicitly typed
+type safe
+
+
+data types:
+-----------
+value types				reference types
+-------------------------------------------------------------
+built-in	user-defined		built-in	user-defined
+----------------------------------------------------------------------
+byte		struct			string		class
+sbyte		Enum			Object		interface
+short							delegate
+ushort							event
+int
+uint
+long
+ulong
+
+float
+decimal
+double
+
+char
+bool
+
+DateTime
+TimeSpan
+
+etc.
+
+
+
+
+
+
+class Program{
+	int y;
+	int a;
+	public Program(){
+		//y =0;
+	}
+	static void Main(){
+		int x = 10;
+		Messenger m = new Messenger();
+	}
+}
+
+
+
 
 
 
