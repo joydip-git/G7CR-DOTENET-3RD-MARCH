@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-1\\ConversionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98F3091E-4BB0-4CBC-886F-8EBD9F9A6FF9}|ConversionDemo\\ConversionDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-1\\conversiondemo\\conversiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F3091E-4BB0-4CBC-886F-8EBD9F9A6FF9}|ConversionDemo\\ConversionDemo.csproj|solutionrelative:conversiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F3091E-4BB0-4CBC-886F-8EBD9F9A6FF9}|ConversionDemo\\ConversionDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-1\\conversiondemo\\conversiondemo\\conversiondemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98F3091E-4BB0-4CBC-886F-8EBD9F9A6FF9}|ConversionDemo\\ConversionDemo.csproj|solutionrelative:conversiondemo\\conversiondemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversionDemo",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-1\\ConversionDemo\\ConversionDemo\\ConversionDemo.csproj",
+              "RelativeDocumentMoniker": "ConversionDemo\\ConversionDemo.csproj",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-1\\ConversionDemo\\ConversionDemo\\ConversionDemo.csproj",
+              "RelativeToolTip": "ConversionDemo\\ConversionDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T10:02:06.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-1\\ConversionDemo\\ConversionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConversionDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-1\\ConversionDemo\\ConversionDemo\\Program.cs",
+              "RelativeToolTip": "ConversionDemo\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:53:08.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -113,22 +113,82 @@ TimeSpan
 
 etc.
 
+data type conversion:
+----------------------------
+1. implicit: lower to higher range
+2. explicit: opposite, i.e., higher to lower range
+trsing to convert a reference type (example: string) to a value type (example: int, bool, datetime etc.)
+
+checked: check whether the conversion is possible or not. if not possible, then throw an exception
+
+unchecked: will try to do the conversion and will not throw an exception. you might get unexpected value.
+
+type.Parse() -> can try convert ONLY string to the target type
+Convert.To...() -> can try to convert anything to target type
+
+if the source data type is String then type.Parse() is preferrable
+Parse() method has few overloaded version compared to To...() method
+
+CTS: Common Type System (data type system of IL code which is common for all source code languages)
+
+CLS: Common Language Specification (Common specification for all the source code languages)
+
+CLS is a subset of CTS
+
+
+Console
+	-> WriteLine => appends a new line character
+	-> Write     => does not append a new line character
+	-> ReadLine  => string
+	-> Read      => ascii value of the first character
+	-> ReadKey   => ConsoleKey
+
+switch...case
+do...while
+if...else
+
+methods and its arguments:
+-----------------------------
+1. pass by value or ref or out
+-------------------------------------
+pass by value -> no keyword is required
+pass by reference -> 'ref' keyword is used while declaraing the argument of the function as well as while calling and passing the value to the same argument 'ref' is required too.
+
+In C#, local variables of any function does not have a default value
+so you can't pass any assigned variable to a function
+But there is a way: pass by out
+
+a variable can be passed to a method without being assigned if you use 'out' keyword while passing the variable. the corresponding argument in the method also must be declared with 'out' keyword
+
+pass by out vs. pass by ref
+-----------------------------
+pass by out helps you pass any variable reference w/o being assigned, to a function. if a value is aaaigned to out variable, that value will be simply ignored
+pass by ref helps you pass any variable reference, BUT the variable MUST be assigned
+out variable MUST be assigned in called function 
+
+out local variable
+
+2. optional argument with default value. all optional arguments should be mentioned at the end of the argument list.
+
+3. named argument: while calling a method you pass the variables by mentioning the nane of the arguments. that helps to avoid the exact order in which the variables have to be sent to the method.
+
+4. parameter array (params keyword):
+if you declare an array with params keyword in a function argument list, the array will be known as parameter array and cam accept directly the parameter values when unknown number of parameters are passed while calling the function
+
+1. ONLY one parameter array can be declared in the function argument list
+2. the parameter array should be the last one in the argument list which will accept all the remaining parameters after the fixed parameters
+3. parame keyword is used ONLY with an array which is part of the arguments. any local array can't be declared with it.
+
+expression bodied methods (methods written using expression body technique/style)
+  static int Add(int a, int b) => a + b;
+  static void Subtract(int a, int b) => Console.WriteLine(a-b);
 
 
 
 
 
-class Program{
-	int y;
-	int a;
-	public Program(){
-		//y =0;
-	}
-	static void Main(){
-		int x = 10;
-		Messenger m = new Messenger();
-	}
-}
+
+
 
 
 

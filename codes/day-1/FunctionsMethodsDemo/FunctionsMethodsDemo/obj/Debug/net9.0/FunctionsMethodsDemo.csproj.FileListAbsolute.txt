@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\bin\Debug\net9.0\FunctionsMethodsDemo.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\bin\Debug\net9.0\FunctionsMethodsDemo.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\bin\Debug\net9.0\FunctionsMethodsDemo.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\bin\Debug\net9.0\FunctionsMethodsDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\bin\Debug\net9.0\FunctionsMethodsDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\FunctionsMethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\FunctionsMethodsDemo.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\FunctionsMethodsDemo.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\FunctionsMethodsDemo.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\FunctionsMethodsDemo.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\FunctionsMethodsDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\refint\FunctionsMethodsDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\FunctionsMethodsDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\FunctionsMethodsDemo.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-1\FunctionsMethodsDemo\FunctionsMethodsDemo\obj\Debug\net9.0\ref\FunctionsMethodsDemo.dll
