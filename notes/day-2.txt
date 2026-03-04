@@ -98,6 +98,30 @@ static decimal CalculateSalary(decimal basic, decimal da, decimal hra)
 static class:
 	a class with all static members and NO instance members and the class itself is static. this type of classes are known as "Utility classes" too.
 
+class
+constructor - default and parameterized
+property - setter and getter also read only and write only property
+method
+
+access specifiers - class and class members
+access modifiers - static
+
+static
+class
+constructor
+data member
+static property
+static method
+
+keywords: readonly and const
+
+static import (using static namespace-name.static-class-name)
+
+record
+nameof operator
+
+
+
 
 
 
