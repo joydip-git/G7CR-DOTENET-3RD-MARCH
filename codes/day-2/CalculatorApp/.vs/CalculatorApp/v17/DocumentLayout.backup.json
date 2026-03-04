@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DA490-5EAD-4DF2-A752-0FC205C356CD}|CalculatorApp.UserInterface\\CalculatorApp.UserInterface.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-2\\calculatorapp\\calculatorapp.userinterface\\models\\calculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1DA490-5EAD-4DF2-A752-0FC205C356CD}|CalculatorApp.UserInterface\\CalculatorApp.UserInterface.csproj|solutionrelative:calculatorapp.userinterface\\models\\calculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DA490-5EAD-4DF2-A752-0FC205C356CD}|CalculatorApp.UserInterface\\CalculatorApp.UserInterface.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-2\\calculatorapp\\calculatorapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1DA490-5EAD-4DF2-A752-0FC205C356CD}|CalculatorApp.UserInterface\\CalculatorApp.UserInterface.csproj|solutionrelative:calculatorapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1DA490-5EAD-4DF2-A752-0FC205C356CD}|CalculatorApp.UserInterface\\CalculatorApp.UserInterface.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-2\\calculatorapp\\calculatorapp.userinterface\\utility\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1DA490-5EAD-4DF2-A752-0FC205C356CD}|CalculatorApp.UserInterface\\CalculatorApp.UserInterface.csproj|solutionrelative:calculatorapp.userinterface\\utility\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA679039-F493-4C37-9E30-16841AC8D282}|CalculatorApp.Entities\\CalculatorApp.Entities.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-2\\calculatorapp\\calculatorapp.entities\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA679039-F493-4C37-9E30-16841AC8D282}|CalculatorApp.Entities\\CalculatorApp.Entities.csproj|solutionrelative:calculatorapp.entities\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationResult.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\CalculatorApp\\CalculatorApp.UserInterface\\Models\\CalculationResult.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.UserInterface\\Models\\CalculationResult.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\CalculatorApp\\CalculatorApp.UserInterface\\Models\\CalculationResult.cs",
+              "RelativeToolTip": "CalculatorApp.UserInterface\\Models\\CalculationResult.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:03:44.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\CalculatorApp\\CalculatorApp.Entities\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.Entities\\Calculator.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\CalculatorApp\\CalculatorApp.Entities\\Calculator.cs",
+              "RelativeToolTip": "CalculatorApp.Entities\\Calculator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:54:33.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UiUtility.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\CalculatorApp\\CalculatorApp.UserInterface\\Utility\\UiUtility.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.UserInterface\\Utility\\UiUtility.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\CalculatorApp\\CalculatorApp.UserInterface\\Utility\\UiUtility.cs",
+              "RelativeToolTip": "CalculatorApp.UserInterface\\Utility\\UiUtility.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAE4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:24:55.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\CalculatorApp\\CalculatorApp.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApp.UserInterface\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\CalculatorApp\\CalculatorApp.UserInterface\\Program.cs",
+              "RelativeToolTip": "CalculatorApp.UserInterface\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvx8AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:16:45.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

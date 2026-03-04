@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CalculatorApp.UserInterface/1.0.0": {
+        "dependencies": {
+          "CalculatorApp.Entities": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorApp.UserInterface.dll": {}
+        }
+      },
+      "CalculatorApp.Entities/1.0.0": {
+        "runtime": {
+          "CalculatorApp.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorApp.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculatorApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

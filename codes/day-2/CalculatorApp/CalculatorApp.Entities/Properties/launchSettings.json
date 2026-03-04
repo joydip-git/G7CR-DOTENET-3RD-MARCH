@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CalculatorApp.Entities": {
+      "commandName": "Project"
+    }
+  }
+}

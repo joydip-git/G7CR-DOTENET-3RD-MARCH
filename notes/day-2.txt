@@ -42,3 +42,47 @@ const:
 const -> static literal value
 there is no memory allocated for const data members, they are replaced by their literal value at compile time
 
+TryParse():
+-------------------------
+return type : bool
+args: 
+	value for conversion as the first arg
+	an out variable to store the converted value (if conversion was possible) or some default value (if conversion failed)
+
+struct Int32{
+public static bool TryParse(string value, out int result)
+{
+	try{
+		resut = int.Parse(value);
+		return true;
+	}catch(Exception){
+		result = 0;
+		return false;
+	}
+}
+}
+
+string data ="";
+
+if(Int32.TryParse(Console.ReadLine(),out int res)){
+	res
+}
+
+
+Add: 12+3=15
+
+nameof operator:
+--------------------------
+
+string name = nameof(type|type member)
+
+class CalculationResult{
+	string methodName;
+	int result;
+
+	public string GetMethodName() => methodName;
+	public int GetResult()=> result;
+}
+
+
+

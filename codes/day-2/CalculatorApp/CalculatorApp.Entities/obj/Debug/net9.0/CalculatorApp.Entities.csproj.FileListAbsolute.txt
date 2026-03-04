@@ -1,0 +1,14 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\bin\Debug\net9.0\CalculatorApp.Entities.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\bin\Debug\net9.0\CalculatorApp.Entities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\bin\Debug\net9.0\CalculatorApp.Entities.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\bin\Debug\net9.0\CalculatorApp.Entities.xml
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\CalculatorApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\CalculatorApp.Entities.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\CalculatorApp.Entities.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\CalculatorApp.Entities.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\CalculatorApp.Entities.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\CalculatorApp.Entities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\refint\CalculatorApp.Entities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\CalculatorApp.Entities.xml
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\CalculatorApp.Entities.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\CalculatorApp\CalculatorApp.Entities\obj\Debug\net9.0\ref\CalculatorApp.Entities.dll

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalculatorApp.Entities</name>
+    </assembly>
+    <members>
+        <member name="T:CalculatorApp.Entities.Calculator">
+            <summary>
+            Provides basic arithmetic operations, including addition, subtraction, multiplication, and division.
+            </summary>
+            <remarks>This class is designed for simple integer arithmetic. It supports operations such as
+            addition, subtraction,  multiplication, and division. Division by zero is not allowed and will result in a <see
+            cref="T:System.DivideByZeroException"/>.</remarks>
+        </member>
+        <member name="M:CalculatorApp.Entities.Calculator.Add(System.Int32,System.Int32)">
+            <summary>
+            Adds two integers and returns the result.
+            </summary>
+            <param name="a">The first integer to add.</param>
+            <param name="b">The second integer to add.</param>
+            <returns>The sum of <paramref name="a"/> and <paramref name="b"/>.</returns>
+        </member>
+        <member name="M:CalculatorApp.Entities.Calculator.Subtract(System.Int32,System.Int32)">
+            <summary>
+            Subtracts the second integer from the first integer.
+            </summary>
+            <param name="a">The minuend, which is the number to be subtracted from.</param>
+            <param name="b">The subtrahend, which is the number to subtract.</param>
+            <returns>The result of subtracting <paramref name="b"/> from <paramref name="a"/>.</returns>
+        </member>
+        <member name="M:CalculatorApp.Entities.Calculator.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Multiplies two integers and returns the result.
+            </summary>
+            <param name="a">The first integer to multiply.</param>
+            <param name="b">The second integer to multiply.</param>
+            <returns>The product of <paramref name="a"/> and <paramref name="b"/>.</returns>
+        </member>
+        <member name="M:CalculatorApp.Entities.Calculator.Divide(System.Int32,System.Int32)">
+            <summary>
+            Divides one integer by another and returns the result.
+            </summary>
+            <param name="a">The dividend.</param>
+            <param name="b">The divisor. Must not be zero.</param>
+            <returns>The quotient of the division.</returns>
+            <exception cref="T:System.DivideByZeroException">Thrown when <paramref name="b"/> is zero.</exception>
+        </member>
+    </members>
+</doc>
