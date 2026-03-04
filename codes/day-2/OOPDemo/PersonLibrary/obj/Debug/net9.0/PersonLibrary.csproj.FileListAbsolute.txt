@@ -1,0 +1,12 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\bin\Debug\net9.0\PersonLibrary.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\bin\Debug\net9.0\PersonLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\bin\Debug\net9.0\PersonLibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net9.0\PersonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net9.0\PersonLibrary.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net9.0\PersonLibrary.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net9.0\PersonLibrary.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net9.0\PersonLibrary.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net9.0\PersonLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net9.0\refint\PersonLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net9.0\PersonLibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-2\OOPDemo\PersonLibrary\obj\Debug\net9.0\ref\PersonLibrary.dll

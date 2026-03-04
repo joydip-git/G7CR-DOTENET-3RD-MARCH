@@ -1,0 +1,44 @@
+OOP in C#:
+----------------------
+naming convention:
+	1. file and class name should be same
+	2. a single file should contain one type
+	3. class name: Pascal Casing
+	4. class data member name: camel casing
+	5. class method name: Pascal Casing
+
+access specifiers:
+	1. class: internal and public
+	public: the class is available within the same assembly as well as accessible from another assembly
+	internal: the class is available within the same assembly but inaccessible from another assembly. by default any class is internal.
+
+	2. class members: private, protected, internal, protected internal and public
+
+	private: accessible inside the same class ONLY. By default a member of a class is private.
+	protected: accessible inside the same class and its child class ONLY
+	public: accessible inside the same class, its child class and also through instance or class name
+
+	internal: behaves like a public within the same assembly. But behaves like private w.r.t another assembly
+	protected internal: beaves like a internal but within the same assembly but behaves like protected w.r.t. other assembly
+
+
+Heap NOP (Next Object Pointer)
+
+static members of the class:
+----------------------------------------------------
+static data member: memory block for static data will NOT be part of any instance. Rather every instance has access to that common/shared memory block
+
+static method: acces through class name (if public)
+
+static ctor:
+	declared with static keyword
+	never ever declare with any access specifier or any other keyword
+	it is invoked if you "use" the class (ex: create instance, access static member etc.) and ONLY once and the very first time the class is used
+	this ctor is called implicitly. DO NOT TRY TO manually invoke it like any other instance ctors
+	it can't be overloaded
+
+const:
+---------------
+const -> static literal value
+there is no memory allocated for const data members, they are replaced by their literal value at compile time
+
