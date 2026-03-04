@@ -1,0 +1,39 @@
+create an application to calulate salary of employees
+
+complete project structure:
+
+solution (blank):
+----------------------------
+G7CR.DotNet.PayRollApp
+
+applications:
+-----------------------
+G7CR.DotNet.PayRollApp.PayRollUserInterface -> executable (console) app
+G7CR.DotNet.PayRollApp.Models -> library app
+
+1. create a library application to create Employee class
+Employee:	
+	data: name, id, basicpay, dapay, hrapay, totalpay
+	method: to calculate the total salary (add the basic, da and hra)
+		args: None
+		return: void
+	constructors: default and parameterized
+	properties: for all the members
+
+	Note: 
+	a. the "id" should be set only once [id is readonly]
+	b. the "totalpay", should not be allowed to be set from outside the class scope. it will set only by the method to calulate total payment.
+
+2. Create the client (console) application (in the same solution).
+3. Add reference os the libray application with employee class code, from the client application.
+
+3. in the Main method of the client app:
+a. create an object of employee class
+b. accept all the values from user
+c. print the total pay of the employee along with the name of that employee
+
+ex: Total Salary of Sunil is 10000
+
+Note: try to use logic segregation through multiple classes
+
+

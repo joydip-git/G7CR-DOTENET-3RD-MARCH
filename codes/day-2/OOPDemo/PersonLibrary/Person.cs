@@ -26,11 +26,6 @@
             Console.WriteLine("loc reasigned: " + location);
         }
 
-        public static string GetLocation()
-        {
-            return location;
-        }
-
         public Person()
         {
             Console.WriteLine("default ctor");
@@ -41,10 +36,76 @@
             Console.WriteLine("overloaded ctor");
             this.name = name;
             this.age = age;
-        }      
+        }
+
+        //public static string GetLocation()
+        //{
+        //    return location;
+        //}
+        //public static void SetLocation(string loc)
+        //{
+        //    location = loc;
+        //}
+
+        //read-only property
+        //public static string Location
+        //{
+        //    get { return location; }
+        //}
+
+        //expression-bodied member for read-only property
+        public static string Location => location; 
+
+        //public string GetName()
+        //{
+        //    return name;
+        //}
+        //public void SetName(string name)
+        //{
+        //    this.name = name;
+        //}
+
+        //property
+        public string Name
+        {
+            //public string GetName()
+            get
+            {
+                return name;
+            }
+            //public void SetName(string value)
+            set
+            {
+                this.name = value; //value is the implicit parameter for set accessor
+            }
+        }
+
+
+        //public int GetAge()
+        //{
+        //    return age;
+        //}
+
+        //public void SetAge(int age)
+        //{
+        //    this.age = age;
+        //}
+
+        //public int Age
+        //{
+        //    set { age = value; }
+        //    get { return age; }
+        //}
+
+        public int Age
+        {
+            set => age = value;
+            get => age;
+        }
+
         public string Print()
         {
-            return $"Name: {name}, Age: {age}";
+            return $"Name: {name}, Age: {age}, Location:{location}";
         }
     }
 }
