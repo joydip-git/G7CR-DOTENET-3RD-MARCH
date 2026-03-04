@@ -84,5 +84,28 @@ class CalculationResult{
 	public int GetResult()=> result;
 }
 
+segregation of concerns principle
+
+Main(){
+ C.WL(CalculateSalary(100,200,300))
+}
+static decimal CalculateSalary(decimal basic, decimal da, decimal hra)
+{
+   ret	.....
+}
+
+
+static class:
+	a class with all static members and NO instance members and the class itself is static. this type of classes are known as "Utility classes" too.
+
+
+
+
+
+
+
+
+
+
 
 

@@ -8,8 +8,9 @@ G7CR.DotNet.PayRollApp
 
 applications:
 -----------------------
-G7CR.DotNet.PayRollApp.PayRollUserInterface -> executable (console) app
 G7CR.DotNet.PayRollApp.Models -> library app
+G7CR.DotNet.PayRollApp.PayRollUserInterface -> executable (console) app
+
 
 1. create a library application to create Employee class
 Employee:	
@@ -22,7 +23,7 @@ Employee:
 
 	Note: 
 	a. the "id" should be set only once [id is readonly]
-	b. the "totalpay", should not be allowed to be set from outside the class scope. it will set only by the method to calulate total payment.
+	b. the "totalpay", should not be allowed to be set from outside the class scope. it will set only by the method to calculate total payment.
 
 2. Create the client (console) application (in the same solution).
 3. Add reference os the libray application with employee class code, from the client application.
