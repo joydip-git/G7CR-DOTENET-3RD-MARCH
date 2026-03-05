@@ -32,3 +32,58 @@ class Some
 
 	public Some(int x, int y) {this.x = x; this.y = y;}
 }
+
+
+
+inheritance
+----------------------
+
+class Device{}
+class Laptop: Device{}
+
+child class's accessibility can be same as that of the base class or less than the base class. Can't be more than the base class.
+
+base class	derived class
+---------------------------------
+internal	internal (can't be public)
+public		internal or public
+
+
+single-level (A <- B)
+multi-level (A <- B <- C)
+multiple (A, B <- C) => C# does not support the multiple inheritance of class
+huybrid
+
+class A{ 
+	public:
+		string print(){
+
+		}
+}
+
+class B{ 
+	public:
+		string print(){
+
+		}
+}
+
+class C: public A, public B{ 
+		
+}
+
+C obj= new C();
+obj.print();
+
+constructor execution sequence:
+-----------------------------------
+during the creation of a child class object, constructors from both parent and child gets invoked
+	- by default, default constructor of base class is executed first
+	- then the constructor of the child class (whichever you called) is executed
+
+constructor execution sequence: calling base class's constructor explicitly
+-----------------------------------------------------------------------------
+you can explicitly invoke a constructor of a base class from the constructor fo a child class by using "base" keyword
+
+
+

@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\bin\Debug\net9.0\InheritanceDemo.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\bin\Debug\net9.0\InheritanceDemo.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\bin\Debug\net9.0\InheritanceDemo.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\bin\Debug\net9.0\InheritanceDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\bin\Debug\net9.0\InheritanceDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\InheritanceDemo.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\InheritanceDemo.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\InheritanceDemo.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\InheritanceDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\refint\InheritanceDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\InheritanceDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\InheritanceDemo.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\InheritanceDemo\InheritanceDemo\obj\Debug\net9.0\ref\InheritanceDemo.dll
