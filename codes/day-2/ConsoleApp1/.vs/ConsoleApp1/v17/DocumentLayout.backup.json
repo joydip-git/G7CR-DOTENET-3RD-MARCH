@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FBB84D5-A560-40B1-A924-3B10957F1994}|ConsoleApp1\\ConsoleApp1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-2\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FBB84D5-A560-40B1-A924-3B10957F1994}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0062CD04-A40F-4B2A-91CC-0712F16D7DA9}|EmpLib\\EmpLib.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-2\\consoleapp1\\emplib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0062CD04-A40F-4B2A-91CC-0712F16D7DA9}|EmpLib\\EmpLib.csproj|solutionrelative:emplib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBB84D5-A560-40B1-A924-3B10957F1994}|ConsoleApp1\\ConsoleApp1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-2\\consoleapp1\\consoleapp1\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBB84D5-A560-40B1-A924-3B10957F1994}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\ConsoleApp1\\EmpLib\\Class1.cs",
+              "RelativeDocumentMoniker": "EmpLib\\Class1.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\ConsoleApp1\\EmpLib\\Class1.cs",
+              "RelativeToolTip": "EmpLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:34:41.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\ConsoleApp1\\ConsoleApp1\\Emp.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Emp.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\ConsoleApp1\\ConsoleApp1\\Emp.cs",
+              "RelativeToolTip": "ConsoleApp1\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:32:55.236Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T10:25:22.471Z",
               "EditorCaption": ""

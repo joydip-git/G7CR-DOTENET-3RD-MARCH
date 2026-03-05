@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\Records.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\Records.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\Records.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\Records.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\bin\Debug\net9.0\Records.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\bin\Debug\net9.0\Records.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\bin\Debug\net9.0\Records.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\bin\Debug\net9.0\Records.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\bin\Debug\net9.0\Records.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\Records.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\refint\Records.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\Records.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\Records.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-3\Records\Records\obj\Debug\net9.0\ref\Records.dll

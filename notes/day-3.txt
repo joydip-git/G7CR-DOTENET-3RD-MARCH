@@ -1,0 +1,34 @@
+if in a class you have NOT written any constructor explicitly [neither default nor parameterized], then default constructor will be supplied
+
+class Sample{}
+
+if in a class you have written a parameterized constructor, then default constructor will NOT be supplied
+
+class Sample
+{
+	string data;
+	public Sample(string data) => this.data = data;
+}
+
+primary constructor:
+	if the class has one and only one parameterized constructor and a series of data members that are assigned by that constructor, in that case you write the above code as the following:
+
+class Sample(string data)
+{
+	//string data;
+	//public Sample(string data) => this.data = data;
+}
+
+
+
+class Some
+{
+	int x;
+	int y;
+
+	public Some(){}
+
+	public Some(int x) => this.x = x;
+
+	public Some(int x, int y) {this.x = x; this.y = y;}
+}
