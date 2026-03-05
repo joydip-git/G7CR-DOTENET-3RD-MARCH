@@ -41,7 +41,7 @@ enhancement-1:
 ----------------------
 create two child classes of Employee class: Developer and Hr in the same library application
 
-Develeoper class:
+Developer class:
 	data: name, id, basicpay, dapay, hrapay, totalpay and incentivepay
 	method: calculate the total salary (add the basic, da, hra and incentive)
 		args: None
