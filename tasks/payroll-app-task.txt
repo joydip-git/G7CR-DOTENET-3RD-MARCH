@@ -39,13 +39,11 @@ Note: try to use logic segregation through multiple classes
 
 enhancement-1:
 ----------------------
-enhancement-2:
-------------------
 create two child classes of Employee class: Developer and Hr in the same library application
 
 Develeoper class:
 	data: name, id, basicpay, dapay, hrapay, totalpay and incentivepay
-	method: override the base clas method to calculate the total salary (add the basic, da, hra and incentive)
+	method: calculate the total salary (add the basic, da, hra and incentive)
 		args: None
 		return: void
 	constructors: default and parameterized
@@ -53,7 +51,7 @@ Develeoper class:
 
 Hr class:
 	data: name, id, basicpay, dapay, hrapay, totalpay and gratuitypay
-	method: override the base clas method to calculate the total salary (add the basic, da, hra and gratuity)
+	method: calculate the total salary (add the basic, da, hra and gratuity)
 		args: None
 		return: void
 	constructors: default and parameterized
