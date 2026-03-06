@@ -1,0 +1,14 @@
+create an application which will be used to find out which person is outstanding and print their information only.
+
+there are two types of person - professor and student.
+a professor has two attributes: name of the professor and how many books have been published by the professor.
+similarly a student has two attributes: name and how much marks that student has scored in an exam.
+a professor is considered outstanding if that professor has published minimum 5 books and a student is considered outstanding if that student has scored minimum 85 in the assessment.
+
+create minimum one objects of each student and professor and print ONLY those professor/student's information (name and extra) who is/are outstanding
+
+Note: 
+apart from data members, constructors and properties in each of the two classes, you also have to create 
+	- a method which is used to find out whether the entity is outstanding or not
+	- a method to return information about that entity [which includes name and number of books published for professor and name and marks for student]
+
