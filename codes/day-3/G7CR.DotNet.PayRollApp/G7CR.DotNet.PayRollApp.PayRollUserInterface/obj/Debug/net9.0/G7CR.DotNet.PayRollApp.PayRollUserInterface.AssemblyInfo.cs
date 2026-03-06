@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("G7CR.DotNet.PayRollApp.PayRollUserInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dabdd6fe9aad12b7e428302afbc9811653463f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67efb0058cab789f41142ecc420588ac2ea9adb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("G7CR.DotNet.PayRollApp.PayRollUserInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("G7CR.DotNet.PayRollApp.PayRollUserInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

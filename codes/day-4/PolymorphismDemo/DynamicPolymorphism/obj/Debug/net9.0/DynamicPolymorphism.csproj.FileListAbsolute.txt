@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\bin\Debug\net9.0\DynamicPolymorphism.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\bin\Debug\net9.0\DynamicPolymorphism.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\bin\Debug\net9.0\DynamicPolymorphism.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\bin\Debug\net9.0\DynamicPolymorphism.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\bin\Debug\net9.0\DynamicPolymorphism.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\DynamicPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\DynamicPolymorphism.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\DynamicPolymorphism.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\DynamicPolymorphism.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\DynamicPolymorphism.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\DynamicPolymorphism.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\refint\DynamicPolymorphism.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\DynamicPolymorphism.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\DynamicPolymorphism.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\DynamicPolymorphism\obj\Debug\net9.0\ref\DynamicPolymorphism.dll

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-3\\G7CR.DotNet.PayRollApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{177BFFED-CAC1-4B85-9A6F-CF65768C8B4B}|G7CR.DotNet.PayRollApp.PayRollUserInterface\\G7CR.DotNet.PayRollApp.PayRollUserInterface.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-3\\g7cr.dotnet.payrollapp\\g7cr.dotnet.payrollapp.payrolluserinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BFFED-CAC1-4B85-9A6F-CF65768C8B4B}|G7CR.DotNet.PayRollApp.PayRollUserInterface\\G7CR.DotNet.PayRollApp.PayRollUserInterface.csproj|solutionrelative:g7cr.dotnet.payrollapp.payrolluserinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34079AA0-ED54-4453-9004-8C506A02268D}|G7CR.DotNet.PayRollApp.Models\\G7CR.DotNet.PayRollApp.Models.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-3\\g7cr.dotnet.payrollapp\\g7cr.dotnet.payrollapp.models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34079AA0-ED54-4453-9004-8C506A02268D}|G7CR.DotNet.PayRollApp.Models\\G7CR.DotNet.PayRollApp.Models.csproj|solutionrelative:g7cr.dotnet.payrollapp.models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{177BFFED-CAC1-4B85-9A6F-CF65768C8B4B}|G7CR.DotNet.PayRollApp.PayRollUserInterface\\G7CR.DotNet.PayRollApp.PayRollUserInterface.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-3\\g7cr.dotnet.payrollapp\\g7cr.dotnet.payrollapp.payrolluserinterface\\utility\\employeeutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{177BFFED-CAC1-4B85-9A6F-CF65768C8B4B}|G7CR.DotNet.PayRollApp.PayRollUserInterface\\G7CR.DotNet.PayRollApp.PayRollUserInterface.csproj|solutionrelative:g7cr.dotnet.payrollapp.payrolluserinterface\\utility\\employeeutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{177BFFED-CAC1-4B85-9A6F-CF65768C8B4B}|G7CR.DotNet.PayRollApp.PayRollUserInterface\\G7CR.DotNet.PayRollApp.PayRollUserInterface.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-3\\g7cr.dotnet.payrollapp\\g7cr.dotnet.payrollapp.payrolluserinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{177BFFED-CAC1-4B85-9A6F-CF65768C8B4B}|G7CR.DotNet.PayRollApp.PayRollUserInterface\\G7CR.DotNet.PayRollApp.PayRollUserInterface.csproj|solutionrelative:g7cr.dotnet.payrollapp.payrolluserinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34079AA0-ED54-4453-9004-8C506A02268D}|G7CR.DotNet.PayRollApp.Models\\G7CR.DotNet.PayRollApp.Models.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-3\\g7cr.dotnet.payrollapp\\g7cr.dotnet.payrollapp.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeUtility.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-3\\G7CR.DotNet.PayRollApp\\G7CR.DotNet.PayRollApp.PayRollUserInterface\\Utility\\EmployeeUtility.cs",
               "RelativeDocumentMoniker": "G7CR.DotNet.PayRollApp.PayRollUserInterface\\Utility\\EmployeeUtility.cs",
@@ -42,18 +42,17 @@
               "RelativeToolTip": "G7CR.DotNet.PayRollApp.PayRollUserInterface\\Utility\\EmployeeUtility.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T10:57:18.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T10:57:18.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-3\\G7CR.DotNet.PayRollApp\\G7CR.DotNet.PayRollApp.PayRollUserInterface\\Program.cs",
               "RelativeDocumentMoniker": "G7CR.DotNet.PayRollApp.PayRollUserInterface\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-3\\G7CR.DotNet.PayRollApp\\G7CR.DotNet.PayRollApp.PayRollUserInterface\\Program.cs",
               "RelativeToolTip": "G7CR.DotNet.PayRollApp.PayRollUserInterface\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAEwDoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T10:56:48.152Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "G7CR.DotNet.PayRollApp.Models\\Employee.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAEwDUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T10:49:17.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T10:49:17.095Z"
             },
             {
               "$type": "Document",
@@ -81,12 +79,11 @@
               "RelativeToolTip": "G7CR.DotNet.PayRollApp.Models\\Hr.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAqwB4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T10:44:37.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T10:44:37.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Developer.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-3\\G7CR.DotNet.PayRollApp\\G7CR.DotNet.PayRollApp.Models\\Developer.cs",
               "RelativeDocumentMoniker": "G7CR.DotNet.PayRollApp.Models\\Developer.cs",

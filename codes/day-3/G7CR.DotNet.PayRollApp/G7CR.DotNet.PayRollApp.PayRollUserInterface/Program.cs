@@ -5,29 +5,7 @@
 using static G7CR.DotNet.PayRollApp.PayRollUserInterface.Utility.EmployeeUtility;
 
 namespace G7CR.DotNet.PayRollApp.PayRollUserInterface
-{
-    class A
-    {
-        string name;
-        public A() { }
-        public A(string name) => this.name = name;
-        public string Name { get => name; set => name = value; }
-    }
-    class B : A
-    {
-        string designation;
-        public B() { }
-
-        public B(string name, string designation) : base(name)
-        {
-            this.designation = designation;
-        }
-
-        public string Designation
-        { 
-            get => designation; set => designation = value; 
-        }
-    }
+{    
     internal class Program
     {
         static void Main(string[] args)

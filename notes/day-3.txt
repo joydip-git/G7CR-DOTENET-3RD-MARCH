@@ -86,4 +86,7 @@ constructor execution sequence: calling base class's constructor explicitly
 you can explicitly invoke a constructor of a base class from the constructor fo a child class by using "base" keyword
 
 
+method1()
+method2(100)
+
 

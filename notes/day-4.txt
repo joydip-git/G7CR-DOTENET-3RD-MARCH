@@ -1,0 +1,39 @@
+Polymorphism:
+------------------------
+many forms of what?
+
+methods
+operators
+
+A. static or compile time polymorphism:
+	1. Method overloading
+	2. operator overloading
+
+1. Method Overloading:
+------------------------------
+when the high level language source code is converted to IL code by the compiler at that point of time the compiler tries to "bind" a method with the method invocation/call line. Thats' where compiler looks for difference in the method's argument signature.
+
+you can create multiple methods with the same name in a SINGLE CLASS by making a difference in 
+1. number of arguments in a method argument list
+2. data type of arguments in a method argument list
+3. order of arguments in a method argument list
+these methods are known as overloaded methods and this technique is known as method overloading. constructor overloading also is an example of method overloading.
+
+This way a static compiler can differentiate between the multiple methods of the same name and creates an instruction about which method to call.
+during runtime, the runtime s/w simply follows that instruction passed by the compiler about which method to call.
+in this case runtime DOES NOT DECIDE which method to call out many versions of the same method. It's the static COMPILER who decides that.
+
+Note: the overloading does not depend on the return type of the method
+
+2. operator overloading:
+same operator can do different type of operations on the operands based on the data type of the operands.
+you can overload any operator in C# by creating a static method in the type.
+
+
+B. dynamic or run-time polymorphism:
+----------------------------------------------
+in this case runtime DOES DECIDE which method to call out many versions of the same method. It changes the initial decision/instruction passed by the static COMPILER.
+
+in this case inheritance is involved between a base and a child class. The base class has a method which child class can re-use by overriding with new implementation (code), NOT THE SIGNATURE. since the signature of base class and child class methods are SAME, compiler is unable to decide exactly which method to call and decides that by default base class method will be called. But thanks to "virtual" keyword with the base class method and "override" keyword with the same method in child class, runtime, instead of calling the base class method, will ALWAYS call the child class "own" version of the method.
+
+since the methods in base and child have same signature its definitely a polymorphism but decision about which child class method (instead of base class method) will be called is taken during the runtime by the runtime. That's why this polymorphism is called dynamic polymorphism.

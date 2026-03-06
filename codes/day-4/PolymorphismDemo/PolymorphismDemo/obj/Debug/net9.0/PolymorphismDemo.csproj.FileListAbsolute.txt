@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\bin\Debug\net9.0\PolymorphismDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\refint\PolymorphismDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\PolymorphismDemo.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\PolymorphismDemo\PolymorphismDemo\obj\Debug\net9.0\ref\PolymorphismDemo.dll
