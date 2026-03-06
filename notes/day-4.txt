@@ -37,3 +37,16 @@ in this case runtime DOES DECIDE which method to call out many versions of the s
 in this case inheritance is involved between a base and a child class. The base class has a method which child class can re-use by overriding with new implementation (code), NOT THE SIGNATURE. since the signature of base class and child class methods are SAME, compiler is unable to decide exactly which method to call and decides that by default base class method will be called. But thanks to "virtual" keyword with the base class method and "override" keyword with the same method in child class, runtime, instead of calling the base class method, will ALWAYS call the child class "own" version of the method.
 
 since the methods in base and child have same signature its definitely a polymorphism but decision about which child class method (instead of base class method) will be called is taken during the runtime by the runtime. That's why this polymorphism is called dynamic polymorphism.
+
+
+abstract class and methods/properties:
+---------------------------------------------
+an abstract method or property is the one which does not have any implementation but only definition. the method/property MUST be declared with abstract keyword.
+As a result, the class MUST also be declared with abstract keyword.
+Hence, a class with at least one abstract member (method/property) is known as abstract class
+abstract class can have non-abstract members such as data members, constructors, properties and other non-abstract methods
+you CAN'T create an instance of an abstract class (to prevent you from calling the abstract member)
+abstract class's reference variable can be declared which can store reference of its child class
+abstract class helps you with hiding the actual implementation and provide loose coupling.
+abstract class forces every child class to implement its abstract members. you have to implement the abstract class's members in the child class by using "override" keyword, because abstract members are by default "virtual".
+If any child class does not implement abstract base class's member(s) then the child class also must be declared with "abstract" keyword 

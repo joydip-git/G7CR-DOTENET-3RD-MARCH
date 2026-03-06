@@ -1,0 +1,12 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\bin\Debug\net9.0\DataAccessLibrary.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\bin\Debug\net9.0\DataAccessLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\bin\Debug\net9.0\DataAccessLibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\obj\Debug\net9.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\obj\Debug\net9.0\DataAccessLibrary.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\obj\Debug\net9.0\DataAccessLibrary.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\obj\Debug\net9.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\obj\Debug\net9.0\DataAccessLibrary.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\obj\Debug\net9.0\DataAccessLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\obj\Debug\net9.0\refint\DataAccessLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\obj\Debug\net9.0\DataAccessLibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\AbstractDemo\DataAccessLibrary\obj\Debug\net9.0\ref\DataAccessLibrary.dll
