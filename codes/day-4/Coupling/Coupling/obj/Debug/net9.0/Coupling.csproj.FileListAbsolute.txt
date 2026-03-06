@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\bin\Debug\net9.0\Coupling.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\bin\Debug\net9.0\Coupling.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\bin\Debug\net9.0\Coupling.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\bin\Debug\net9.0\Coupling.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\bin\Debug\net9.0\Coupling.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\Coupling.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\Coupling.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\Coupling.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\Coupling.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\Coupling.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\Coupling.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\refint\Coupling.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\Coupling.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\Coupling.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-4\Coupling\Coupling\obj\Debug\net9.0\ref\Coupling.dll
