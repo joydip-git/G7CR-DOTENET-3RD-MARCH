@@ -49,4 +49,38 @@ you CAN'T create an instance of an abstract class (to prevent you from calling t
 abstract class's reference variable can be declared which can store reference of its child class
 abstract class helps you with hiding the actual implementation and provide loose coupling.
 abstract class forces every child class to implement its abstract members. you have to implement the abstract class's members in the child class by using "override" keyword, because abstract members are by default "virtual".
-If any child class does not implement abstract base class's member(s) then the child class also must be declared with "abstract" keyword 
+If any child class does not implement abstract base class's member(s) then the child class also must be declared with "abstract" keyword
+
+interface:
+---------------------
+an pure abstract class which is a collection of ONLY abstract methods/properties
+
+the interface must be declared with "interface" keyword
+
+all members must be abstract
+
+all members of interface are by default public and abstract. no need to use "public" access specifier and "abstract" access modifier with them.
+
+you can't create instance of an interface, but you can declare a reference of variable of interface to store refernce a child class instance which implemented the interface
+
+when a class implements an interface the class must implement all the members of an interface. no need to use override keyword explicitly.
+
+if a class does not implement even a single member of the interface, then the class becomes abstract and the class must be declared with abstract keyword and the method also have to be declared inside the class again but this time with public and abstract keywords.
+
+you can implement multiple interfaces in a class
+Note: if any class inherits from a base class and also implements multiple interfaces, then first the name of the class and then the names of the interfaces must be mentioned
+
+interface IAccountOperations{
+	Account OpenAccount(string name);
+	string CloseAccount(int accNo);
+}
+interface ITransactionOperations{
+	double CreditAmount(double amount);
+	double DeditAmount(double amount);
+}
+
+which one to choose for "abstractness" and "loose coupling" - abstract class or interface???
+when abstract class and interfaces are used????
+
+
+ 

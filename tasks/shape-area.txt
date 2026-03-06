@@ -1,0 +1,39 @@
+create an application which calculates area of different shapes
+
+two shapes:
+Circle:
+	attributes: radius of the circle
+	functionality: calculates the area of the circle and returns the calculated area
+
+Triangle:
+	attributes: base of triangle, height of triangle
+	functionality: calculates the area of the triangle and returns the calculated area
+
+A. Create a library application:
+1. create classes for those two types in a separate library application
+2. they must have necessary default and parameterized constructors, data members, properties and methods
+
+B. create a console application:
+1. in main method of an executable application, create objects of these two types
+	a. print menu for user so that user can choose which type of shape object to be created
+	b. based on the choice you create that type of object	
+	d. calculate the area of the shape by calling the method and print the return value
+
+
+sample output:
+--------------------------
+1. Circle 2. Triangle
+whic type of shape[1/2]: 1
+enter radius: 12
+area of circle is: <area>
+
+would you like to continue[y/Y/n/N]:y
+
+1. Circle 2. Triangle
+whic type of shape[1/2]: 2
+enter base: 12
+enter height: 7
+area of triangle is: 42
+
+would you like to continue[y/Y/n/N]:n
+...
