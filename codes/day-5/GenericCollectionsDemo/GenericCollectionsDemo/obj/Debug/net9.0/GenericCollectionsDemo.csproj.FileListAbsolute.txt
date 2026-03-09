@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\bin\Debug\net9.0\GenericCollectionsDemo.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\bin\Debug\net9.0\GenericCollectionsDemo.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\bin\Debug\net9.0\GenericCollectionsDemo.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\bin\Debug\net9.0\GenericCollectionsDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\bin\Debug\net9.0\GenericCollectionsDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\GenericCollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\GenericCollectionsDemo.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\GenericCollectionsDemo.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\GenericCollectionsDemo.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\GenericCollectionsDemo.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\GenericCollectionsDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\refint\GenericCollectionsDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\GenericCollectionsDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\GenericCollectionsDemo.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericCollectionsDemo\GenericCollectionsDemo\obj\Debug\net9.0\ref\GenericCollectionsDemo.dll

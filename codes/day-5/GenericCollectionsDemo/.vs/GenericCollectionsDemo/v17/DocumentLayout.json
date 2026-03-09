@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\GenericCollectionsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D1E9B7-DD74-4566-9A4C-63F4B7C5B023}|GenericCollectionsDemo\\GenericCollectionsDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-5\\genericcollectionsdemo\\genericcollectionsdemo\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D1E9B7-DD74-4566-9A4C-63F4B7C5B023}|GenericCollectionsDemo\\GenericCollectionsDemo.csproj|solutionrelative:genericcollectionsdemo\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D1E9B7-DD74-4566-9A4C-63F4B7C5B023}|GenericCollectionsDemo\\GenericCollectionsDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-5\\genericcollectionsdemo\\genericcollectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D1E9B7-DD74-4566-9A4C-63F4B7C5B023}|GenericCollectionsDemo\\GenericCollectionsDemo.csproj|solutionrelative:genericcollectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\GenericCollectionsDemo\\GenericCollectionsDemo\\MyList.cs",
+              "RelativeDocumentMoniker": "GenericCollectionsDemo\\MyList.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\GenericCollectionsDemo\\GenericCollectionsDemo\\MyList.cs",
+              "RelativeToolTip": "GenericCollectionsDemo\\MyList.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:11:28.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\GenericCollectionsDemo\\GenericCollectionsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCollectionsDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\GenericCollectionsDemo\\GenericCollectionsDemo\\Program.cs",
+              "RelativeToolTip": "GenericCollectionsDemo\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA0wDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:01:29.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

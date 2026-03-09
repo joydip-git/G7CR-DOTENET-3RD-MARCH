@@ -22,3 +22,42 @@ method
 class
 interface
 delegate
+
+
+static void FilterValues<T>(T[] elements){
+}
+
+int[] numbers = [1,2,3,4];
+FilterValues<int>(numbers);
+
+string[] names = [.....];
+FilterValues<string>(names)
+
+
+interface IOps<T>
+{
+	T[] FilterValues(T[] elements);
+}
+class Ops<T>:IOps<T> where T:struct
+{
+	public T[] FilterValues(T[] elements)
+	{
+		type(T)
+	}
+}
+
+
+List -> ArrayList<T>
+
+IEnumerable<T>, ICollection<T>, IList<T> -> List<T>
+
+interface IEnumerable<T>{
+	IEnumerator<T> GetEnumerator();
+}
+
+
+
+
+
+
+

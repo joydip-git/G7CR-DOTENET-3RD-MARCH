@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\bin\Debug\net9.0\GenericDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\refint\GenericDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\GenericDemo.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\GenericDemo\GenericDemo\obj\Debug\net9.0\ref\GenericDemo.dll
