@@ -15,3 +15,10 @@ decimal? salary = null/1000.00M;
 
 if(salary.HasValue)
 	cwl(salary/salary.Value);
+
+generic types:
+----------------------
+method
+class
+interface
+delegate
