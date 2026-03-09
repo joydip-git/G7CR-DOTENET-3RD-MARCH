@@ -78,6 +78,26 @@ interface IEnumerable<T>{
 ----------------------------------------------------------------------
 			3	1	4
 
+Comparison:
+A. Internalization of Comparision:
+
+writing the logic of comparsion betwen two instances of same entiy
+it is achieved by implementing the following interface in the entity
+	interface Comparable{
+		int CompareTo(object obj)
+	} 
+or
+	interface Comparable<T>{
+		int CompareTo(T obj)
+	}
+	
+	if the return value
+		a. >0 -> first is greater than the second
+		b. <0 -> second is greater than the first
+		c. ==0-> first and second are same
+
+collection classes, such as List<T>, has a method Sort() which requires the IComparable interface to be implemented in the entity.
+
 
 
 

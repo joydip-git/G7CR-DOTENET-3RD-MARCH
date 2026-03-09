@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\bin\Debug\net9.0\ListPractice.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\bin\Debug\net9.0\ListPractice.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\bin\Debug\net9.0\ListPractice.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\bin\Debug\net9.0\ListPractice.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\bin\Debug\net9.0\ListPractice.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\ListPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\ListPractice.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\ListPractice.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\ListPractice.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\ListPractice.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\ListPractice.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\refint\ListPractice.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\ListPractice.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\ListPractice.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\ListPractice\ListPractice\obj\Debug\net9.0\ref\ListPractice.dll

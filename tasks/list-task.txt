@@ -1,3 +1,5 @@
+Practice-1:
+-------------------
 following is an entity with certain attributes
 Person 
 	-> first name
@@ -16,3 +18,21 @@ b. sort them by user choice
 	2. last name
 	3. location
 	4. mobile no
+
+Practice-2:
+------------------------
+an application to sort the customers based on user choice
+
+Create a library application with a class 
+		name: Customer
+		a. attributes - id, name, location, mobile
+		b. necessary default and parameterized constructor
+		c. properties 
+
+Create an executable application and in its main method...
+	1. create an collection of Customers
+	2. sort the Customers collection based on choice from user
+		1 => sort by customer id
+		2 => sort by customer name
+		3 => sort by location
+		4 => sort by mobile
