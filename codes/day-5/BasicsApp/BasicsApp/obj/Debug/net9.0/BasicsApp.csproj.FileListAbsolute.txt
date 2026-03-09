@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\bin\Debug\net9.0\BasicsApp.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\bin\Debug\net9.0\BasicsApp.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\bin\Debug\net9.0\BasicsApp.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\bin\Debug\net9.0\BasicsApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\bin\Debug\net9.0\BasicsApp.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\BasicsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\BasicsApp.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\BasicsApp.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\BasicsApp.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\BasicsApp.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\BasicsApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\refint\BasicsApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\BasicsApp.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\BasicsApp.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\BasicsApp\BasicsApp\obj\Debug\net9.0\ref\BasicsApp.dll

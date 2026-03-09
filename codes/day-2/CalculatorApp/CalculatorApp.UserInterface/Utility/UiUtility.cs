@@ -40,7 +40,7 @@ namespace CalculatorApp.UserInterface.Utility
         public static CalculationResult Calculate(int choice, int first, int second)
         {
             Calculator calculator = new();
-            int result;
+            Nullable<int> result;
             //string resultMessage = null;
             string nameOfMethod;
             string symbol;
@@ -71,7 +71,7 @@ namespace CalculatorApp.UserInterface.Utility
                     break;
 
                 default:
-                    result = 0;
+                    result = null;
                     nameOfMethod = null;
                     symbol = null;
                     break;

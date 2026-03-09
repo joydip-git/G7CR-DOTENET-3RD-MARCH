@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\bin\Debug\net9.0\Arrays_NullableTypes_Operators.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\bin\Debug\net9.0\Arrays_NullableTypes_Operators.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\bin\Debug\net9.0\Arrays_NullableTypes_Operators.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\bin\Debug\net9.0\Arrays_NullableTypes_Operators.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\bin\Debug\net9.0\Arrays_NullableTypes_Operators.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\Arrays_NullableTypes_Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\Arrays_NullableTypes_Operators.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\Arrays_NullableTypes_Operators.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\Arrays_NullableTypes_Operators.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\Arrays_NullableTypes_Operators.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\Arrays_NullableTypes_Operators.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\refint\Arrays_NullableTypes_Operators.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\Arrays_NullableTypes_Operators.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\Arrays_NullableTypes_Operators.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-5\Arrays_NullableTypes_Operators\Arrays_NullableTypes_Operators\obj\Debug\net9.0\ref\Arrays_NullableTypes_Operators.dll

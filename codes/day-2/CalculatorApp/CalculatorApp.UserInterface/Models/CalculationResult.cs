@@ -19,5 +19,5 @@
         public string GetOpertaorSymbol() => operatorSymbol;
     }
     */
-    record CalculationResult(int Result, string OperatorSymbol, string MethodName = null);
+    record CalculationResult(int? Result, string OperatorSymbol, string MethodName = null);
 }

@@ -1,0 +1,17 @@
+id(pk,int, not nullable)	name(varchar(50))	salary(decimal(18,2),nullable)
+--------------------------------------------------------------------------------------
+1				anil			1000.00
+2				sunil			20000.00
+3				Joydip			NULL
+
+
+int id = 3
+string name = joydip
+decimal salary = null; <-- not possible
+
+Nullable<decimal> salary = null/1000.00M;
+or
+decimal? salary = null/1000.00M;
+
+if(salary.HasValue)
+	cwl(salary/salary.Value);

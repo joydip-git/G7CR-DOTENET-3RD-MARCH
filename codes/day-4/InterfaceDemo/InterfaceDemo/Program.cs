@@ -2,6 +2,11 @@
 
 namespace InterfaceDemo
 {
+    interface IAddition
+    {
+        int Add(int x, int y);
+        int Add(int x, int y, int z);
+    }
     record Account(string Name, int AccountNumber);
 
     interface IAccountOperations

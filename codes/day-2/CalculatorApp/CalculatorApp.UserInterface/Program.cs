@@ -29,9 +29,11 @@ namespace CalculatorApp.UserInterface
             {
                 Console.WriteLine("Due to invalid choice no operation was performed...");
             }
-            else
+            else if (res.Result.HasValue)
                 //Console.WriteLine($"{res.GetMethodName()}: {first} {res.GetOpertaorSymbol()} {second} = {res.GetResult()}");
                 Console.WriteLine($"{res.MethodName}: {first} {res.OperatorSymbol} {second} = {res.Result}");
+            else
+                Console.WriteLine("No result available");
         }
     }
 }
