@@ -55,6 +55,30 @@ interface IEnumerable<T>{
 	IEnumerator<T> GetEnumerator();
 }
 
+1. array
+2. nullable value type(int? value=null or Nullable<int> value=null), nullable reference type (strig? name=null), null propagation/conditional operator (?.), null coalesceing operator (??, ??=)
+3. generic 
+	a. method
+	b. class
+	c. interface
+4. generic with constraint (where clause)
+5. generic collection classes and interfaces
+	a. interfaces: IEnumerable<T>, ICollection<T>, IList<T> etc.
+	b. classes: List<T>
+
+
+
+
+
+1	34	23
+4	3	12
+5	7	6
+
+0	1	2	3	4	5	6	7	8
+----------------------------------------------------------------------
+			3	1	4
+
+
 
 
 

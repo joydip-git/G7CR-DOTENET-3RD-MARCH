@@ -2,7 +2,7 @@
 
 namespace GenericCollectionsDemo
 {
-    internal class MyList<T> : IEnumerable<T>
+    internal class MyList<T> : IEnumerable<T> //,ICollection<T>
     {
         T[] items = new T[4];
         int position = 0;

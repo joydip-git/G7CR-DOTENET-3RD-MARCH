@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            //Console.Write("enter size: ");
+            //int size = int.Parse(Console.ReadLine() ?? "4");
+
             //List<int> numbers = new List<int>();
             List<int> numbers = [];
             numbers.Add(12); //0
@@ -55,10 +58,21 @@
             items.Add(21);
             items.Add(34);
 
+            //for (int i = 0; i < items.Count; i++)
+            //{
+            //    Console.WriteLine(items[i]);
+            //}
+
             foreach (int item in items)
             {
                 Console.WriteLine(item);
             }
+
+            //IEnumerator<int> enumerator1 = items.GetEnumerator();
+            //while (enumerator1.MoveNext())
+            //{
+            //    Console.WriteLine(enumerator1.Current);
+            //}
         }
     }
 }

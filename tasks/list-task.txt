@@ -1,0 +1,18 @@
+following is an entity with certain attributes
+Person 
+	-> first name
+	-> last name
+	-> location
+	-> mobile no
+
+
+create a list of person type
+add some person class objects in the list
+a. sort them by default by last name
+
+do this later.....
+b. sort them by user choice
+	1. first name
+	2. last name
+	3. location
+	4. mobile no
