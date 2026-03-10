@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\bin\Debug\net9.0\WordFrequencyCountApp.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\bin\Debug\net9.0\WordFrequencyCountApp.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\bin\Debug\net9.0\WordFrequencyCountApp.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\bin\Debug\net9.0\WordFrequencyCountApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\bin\Debug\net9.0\WordFrequencyCountApp.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\WordFrequencyCountApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\WordFrequencyCountApp.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\WordFrequencyCountApp.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\WordFrequencyCountApp.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\WordFrequencyCountApp.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\WordFrequencyCountApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\refint\WordFrequencyCountApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\WordFrequencyCountApp.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\WordFrequencyCountApp.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\WordFrequencyCountApp\WordFrequencyCountApp\obj\Debug\net9.0\ref\WordFrequencyCountApp.dll

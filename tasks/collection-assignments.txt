@@ -6,7 +6,7 @@ To choose appropriate collection class for storing key/value pair.
 
 1.2. Problem Statement
 Write a program to create a list of words present in a sentence passed from command line. The list also contain count of the appearance of each word in that sentence. The program has to display the words in sorted order and its frequency.
-If the input is: “DotNet is technology and DotNet is interoperable and DotNet is simple”.
+If the input is: “DotNet is technology and DotNet is interoperable and DotNet is simple.”.
 Output should be:  
 and: 2
 DotNet: 3
