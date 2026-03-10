@@ -1,7 +1,10 @@
 ﻿namespace ListPractice
 {
-    internal class Profesor : IComparable<Profesor>
+    internal class Profesor(int id) : IComparable<Profesor>
     {
+        private readonly int id = id;
+        public int Id => id;
+
         //public Profesor() { }
         //public Profesor(string firstName, string lastName, string college, long mobileNo)
         //{

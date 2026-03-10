@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\NonGenericCollections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{169352D9-AE69-4EAB-8C92-4C52BD9949AD}|NonGenericCollections\\NonGenericCollections.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-6\\nongenericcollections\\nongenericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169352D9-AE69-4EAB-8C92-4C52BD9949AD}|NonGenericCollections\\NonGenericCollections.csproj|solutionrelative:nongenericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169352D9-AE69-4EAB-8C92-4C52BD9949AD}|NonGenericCollections\\NonGenericCollections.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-6\\nongenericcollections\\nongenericcollections\\nongenericcollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{169352D9-AE69-4EAB-8C92-4C52BD9949AD}|NonGenericCollections\\NonGenericCollections.csproj|solutionrelative:nongenericcollections\\nongenericcollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NonGenericCollections",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\NonGenericCollections\\NonGenericCollections\\NonGenericCollections.csproj",
+              "RelativeDocumentMoniker": "NonGenericCollections\\NonGenericCollections.csproj",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\NonGenericCollections\\NonGenericCollections\\NonGenericCollections.csproj",
+              "RelativeToolTip": "NonGenericCollections\\NonGenericCollections.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T05:59:08.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\NonGenericCollections\\NonGenericCollections\\Program.cs",
+              "RelativeDocumentMoniker": "NonGenericCollections\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\NonGenericCollections\\NonGenericCollections\\Program.cs",
+              "RelativeToolTip": "NonGenericCollections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:48:36.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

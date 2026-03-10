@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\bin\Debug\net9.0\NonGenericCollections.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\bin\Debug\net9.0\NonGenericCollections.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\bin\Debug\net9.0\NonGenericCollections.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\bin\Debug\net9.0\NonGenericCollections.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\bin\Debug\net9.0\NonGenericCollections.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\NonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\NonGenericCollections.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\NonGenericCollections.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\NonGenericCollections.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\NonGenericCollections.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\NonGenericCollections.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\refint\NonGenericCollections.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\NonGenericCollections.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\NonGenericCollections.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\NonGenericCollections\NonGenericCollections\obj\Debug\net9.0\ref\NonGenericCollections.dll

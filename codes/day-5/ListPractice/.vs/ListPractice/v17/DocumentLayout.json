@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\ListPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A6CD079-0D7A-484A-A1AF-D208CD6F8F8F}|ListPractice\\ListPractice.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-5\\listpractice\\listpractice\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A6CD079-0D7A-484A-A1AF-D208CD6F8F8F}|ListPractice\\ListPractice.csproj|solutionrelative:listpractice\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A6CD079-0D7A-484A-A1AF-D208CD6F8F8F}|ListPractice\\ListPractice.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-5\\listpractice\\listpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A6CD079-0D7A-484A-A1AF-D208CD6F8F8F}|ListPractice\\ListPractice.csproj|solutionrelative:listpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6CD079-0D7A-484A-A1AF-D208CD6F8F8F}|ListPractice\\ListPractice.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-5\\listpractice\\listpractice\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6CD079-0D7A-484A-A1AF-D208CD6F8F8F}|ListPractice\\ListPractice.csproj|solutionrelative:listpractice\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A6CD079-0D7A-484A-A1AF-D208CD6F8F8F}|ListPractice\\ListPractice.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-5\\listpractice\\listpractice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Profesor.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\ListPractice\\ListPractice\\Profesor.cs",
               "RelativeDocumentMoniker": "ListPractice\\Profesor.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\ListPractice\\ListPractice\\Profesor.cs",
               "RelativeToolTip": "ListPractice\\Profesor.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBQAAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T10:35:12.928Z",
               "EditorCaption": ""
@@ -47,18 +47,17 @@
               "RelativeToolTip": "ListPractice\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T10:16:03.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T10:16:03.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\ListPractice\\ListPractice\\Program.cs",
               "RelativeDocumentMoniker": "ListPractice\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-5\\ListPractice\\ListPractice\\Program.cs",
               "RelativeToolTip": "ListPractice\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAUwDIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T10:15:43.744Z",
               "EditorCaption": ""

@@ -1,14 +1,23 @@
 ﻿namespace ListPractice
 {
+    class ProfessorComparer : IComparer<Profesor>
+    {
+        public int Compare(Profesor? x, Profesor? y)
+        {
+            return 0;
+        }
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
             //object initializer
-            Profesor anilProfessor = new Profesor { FirstName = "anil", LastName = "gupta", College = "AMC", MobileNo = 9090909091 };
-            Profesor sunilProfessor = new Profesor { FirstName = "sunil", LastName = "mishra", College = "St. Johns", MobileNo = 9090909090 };
-            Profesor joydipProfessor = new Profesor { FirstName = "joydip", LastName = "mondal", College = "Christ", MobileNo = 9090909092 };
-
+            Profesor anilProfessor = new(100) { FirstName = "anil", LastName = "gupta", College = "AMC", MobileNo = 9090909091 };
+            Profesor sunilProfessor = new(102) { FirstName = "sunil", LastName = "mishra", College = "St. Johns", MobileNo = 9090909090 };
+            Profesor joydipProfessor = new(101) { FirstName = "joydip", LastName = "mondal", College = "Christ", MobileNo = 9090909092 };
+            ProfessorComparer comp = new();
+            comp.Compare(anilProfessor, sunilProfessor);
+            //anilProfessor.CompareTo(sunilProfessor);
             //anilProfessor.CompareTo(null);
             //anilProfessor.CompareTo(anilProfessor);
 

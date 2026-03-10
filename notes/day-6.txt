@@ -41,3 +41,100 @@ Advantages:
 2. if user wants choice based sorting, then passing the choice inside the Comparer class makes sense and easy to pass
 
 3. it can also do the same job that CompareTo() method is supposed to do also
+
+namespace: System
+--------------------------------
+IComparable and IComparable<T>
+
+namespace: System.Collections [beginning]
+---------------------------------------------
+IEnumerable, ICollection, IList, IComparer, IEnumerator etc.
+
+ArrayList
+Stack
+Queue
+HashTable
+SortedList
+
+Boxing: converting a value type into a reference type
+Unboxing: converting that reference type back into the same value type
+
+namespace: System.Collection.Generic:[2005 - C# 2.0]
+---------------------------------------------------------
+IEnumerable<T>, ICollection<T>, IList<T>, IComparer<T>, IEnumerator<T> etc.
+
+List<T>
+HashSet<T>
+Stack<T>
+Queue<T>
+Dictionary<TKey,TValue>
+SortedList<TKey,TValue>
+
+generic vs. non-generic collections:
+----------------------------------------------
+1. generic collection types help you to avoid unnecessary boxing and unboxing. generic collection types offer faster performance.
+2. generic collection types provides compile time checking about the elements that you add in the collection instance
+3. generic collection classes are easy to sort as the elements are all of same type, whereas non-generic collection classes boxes the different elements into object type, hence sorting them is difficult. you have to make sure that all the elements in a non-generic collection type are similar
+4. there is no collection for unique elements (no duplicate elements allowed) in non-generic types, whereas as part of generic collection types, there is HashSet<T> as the collection of unique elements.
+......
+Note: System.Collections namespace is NOT included in the implicit usings list, whereas System.Collections.Generic is included in that list.
+
+
+hashing
+encryption
+digital signature
+
+function hash (data,key){
+	
+}
+
+2^3 => 8
+
+12 => 123456
+13 => 132546
+1  => 133245
+12 => 123456
+
+Object
+	=> bool Equals(object? obj) 
+	=> int GetHashCode()
+	   
+	=> string ToString()
+	
+
+	=> GetType
+
+class Object{
+	public static bool operator ==(object? obj1, object? obj2){
+		return obj1 == obj2;
+	}
+	public virtual bool Equals(object? obj) {
+		if(obj!=null)
+			return this == obj;
+		else
+			.....	
+	}
+	public virtual int GetHashCode() {
+		return this.GetHashCode();
+	}
+	public virtual string ToString() {
+		Type t = this.GetType();
+		return t.FullName;
+	}
+}
+
+class Person:Object{}
+
+1st hash code = data-1 and seed value (key)
+2nd hash code = data-2 and 1st hash code
+......
+nth hash code = data-n and (n-1)th hash code
+
+
+1037503328
+378553920
+
+
+
+
+
