@@ -36,3 +36,31 @@ Create an executable application and in its main method...
 		2 => sort by customer name
 		3 => sort by location
 		4 => sort by mobile
+
+
+Practice-3:
+------------------------
+an application to sort the products based on user choice
+
+Create a library application with a class 
+		name: Product
+		a. attributes - id, name, price
+		b. necessary default and parameterized constructor
+		c. properties 
+
+Create an executable application and in its main method...
+	1. create an collection of Products
+	2. sort the Products collection based on choice from user
+		1 => sort by product id
+		2 => sort by product name
+		3 => sort by product price
+
+Hint: in the console application for external sorting
+	a. create a separate class
+	b. implement the IComparer<Product> interface and its Compare method
+	c. to pass the choice inside this class, create a property and constructor or an auto property
+	d. write the logic inside the Compare method bazed on the choice and return an integer value from that method
+	e. create an instance of the comparer class and pass the choice through property (using object initializer or via constructor)
+	f. pass that instance to the Sort() method 
+	
+

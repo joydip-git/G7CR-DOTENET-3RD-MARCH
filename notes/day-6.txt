@@ -1,0 +1,43 @@
+Comparison of elements in a List<T>
+
+A. internalization fo sorting:
+
+what:
+Write the logic of sorting inside the class or type itself
+
+way: 
+implement IComparable<T> interface and its abstract method "int CompareTo(T? other)" in the type
+call the Sort() method of the List<T> to get the collection elements sorted
+
+how: 
+Sort() method by default invokes the CompareTo() method on one instance of the type and passe another instance reference as the argument to the CompareTo() method
+
+Note: if the type does not implement the IComparable<T> interface, the Sort() method will throw exception
+
+Disadvantages:
+1. if the author of entity and the user of the entity are not the same the author of the entity has NOT implemented the IComparable<T> interface, then Sort() method will throw exception. the user of the entity has no way to change the source code.
+2. if user wants choice based sorting, then passing the choice inside the entity is complicated as
+	a. the choice is NOT a valid attribute of that entity
+	b. the choice has to be passed every time an entity is created (until and unless you use a static data member for choice)
+
+
+B. Externalization:
+
+what:
+Write the logic of sorting outside the class or type itself through a separate class (can be created by the user of the entity).
+
+way: 
+implement IComparer<T> interface and its abstract method "int Compare(T? x, T? y)" in a separate class
+create an instance of that class (you can pass the choice for sorting too)
+pass that instance while calling the Sort() method to get the collection elements sorted
+
+how: 
+Sort() method henceforth will invoke the Compare() method on that separate class instance and pass two instance of the entity/type to compare, at a time to Compare() method as arguments
+
+
+Advantages:
+1. if the author of entity and the user of the entity are not the same and the author of the entity has NOT implemented the IComparable<T> interface, it is no longer a problem. Because the Sort() now will call the Compare() method of the Comparer class
+
+2. if user wants choice based sorting, then passing the choice inside the Comparer class makes sense and easy to pass
+
+3. it can also do the same job that CompareTo() method is supposed to do also

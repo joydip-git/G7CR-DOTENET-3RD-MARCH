@@ -1,0 +1,12 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\bin\Debug\net9.0\Entities.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\bin\Debug\net9.0\Entities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\bin\Debug\net9.0\Entities.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\obj\Debug\net9.0\Entities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\obj\Debug\net9.0\refint\Entities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\obj\Debug\net9.0\Entities.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\ComparisonDemo\Entities\obj\Debug\net9.0\ref\Entities.dll
