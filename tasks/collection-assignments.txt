@@ -1,0 +1,25 @@
+1. Frequency Count
+Count the frequency of different words in a sentence.
+
+1.1. Objective 
+To choose appropriate collection class for storing key/value pair.
+
+1.2. Problem Statement
+Write a program to create a list of words present in a sentence passed from command line. The list also contain count of the appearance of each word in that sentence. The program has to display the words in sorted order and its frequency.
+If the input is: “DotNet is technology and DotNet is interoperable and DotNet is simple”.
+Output should be:  
+and: 2
+DotNet: 3
+interoperable:1
+is:3
+simple:1
+technology:1
+
+2. Sort String based on length
+Generally strings are compared alphabetically in lexical order, sometimes we need to compare them may be in reverse order or which is the shortest or longest string.
+
+2.1. Objective 
+To develop the capability for selecting the right interface to implement the user defined sorting algorithm.
+
+2.2. Problem Statement
+Define a sorting mechanism for Strings that compared them by length. So, when we sort the Strings, the result is based on the length of the String

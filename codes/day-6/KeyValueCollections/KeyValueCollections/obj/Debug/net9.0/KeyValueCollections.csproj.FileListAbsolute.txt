@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\bin\Debug\net9.0\KeyValueCollections.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\bin\Debug\net9.0\KeyValueCollections.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\bin\Debug\net9.0\KeyValueCollections.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\bin\Debug\net9.0\KeyValueCollections.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\bin\Debug\net9.0\KeyValueCollections.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\KeyValueCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\KeyValueCollections.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\KeyValueCollections.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\KeyValueCollections.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\KeyValueCollections.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\KeyValueCollections.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\refint\KeyValueCollections.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\KeyValueCollections.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\KeyValueCollections.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\KeyValueCollections\KeyValueCollections\obj\Debug\net9.0\ref\KeyValueCollections.dll

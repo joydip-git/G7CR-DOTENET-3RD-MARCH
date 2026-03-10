@@ -95,14 +95,12 @@ function hash (data,key){
 1  => 133245
 12 => 123456
 
-Object
-	=> bool Equals(object? obj) 
-	=> int GetHashCode()
-	   
-	=> string ToString()
-	
-
-	=> GetType
+Object class and its methods
+-------------------------------------
+	=> bool Equals(object? obj) - overridable
+	=> int GetHashCode()	    - overridable
+	=> string ToString() 	    - overridable
+	=> GetType		    - not overridable
 
 class Object{
 	public static bool operator ==(object? obj1, object? obj2){
@@ -123,16 +121,14 @@ class Object{
 	}
 }
 
-class Person:Object{}
+class Person:Object
+{}
 
 1st hash code = data-1 and seed value (key)
 2nd hash code = data-2 and 1st hash code
 ......
 nth hash code = data-n and (n-1)th hash code
 
-
-1037503328
-378553920
 
 
 
