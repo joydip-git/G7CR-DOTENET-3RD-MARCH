@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\bin\Debug\net9.0\StringSortingApp.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\bin\Debug\net9.0\StringSortingApp.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\bin\Debug\net9.0\StringSortingApp.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\bin\Debug\net9.0\StringSortingApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\bin\Debug\net9.0\StringSortingApp.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\StringSortingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\StringSortingApp.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\StringSortingApp.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\StringSortingApp.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\StringSortingApp.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\StringSortingApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\refint\StringSortingApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\StringSortingApp.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\StringSortingApp.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\StringSortingApp\StringSortingApp\obj\Debug\net9.0\ref\StringSortingApp.dll

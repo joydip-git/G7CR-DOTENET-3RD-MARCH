@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "StringSortingApp/1.0.0": {
+        "runtime": {
+          "StringSortingApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringSortingApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\bin\Debug\net9.0\DelegateImplementation.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\bin\Debug\net9.0\DelegateImplementation.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\bin\Debug\net9.0\DelegateImplementation.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\bin\Debug\net9.0\DelegateImplementation.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\bin\Debug\net9.0\DelegateImplementation.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\DelegateImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\DelegateImplementation.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\DelegateImplementation.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\DelegateImplementation.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\DelegateImplementation.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\DelegateImplementation.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\refint\DelegateImplementation.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\DelegateImplementation.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\DelegateImplementation.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\DelegateImplementation\obj\Debug\net9.0\ref\DelegateImplementation.dll

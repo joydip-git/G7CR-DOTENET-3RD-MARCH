@@ -129,6 +129,111 @@ class Person:Object
 ......
 nth hash code = data-n and (n-1)th hash code
 
+categories
+cid (pk) 	cname 
+------------------------
+1		books
+2		laptops
+3		mobiles
+4		tabs
+
+products
+---------------------
+pid (pk) 	cid(fk)		pname		price
+------------------------------------------------------------
+1		1		the alchemist	1000.00
+2		2		dell xps	130000.00
+3		3		iPhone 16	150000.00
+
+select c.cname, isnull(count(p.pname),0) from categories c 
+left outer join products p on c.cid = p.cid group by c.cname orderby c.cname
+
+cname		product-count
+------------------------------
+books		1
+laptops		1
+mobiles		1
+tabs		0
+
+record CategoryWiseProductCount(string CategoryName, int ProductCount);
+
+List<CategoryWiseProductCount> count = new();
+count.Add(new CategoryWiseProductCount("books",1));
+
+
+HashTable and SortedList
+Dictionary<TK,TV> and SortedList<TK,TV>
+
+DotNet is a technology. DotNet is from Microsoft. It was invented in 2002.
+
+
+class Facilities{
+	GetProjectorRemote()
+	GetMarkers()
+	GetWater()
+	GetCoffee()
+}
+class Facilitator{
+	HelpTrainer(fn,no){
+		fn(no)
+	}
+}
+
+class Trainer{
+	public Facilitator Assistant;
+
+	AskForHelp(){
+		//Facilities f = new();
+		Assistant.HelpTrainer(GetCoffee,1)
+	}
+}
+
+
+const numbers = [1,2,3,4]
+const isEven = function(num:number){ return num % 2 == 0};
+numbers.filter(isEven);
+
+Trainer trainer = new();
+Facilitator f = new();
+trainer.Assistant = f;
+trainer.AskForHelp();
+
+
+delegate can store address(s) of method(s)
+we create an instance of delegate and store the method(s) address(s)
+then we use the delegate to call that method using the address of the method
+
+1. declaration of a delegate
+delegate is declared with 'delegate' keyword
+delegate should have a name (Caldel)
+	a delegate declaration should match to the method signature
+	i. return type
+	ii. arguments
+		- number of arguments
+		- data type of arguments
+		- order of arguments
+note: 
+ - name of argument and the method DOES NOT matter
+ - type of method (static or non-static) DOES NOT matter
+
+2. instantiation of the delegate
+	when you create an instance of a delegate, pass the 'reference' of the method. the 'name' of the method acts as 'reference' to the method.
+	- if the method is static: pass the method name with the class name
+	- if the method is instance: create an instance of the class and then pass the method name with the instance variable
+
+3. invocation of the delegate
+	invoke the method by calling/invoking the delegate
+	if the method needs parameter then pass the parameter to the delegate instance, which in turn will pass to the method when the delegate calls the method 
+
+@FunctionalInterface
+interface CalDel{
+   void apply(int a, int b);
+}
+
+CalDel cd = 
+cd.apply(12,14)
+
+
 
 
 
