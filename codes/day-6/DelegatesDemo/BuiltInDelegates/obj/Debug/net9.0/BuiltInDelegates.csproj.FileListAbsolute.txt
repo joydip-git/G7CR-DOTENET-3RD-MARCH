@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\bin\Debug\net9.0\BuiltInDelegates.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\bin\Debug\net9.0\BuiltInDelegates.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\bin\Debug\net9.0\BuiltInDelegates.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\bin\Debug\net9.0\BuiltInDelegates.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\bin\Debug\net9.0\BuiltInDelegates.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\refint\BuiltInDelegates.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\BuiltInDelegates.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\BuiltInDelegates\obj\Debug\net9.0\ref\BuiltInDelegates.dll

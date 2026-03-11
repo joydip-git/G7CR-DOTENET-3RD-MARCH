@@ -226,6 +226,31 @@ note:
 	if the method needs parameter then pass the parameter to the delegate instance, which in turn will pass to the method when the delegate calls the method 
 
 
+Built-in delegates:
+1. Predicate delegate
+	public delegate bool Predicate<in T>(T obj)
+	
+	public delegate bool LogicDel<in T>(T value);
+
+2. Action delegate
+	public delegate void Action() <- non-generic
+
+	public delegate void Action<in T>(T obj)
+	public delegate void Action<in T1, in T2>(T1 arg1, T2 arg2)
+	......
+	public delegate void Action<T1, T2,..,T16>(T1 arg1, T2 arg2,...,T16 arg16)
+
+3. Func delegate
+	public delegate TResult Func<out TResult>()
+	public delegate TResult Func<in T, out TResult>(T arg)
+	public delegate TResult Func<in T1, in T2, out TResult>(T1 arg1, T2 arg2)
+	.....
+	public delegate TResult Func<in T1, in T2,..,in T16, out TResult>(T1 arg1, T2 arg2,...,T16 arg16)
+
+	
+
+
+
 
 
 
