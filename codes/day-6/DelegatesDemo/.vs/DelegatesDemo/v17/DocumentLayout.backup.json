@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\DelegatesDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5603616A-E4AE-470B-B7D6-03060CDDDBDB}|AnonymousDelegate\\AnonymousDelegate.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-6\\delegatesdemo\\anonymousdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5603616A-E4AE-470B-B7D6-03060CDDDBDB}|AnonymousDelegate\\AnonymousDelegate.csproj|solutionrelative:anonymousdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{576E74C3-9713-45E8-972A-4EF843D90512}|DelegateImplementation\\DelegateImplementation.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-6\\delegatesdemo\\delegateimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{576E74C3-9713-45E8-972A-4EF843D90512}|DelegateImplementation\\DelegateImplementation.csproj|solutionrelative:delegateimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5603616A-E4AE-470B-B7D6-03060CDDDBDB}|AnonymousDelegate\\AnonymousDelegate.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-6\\delegatesdemo\\anonymousdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5603616A-E4AE-470B-B7D6-03060CDDDBDB}|AnonymousDelegate\\AnonymousDelegate.csproj|solutionrelative:anonymousdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F4D0962-D2D3-4938-8918-ACA52130CE34}|DelegatesDemo\\DelegatesDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-6\\delegatesdemo\\delegatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\DelegatesDemo\\AnonymousDelegate\\Program.cs",
               "RelativeDocumentMoniker": "AnonymousDelegate\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\DelegatesDemo\\AnonymousDelegate\\Program.cs",
               "RelativeToolTip": "AnonymousDelegate\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T04:05:34.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\DelegatesDemo\\DelegateImplementation\\Program.cs",
               "RelativeDocumentMoniker": "DelegateImplementation\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-6\\DelegatesDemo\\DelegateImplementation\\Program.cs",
               "RelativeToolTip": "DelegateImplementation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T11:35:57.735Z",
               "EditorCaption": ""
