@@ -1,0 +1,16 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\bin\Debug\net9.0\ExtensionLibrary.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\bin\Debug\net9.0\ExtensionLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\bin\Debug\net9.0\ExtensionLibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\bin\Debug\net9.0\CalculationLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\bin\Debug\net9.0\CalculationLibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\ExtensionLibrary.csproj.AssemblyReference.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\ExtensionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\ExtensionLibrary.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\ExtensionLibrary.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\ExtensionLibrary.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\ExtensionLibrary.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\Extensio.AC91C986.Up2Date
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\ExtensionLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\refint\ExtensionLibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\ExtensionLibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\ExtensionMethodDemo\ExtensionLibrary\obj\Debug\net9.0\ref\ExtensionLibrary.dll

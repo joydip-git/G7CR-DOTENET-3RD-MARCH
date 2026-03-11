@@ -186,11 +186,28 @@ var arr = new[] { 1,2,3,4};
 
 17. anonymous method
 18. anonymous type
-19. Extension Method
-20. "new" expression
+19. "new" expression
 	Person p = new Person();
 	Person p = new();
 
+20. Extension Method
+this technique is used to "extend" (not by inheritance) an exsting class or interface by "injecting" new methods without modifying the source code of that class or interface
+
+technique:
+create a separate class
+mark the class with 'static' keyword (means all the method here will be static method)
+create the extra methods (that you want to add in an existing class or interface) in the following manner
+
+public static class CalculatioExtension{
+	public static int Multiply(this Calculation calc,int a, int b){
+		int res  = calc.Add(a,b);
+		return a-b-res;
+	}
+}
+
+you will find that the extra method has been included in that existing class/interface
+
+Note: ONLY INSTANCE METHODS CAN BE ADDED IN THIS WAY.NO STATIC METHOD CAN'T BE ADDD USIN EXTENSION METHOD TECNIQUE.
 
 select id, name, price from products
 
