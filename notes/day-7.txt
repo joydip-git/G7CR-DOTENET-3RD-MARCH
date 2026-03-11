@@ -35,3 +35,188 @@ Predicate<int> isEven = (num) => num%2==0;
 
 
 LINQ: Language Integrated Query
+
+
+
+1. automatic property [public string Name {set; get;}]
+2. property setter [public string Name {set; get;} = string.Empty]
+3. primary constructor 
+	class Person(int id, string name){
+		private readonly int id = id;
+
+		//private readonly int id;
+		//private string name;
+		
+		//public Person(int id, string name){
+		//	this.id = id;
+		//	this.name = name;
+		//}
+		public int Id => id;
+		public string Name {set => name = value; get => name;}
+
+	}
+4. object initializer
+	Person p = new Person{Name="anil", Id = 1};
+	Person p = new(){Name="anil", Id = 1};
+
+5. collection initializer
+	List<Person> people = new()
+	{ 
+		new Person{Name="anil", Id = 1},
+		new Person{Name="sunil", Id = 2}
+
+	};
+6. collection initializer expression
+	List<Person> people = 
+	[
+		new Person{Name="anil", Id = 1},
+		new Person{Name="sunil", Id = 2}
+	];
+7. Expression Bodied Method
+	public bool IsEven(int num) => num % 2 == 0;
+
+8. Expression Bodied Readonly Property (for getter)
+	public int Id => id;
+
+9. Lambda expression
+	Predicate<int> isEven = (num) => num % 2 == 0;
+
+10. optional argument with default value
+	public int CalculateArea(int x, int y = 0, int z = 0){}
+
+11. Named arguments
+	CalculateArea(y:12, x:10, z:30);
+
+12. local out parameter
+
+	int result;
+	int.TryParse("",out result)
+
+	use this -> 
+	int.TryParse("",out int result)
+
+13. 
+	public void Print(Employee emp){
+
+		if(emp is Developer){
+			Developer d = emp as Developer;
+			d.IsOutstanding();
+		}
+		use this -> 
+
+		if(emp is Developer d){
+			d.IsOutstanding();
+		}
+
+14. static import
+
+namespace Utilities{
+	public static class Utility{
+		public static void PrintMenu(){ //code }
+	}
+}
+
+
+using Utilities;
+
+Main(){
+	Utility.PrintMenu();
+}
+
+use this ->
+using static Utilities.Utility;
+
+Main(){
+	PrintMenu();
+}
+
+15. switch expression:
+
+	public int Calculate(int choice){
+		int res = 0;
+		switch(choice){
+			case 1:	
+				res = 12+3;
+		   	break;
+			case 2:	
+				res = 12-3;
+		   	break;
+			default:	
+				res = -1;
+		   	break;
+
+		}
+	  return result;
+	}
+
+	use this -> 
+	public int Calculate(int choice){
+		//int res = choice switch
+		//{
+		//    1 => 12 + 3,
+		//    2 => 12 - 3,
+		//    _ => -1
+		//};
+		//return res;
+
+		return choice switch
+		{
+    			1 => 12 + 3,
+    			2 => 12 - 3,
+    			_ => -1
+		};
+	}
+
+16. implicitly typed local variable
+
+var x = 10;
+
+using 'type inference' C# understands the data type of x from the value assigned, which is 'int' in the following case
+you can't assign some other value to it
+in JS var keyword is used to declare loosely typed variable, /in C# var keyword is used to declare implicitly typed variable
+
+value must be assigned to implicitly typed variable
+var keyword IS NOT A DATA TYPE: don't use it as data type of
+	- method's arguments
+	- method's return type
+	- class fields
+
+implicitly typed array variable: (local)
+var arr = new[] { 1,2,3,4};
+
+17. anonymous method
+18. anonymous type
+19. Extension Method
+20. "new" expression
+	Person p = new Person();
+	Person p = new();
+
+
+select id, name, price from products
+
+id	name	price
+--------------------------
+1	dell	100
+
+select count(id) as COUNT, max(price) as MAX_PRICE, min(price), avg(price) from products
+
+COUNT	MAX_PRICE
+----------------
+
+new { COUNT=1, MAX_PRICE=100, ...}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
