@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\bin\Debug\net9.0\AnonymousDelegate.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\bin\Debug\net9.0\AnonymousDelegate.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\bin\Debug\net9.0\AnonymousDelegate.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\bin\Debug\net9.0\AnonymousDelegate.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\bin\Debug\net9.0\AnonymousDelegate.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\AnonymousDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\AnonymousDelegate.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\AnonymousDelegate.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\AnonymousDelegate.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\AnonymousDelegate.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\AnonymousDelegate.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\refint\AnonymousDelegate.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\AnonymousDelegate.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\AnonymousDelegate.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-6\DelegatesDemo\AnonymousDelegate\obj\Debug\net9.0\ref\AnonymousDelegate.dll

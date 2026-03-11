@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesDemo", "DelegatesDemo\DelegatesDemo.csproj", "{2F4D0962-D2D3-4938-8918-ACA52130CE34}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateImplementation", "DelegateImplementation\DelegateImplementation.csproj", "{576E74C3-9713-45E8-972A-4EF843D90512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousDelegate", "AnonymousDelegate\AnonymousDelegate.csproj", "{5603616A-E4AE-470B-B7D6-03060CDDDBDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{576E74C3-9713-45E8-972A-4EF843D90512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{576E74C3-9713-45E8-972A-4EF843D90512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{576E74C3-9713-45E8-972A-4EF843D90512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5603616A-E4AE-470B-B7D6-03060CDDDBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5603616A-E4AE-470B-B7D6-03060CDDDBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5603616A-E4AE-470B-B7D6-03060CDDDBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5603616A-E4AE-470B-B7D6-03060CDDDBDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

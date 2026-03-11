@@ -225,16 +225,6 @@ note:
 	invoke the method by calling/invoking the delegate
 	if the method needs parameter then pass the parameter to the delegate instance, which in turn will pass to the method when the delegate calls the method 
 
-@FunctionalInterface
-interface CalDel{
-   void apply(int a, int b);
-}
-
-CalDel cd = 
-cd.apply(12,14)
-
-
-
 
 
 
