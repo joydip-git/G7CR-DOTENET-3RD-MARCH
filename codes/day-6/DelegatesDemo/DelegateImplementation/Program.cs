@@ -33,7 +33,22 @@
             //List<int> output = Filter(numbers,evenDel);
 
             LogicDel oddDel = Logic.IsOdd;
-            List<int> output = Filter(numbers, oddDel);
+            //List<int> output = Filter(numbers, oddDel);
+
+            //anonymous delegate written in classic syntax
+            //capturing "outer parameter"
+            Console.Write("enter threshold value: ");
+            int criteria = int.Parse(Console.ReadLine() ?? "0");
+            LogicDel greaterDel = delegate (int num)
+            {
+                return num > criteria;
+            };
+            //List<int> output = Filter(numbers, greaterDel);
+
+            //Lambda expression syntax
+            LogicDel lesserDel = (num) => num < criteria;
+            List<int> output = Filter(numbers, lesserDel);
+
             foreach (int item in output)
             {
                 Console.WriteLine(item);
