@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\bin\Debug\net9.0\LINQ_FunctionaProgramming.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\bin\Debug\net9.0\LINQ_FunctionaProgramming.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\bin\Debug\net9.0\LINQ_FunctionaProgramming.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\bin\Debug\net9.0\LINQ_FunctionaProgramming.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\bin\Debug\net9.0\LINQ_FunctionaProgramming.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\LINQ_FunctionaProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\LINQ_FunctionaProgramming.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\LINQ_FunctionaProgramming.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\LINQ_FunctionaProgramming.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\LINQ_FunctionaProgramming.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\LINQ_FunctionaProgramming.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\refint\LINQ_FunctionaProgramming.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\LINQ_FunctionaProgramming.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\LINQ_FunctionaProgramming.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-7\LINQDemo\LINQ_FunctionaProgramming\obj\Debug\net9.0\ref\LINQ_FunctionaProgramming.dll

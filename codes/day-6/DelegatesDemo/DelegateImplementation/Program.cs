@@ -22,7 +22,8 @@
         //    }
         //    return result;
         //}
-        static List<T> Filter<T>(List<T> input, LogicDel<T> fnRef)
+        //static List<T> Filter<T>(List<T> input, LogicDel<T> fnRef)
+        static List<T> Filter<T>(List<T> input, Predicate<T> fnRef)
         {
             List<T> result = [];
             foreach (T item in input)
@@ -40,26 +41,33 @@
 
             //logic to filter
             Logic logic = new();
-            LogicDel<int> evenDel = logic.IsEven;
+            //LogicDel<int> evenDel = logic.IsEven;
+            Predicate<int> evenDel = logic.IsEven;
 
             //pas the source of data and the logic to filter
             //List<int> output = Filter<int>(numbers,evenDel);
 
-            LogicDel<int> oddDel = Logic.IsOdd;
+            //LogicDel<int> oddDel = Logic.IsOdd;
+            Predicate<int> oddDel = Logic.IsOdd;
             //List<int> output = Filter(numbers, oddDel);
 
             //anonymous delegate written in classic syntax
             //capturing "outer parameter"
             Console.Write("enter threshold value: ");
             int criteria = int.Parse(Console.ReadLine() ?? "0");
-            LogicDel<int> greaterDel = delegate (int num)
+            //LogicDel<int> greaterDel = delegate (int num)
+            //{
+            //    return num > criteria;
+            //};
+            Predicate<int> greaterDel = delegate (int num)
             {
                 return num > criteria;
             };
             //List<int> output = Filter<int>(numbers, greaterDel);
 
             //Lambda expression syntax
-            LogicDel<int> lesserDel = (num) => num < criteria;
+            //LogicDel<int> lesserDel = (num) => num < criteria;
+            Predicate<int> lesserDel = (num) => num < criteria;
             List<int> output = Filter<int>(numbers, lesserDel);
 
             foreach (int item in output)

@@ -1,0 +1,37 @@
+1. OOP
+2. Generic (method, class, interface, delegate)
+3. Delegate (delegate basics, anonumoys delegate, lambda expression, generic delegate, built-in delegates)
+4. Functional Programming
+
+source of data (any collection even an array)
+
+Functional Programming:
+-----------------------------------
+Functional programming (FP) is a declarative paradigm that constructs programs by composing pure, side-effect-free functions while avoiding mutable state and shared data. 
+It emphasizes immutability, treating data as constant, and uses first-class functions to create modular, predictable code.
+
+Pure function:
+--------------------
+a function which does not mutate (change) the value of the inputs and simply produces a result out of those inputs
+
+const add = (a:number, b:number) => a + b;
+
+<Home Value={10}/>
+{Value:10}
+const Home = (props) => {
+	//props.Value = 12;
+	return (
+		<div>
+		{props.Value}
+		</div>
+	)
+}
+
+int criteria = 4;
+Predicate<int> isLesser = (num) => num < criteria;
+Predicate<int> isGreater = (num) => num > criteria;
+
+Predicate<int> isEven = (num) => num%2==0;
+
+
+LINQ: Language Integrated Query
