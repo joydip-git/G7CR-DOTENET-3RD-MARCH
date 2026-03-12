@@ -64,6 +64,12 @@ class ApplicationException:Exception{
 }
 
 
+New features - Part 2:
+21. local function and static local function
+22. record
+23. top-level statement
+
+
 
 
 

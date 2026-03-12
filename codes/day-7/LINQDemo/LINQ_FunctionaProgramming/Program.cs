@@ -68,14 +68,24 @@
             //Select()
 
             IEnumerable<int> sortedNumbers = SortValues(numbers, (a, b) => a - b);
+            PrintNumebrs(sortedNumbers);
+
+
             IEnumerable<int> filteredNumbers = FilterValues(sortedNumbers, (num) => num % 2 != 0);
+            PrintNumebrs(filteredNumbers);
+
+
             IEnumerable<int> transformedNumbers = Transform(filteredNumbers, (num) => num * 4);
+            PrintNumebrs(transformedNumbers);
 
-            foreach (int item in transformedNumbers)
+            static void PrintNumebrs<T>(IEnumerable<T> collection)
             {
-                Console.WriteLine(item);
+                foreach (var item in collection)
+                {
+                    Console.WriteLine(item);
+                }
+                Console.WriteLine("\n\n");
             }
-
         }
     }
 }

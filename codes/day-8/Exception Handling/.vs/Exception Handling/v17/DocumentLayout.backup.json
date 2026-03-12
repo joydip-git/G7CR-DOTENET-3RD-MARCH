@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA02AB3B-CDB0-408D-8DAE-48514B7D84C5}|CustomExceptionHandling\\CustomExceptionHandling.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\exception handling\\customexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA02AB3B-CDB0-408D-8DAE-48514B7D84C5}|CustomExceptionHandling\\CustomExceptionHandling.csproj|solutionrelative:customexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73404239-8B3E-42C7-8C25-DECAE731384B}|CustomException_Assignment\\CustomException_Assignment.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\exception handling\\customexception_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73404239-8B3E-42C7-8C25-DECAE731384B}|CustomException_Assignment\\CustomException_Assignment.csproj|solutionrelative:customexception_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA02AB3B-CDB0-408D-8DAE-48514B7D84C5}|CustomExceptionHandling\\CustomExceptionHandling.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\exception handling\\customexceptionhandling\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA02AB3B-CDB0-408D-8DAE-48514B7D84C5}|CustomExceptionHandling\\CustomExceptionHandling.csproj|solutionrelative:customexceptionhandling\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73404239-8B3E-42C7-8C25-DECAE731384B}|CustomException_Assignment\\CustomException_Assignment.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\exception handling\\customexception_assignment\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73404239-8B3E-42C7-8C25-DECAE731384B}|CustomException_Assignment\\CustomException_Assignment.csproj|solutionrelative:customexception_assignment\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA02AB3B-CDB0-408D-8DAE-48514B7D84C5}|CustomExceptionHandling\\CustomExceptionHandling.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\exception handling\\customexceptionhandling\\dlapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA02AB3B-CDB0-408D-8DAE-48514B7D84C5}|CustomExceptionHandling\\CustomExceptionHandling.csproj|solutionrelative:customexceptionhandling\\dlapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73404239-8B3E-42C7-8C25-DECAE731384B}|CustomException_Assignment\\CustomException_Assignment.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\exception handling\\customexception_assignment\\maximumspeedlimitcrossedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73404239-8B3E-42C7-8C25-DECAE731384B}|CustomException_Assignment\\CustomException_Assignment.csproj|solutionrelative:customexception_assignment\\maximumspeedlimitcrossedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DLApplicationForm.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomExceptionHandling\\DLApplicationForm.cs",
-              "RelativeDocumentMoniker": "CustomExceptionHandling\\DLApplicationForm.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomExceptionHandling\\DLApplicationForm.cs",
-              "RelativeToolTip": "CustomExceptionHandling\\DLApplicationForm.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAEwB8AAAAcAAAAAAAAAA==",
+              "Title": "MaximumSpeedLimitCrossedException.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomException_Assignment\\MaximumSpeedLimitCrossedException.cs",
+              "RelativeDocumentMoniker": "CustomException_Assignment\\MaximumSpeedLimitCrossedException.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomException_Assignment\\MaximumSpeedLimitCrossedException.cs",
+              "RelativeToolTip": "CustomException_Assignment\\MaximumSpeedLimitCrossedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T05:10:51.756Z",
+              "WhenOpened": "2026-03-12T06:06:33.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomException_Assignment\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CustomException_Assignment\\Vehicle.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomException_Assignment\\Vehicle.cs",
+              "RelativeToolTip": "CustomException_Assignment\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:06:25.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomExceptionHandling\\Program.cs",
-              "RelativeDocumentMoniker": "CustomExceptionHandling\\Program.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomExceptionHandling\\Program.cs",
-              "RelativeToolTip": "CustomExceptionHandling\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomException_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "CustomException_Assignment\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomException_Assignment\\Program.cs",
+              "RelativeToolTip": "CustomException_Assignment\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T04:56:22.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InvalidAgeException.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomExceptionHandling\\InvalidAgeException.cs",
-              "RelativeDocumentMoniker": "CustomExceptionHandling\\InvalidAgeException.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\Exception Handling\\CustomExceptionHandling\\InvalidAgeException.cs",
-              "RelativeToolTip": "CustomExceptionHandling\\InvalidAgeException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T04:52:49.232Z",
+              "WhenOpened": "2026-03-12T06:03:51.173Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ_FunctionaProgramming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebddcf63f7b3942e8b7063d2f40ceacfeb1c7638")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95279068e34512fe8b3b3b3ddabf56c6929428b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ_FunctionaProgramming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ_FunctionaProgramming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

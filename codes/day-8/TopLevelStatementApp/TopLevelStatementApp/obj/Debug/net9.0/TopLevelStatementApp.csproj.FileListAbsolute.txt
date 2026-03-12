@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\bin\Debug\net9.0\TopLevelStatementApp.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\bin\Debug\net9.0\TopLevelStatementApp.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\bin\Debug\net9.0\TopLevelStatementApp.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\bin\Debug\net9.0\TopLevelStatementApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\bin\Debug\net9.0\TopLevelStatementApp.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\TopLevelStatementApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\TopLevelStatementApp.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\TopLevelStatementApp.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\TopLevelStatementApp.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\TopLevelStatementApp.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\TopLevelStatementApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\refint\TopLevelStatementApp.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\TopLevelStatementApp.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\TopLevelStatementApp.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\TopLevelStatementApp\TopLevelStatementApp\obj\Debug\net9.0\ref\TopLevelStatementApp.dll

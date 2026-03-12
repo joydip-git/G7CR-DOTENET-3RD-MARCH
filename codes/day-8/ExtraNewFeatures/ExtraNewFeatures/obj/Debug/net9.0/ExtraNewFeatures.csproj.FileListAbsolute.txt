@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\ExtraNewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\ExtraNewFeatures.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\ExtraNewFeatures.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\ExtraNewFeatures.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\ExtraNewFeatures.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\ExtraNewFeatures.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\ExtraNewFeatures.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\bin\Debug\net9.0\ExtraNewFeatures.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\bin\Debug\net9.0\ExtraNewFeatures.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\bin\Debug\net9.0\ExtraNewFeatures.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\bin\Debug\net9.0\ExtraNewFeatures.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\bin\Debug\net9.0\ExtraNewFeatures.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\refint\ExtraNewFeatures.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\ExtraNewFeatures.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\ExtraNewFeatures\ExtraNewFeatures\obj\Debug\net9.0\ref\ExtraNewFeatures.dll

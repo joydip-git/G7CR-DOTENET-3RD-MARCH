@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\bin\Debug\net9.0\CustomException_Assignment.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\bin\Debug\net9.0\CustomException_Assignment.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\bin\Debug\net9.0\CustomException_Assignment.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\bin\Debug\net9.0\CustomException_Assignment.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\bin\Debug\net9.0\CustomException_Assignment.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\CustomException_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\CustomException_Assignment.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\CustomException_Assignment.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\CustomException_Assignment.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\CustomException_Assignment.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\CustomException_Assignment.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\refint\CustomException_Assignment.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\CustomException_Assignment.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\CustomException_Assignment.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\Exception Handling\CustomException_Assignment\obj\Debug\net9.0\ref\CustomException_Assignment.dll
