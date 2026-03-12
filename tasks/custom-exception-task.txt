@@ -1,0 +1,10 @@
+Create a class Vehicle
+Vehicle class must have following 
+	a. attributes:
+	=> maximum speed limit (const)
+	=> current speed
+	b. method to increase the speed
+		pass a value to increase the speed
+		update the current speed
+		check whether the current speed has exceeded the maximum speed limit or not
+		If the vehicle's current speed crosses the maximum speed limit, then MaximumSpeedLimitCrossedException should be thrown
