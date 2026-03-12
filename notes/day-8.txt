@@ -70,6 +70,67 @@ New features - Part 2:
 23. top-level statement
 
 
+Data Access:
+------------------------
+
+ADO.NET (ActiveX Data Object .NET)
+--------------------------------------
+DbConnection
+DbCommand
+DbDataReader
+
+Databases		Providers
+---------------------------------------------------
+SQL Server	SQL Data Provider [Microsoft.Data.SqlClient (System.Data.SqlClient:deprecated)]
+		- SqlConnection, SqlCommand, SqlDataReader etc.
+
+Oracle		Oracle Data Provider [Syetm.Data.OracleClient]
+		- OracleConnection, OracleCommand, OracleDataReader etc.
+
+MS Access	OleDb Data Provider [System.Data.OleDb]
+		- OleDbConnection, OleDbCommand, OleDbDataReader etc.
+
+MySQL		...
+MongoDB		...
+....
+
+
+Data Source=JOYDIP-PC\SQLEXPRESS;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False
+
+server=JOYDIP-PC\SQLEXPRESS;database=appdb;Integrated Security=True;Trust Server Certificate=True;
+server=JOYDIP-PC\SQLEXPRESS;initial catalog=appdb;Integrated Security=True;Trust Server Certificate=True;
+
+"server" or "data source"
+"database" or "initial catalog"
+
+executing SQL query:
+
+select query: 
+	1. single data (Scalar data) commandobject.ExecuteScalar() -> object
+	2. multiple values (multiple data) commandobject.ExecuteReader() -> DbDataReader
+
+non-select query: value
+	commandobject.ExecuteNonQuery() -> int
+
+
+file name:
+class name:
+	1. method name:
+		- will have code to return all product records
+	2. method name:
+		- will have code to return a single product record
+	3. method name:
+		- will have code to insert a new product record in table and return an int value
+	4. method name:
+		- will have code to update an existing product record in table and return an int value
+	5. method name:
+		- will have code to delete an existing product record from table and return an int value
+
+
+
+
+
+
 
 
 

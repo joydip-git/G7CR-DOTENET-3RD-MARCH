@@ -1,0 +1,12 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\bin\Debug\net9.0\BusinessEntities.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\bin\Debug\net9.0\BusinessEntities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\bin\Debug\net9.0\BusinessEntities.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\obj\Debug\net9.0\BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\obj\Debug\net9.0\BusinessEntities.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\obj\Debug\net9.0\BusinessEntities.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\obj\Debug\net9.0\BusinessEntities.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\obj\Debug\net9.0\BusinessEntities.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\obj\Debug\net9.0\BusinessEntities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\obj\Debug\net9.0\refint\BusinessEntities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\obj\Debug\net9.0\BusinessEntities.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\BusinessEntities\obj\Debug\net9.0\ref\BusinessEntities.dll
