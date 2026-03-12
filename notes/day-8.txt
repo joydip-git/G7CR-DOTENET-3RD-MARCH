@@ -1,0 +1,74 @@
+Exception Handling:
+---------------------------
+
+compilation errors
+logical errors
+runtime errors
+	
+			  Exception
+--------------------------------------------------------------------
+	SystemException				ApplicationException
+		- ArithmeticException
+		- NullReferenceException
+		- DivideByZeroException
+		- FormatException
+		- ArgumentException
+		etc.
+
+Message (read-only property) 	- what went wrong
+TargetSite (read-only property) - which method the exception occurred
+Soure				- which application the exception occurred in
+StackTrace			- details of the exception, such as which method of which file at which line exception occurred etc.
+
+
+
+try{
+	//code
+}catch(DivideByZeroException e){
+	throw e;
+}
+
+public class Exception{
+	private string message;
+	private Exception? innerException = null;
+	
+	public Exception(){
+		this.message = "Error in the application";
+	}
+
+	public Exception(string message){
+		this.message = message;
+	}
+
+	public Exception(string message, Exception innerException){
+		this.message = message;
+		this.innerException = innerException;
+	}
+	
+	public virtual string Message => message;
+	private Exception? InnerException => innerException;
+}
+class ApplicationException:Exception{
+
+	public ApplicationException(){		
+	}
+
+	public ApplicationException(string message):base(message){
+	}
+
+	public ApplicationException(string message, Exception innerException)
+	:base(message,innerException)
+	{
+	}
+
+}
+
+
+
+
+
+
+
+
+
+	
