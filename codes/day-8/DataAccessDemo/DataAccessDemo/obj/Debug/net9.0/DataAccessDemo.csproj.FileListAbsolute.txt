@@ -67,3 +67,5 @@ E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bi
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\DataAccessLayer.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\DataAccessLayer.pdb
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\BusinessEntities.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\BusinessLayer.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\BusinessLayer.pdb

@@ -1,7 +1,7 @@
-﻿using DataAccessLayer;
+﻿using BusinessLayer;
 using BusinessEntities;
 
-IRepository<ProductDTO, int>? repository = null;
+IManager<ProductDTO, int>? manager = null;
 try
 {
     char toContinue = 'n';
@@ -9,8 +9,8 @@ try
     {
         ShowMenu();
         int choice = GetChoice();
-        repository = new ProductRepository();
-        Execute(repository, choice);
+        manager = new ProductManager();
+        Execute(manager, choice);
         Decide(ref toContinue);
     } while (toContinue != 'n');
 }
@@ -30,74 +30,79 @@ static int GetChoice()
     return choice;
 }
 
-static void ShowAllProducts(IRepository<ProductDTO, int> repository)
+static void ShowAllProducts(IManager<ProductDTO, int> manager)
 {
-    var allProducts = repository.GetAll();
+    var allProducts = manager.FetchAll(3);
+    //if (allProducts != null && allProducts.Count() > 0)
+    //{
+    //    foreach (var item in allProducts)
+    //    {
+    //        Console.WriteLine(item);
+    //    }
+    //}
     if (allProducts != null && allProducts.Count() > 0)
     {
-        foreach (var item in allProducts)
-        {
-            Console.WriteLine(item);
-        }
+        Action<ProductDTO> printProduct = p => Console.WriteLine(p);
+        allProducts.ToList().ForEach(printProduct);
     }
 }
-static void ShowARecord(IRepository<ProductDTO, int> repository)
+static void ShowARecord(IManager<ProductDTO, int> manager)
 {
     Console.WriteLine("\n\n");
-    var product = repository.Get(100);
+    var product = manager.Fetch(100);
     Console.WriteLine(product?.ToString());
 }
-static void AddProduct(IRepository<ProductDTO, int> repository)
+static void AddProduct(IManager<ProductDTO, int> manager)
 {
-    var status = repository.Add(
-        new ProductDTO { Id = 106, Name = "Pillars of the Earth", Price = 699.00M, Description = "New book from Ken Follet" }
+    var status = manager.Insert(
+        new ProductDTO { Name = "Pillars of the Earth", Price = 699.00M, Description = "New book from Ken Follet" }
         );
     Console.WriteLine(status ? "Product Added Successfully" : "Operation failed");
 }
-static void UpdateProduct(IRepository<ProductDTO, int> repository)
+static void UpdateProduct(IManager<ProductDTO, int> manager)
 {
-    var status = repository.Update(103,
+    var status = manager.Modify(103,
         new ProductDTO { Name = "The Alchemist", Price = 799.00M, Description = "New book from Paul Cohelo" }
         );
     Console.WriteLine(status ? "Product Updated Successfully" : "Operation failed");
 }
-static void DeleteProduct(IRepository<ProductDTO, int> repository)
+static void DeleteProduct(IManager<ProductDTO, int> manager)
 {
     Console.Write("\nenter id:");
     bool done = int.TryParse(Console.ReadLine(), out int id);
     if (done)
     {
-        var status = repository.Delete(id);
+        var status = manager.Remove(id);
         Console.WriteLine(status ? "Product deleted Successfully" : "Operation failed");
     }
 }
 
-static void Execute(IRepository<ProductDTO, int> repository, int choice)
+static void Execute(IManager<ProductDTO, int> manager, int choice)
 {
     switch (choice)
     {
         case 1:
-            ShowAllProducts(repository);
+            ShowAllProducts(manager);
             break;
 
         case 2:
-            ShowARecord(repository);
+            ShowARecord(manager);
             break;
 
         case 3:
-            AddProduct(repository);
+            AddProduct(manager);
             break;
 
         case 4:
-            UpdateProduct(repository);
+            UpdateProduct(manager);
             break;
 
         case 5:
-            DeleteProduct(repository);
+            DeleteProduct(manager);
             break;
 
         default:
-            ShowAllProducts(repository);
+            ShowAllProducts(manager);
             break;
     }
 }

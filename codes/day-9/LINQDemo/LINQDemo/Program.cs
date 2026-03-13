@@ -68,12 +68,13 @@ List<Order> orders = [
 //                select new { CustomerName = c.Name, OrderedOn = o.OrderDate.Date, TotalAmount = o.OrderAmount };
 
 var joinQuery = customers
-    .Where(c => c.CustomerId == 2)
+    .Where(c => c.CustomerId == 2)    
     .Join(
-    orders,
+        orders,
         c => c.CustomerId,
         o => o.CustomerId,
-        (c, o) => new { CustomerName = c.Name, OrderedOn = o.OrderDate.Date, TotalAmount = o.OrderAmount })
+        (c, o) => new { CustomerName = c.Name, OrderedOn = o.OrderDate, TotalAmount = o.OrderAmount }
+        )
     .OrderBy(ano => ano.OrderedOn);
 
 foreach (var item in joinQuery)

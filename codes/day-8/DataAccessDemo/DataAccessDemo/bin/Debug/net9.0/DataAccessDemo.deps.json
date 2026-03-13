@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "DataAccessDemo/1.0.0": {
         "dependencies": {
-          "DataAccessLayer": "1.0.0",
+          "BusinessLayer": "1.0.0",
           "Microsoft.Data.SqlClient": "6.1.4"
         },
         "runtime": {
@@ -414,6 +414,17 @@
           }
         }
       },
+      "BusinessLayer/1.0.0": {
+        "dependencies": {
+          "DataAccessLayer": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "DataAccessLayer/1.0.0": {
         "dependencies": {
           "BusinessEntities": "1.0.0",
@@ -638,6 +649,11 @@
       "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
     },
     "BusinessEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -80,7 +80,30 @@ composition: (lifecycle of one entity depends on another - tight dependency)
 ------------------------------------------------------------------------------
 A <-> B (1:1/1:M/1:1)
 
+Join() method:
+----------------------
+outer-collection.Join
+	(
+		inner-collection,
+		Func<in element-type-let-col,out pkey-to-join>,
+		Func<in element-type-right-col, out fkey-to-join>,
+		Func<in element-type-let-col,in element-type-right-col, out TResult>
+	)
 
+customers -> left collection (collection to join an element from)
+orders -> right collection (collection to join an element with)
+
+Func<Customer,int> leftPrimaryKey = (Customer c) => c.CustomerId
+Func<Order,int> rightForeignKey = (Order o) => o.CustomerId
+Func<Customer,Order,TResult> anonymousResType = (Customer c,Order o)=> new {CustomerName = c.Name, TotalAmount = o.OrderAmount, OrderedOn = o.OrderDate}
+
+customers
+	.Join(
+		orders,
+		leftPrimaryKey,
+		rightForeignKey,
+		anonymousResType
+	     )
 
 
 

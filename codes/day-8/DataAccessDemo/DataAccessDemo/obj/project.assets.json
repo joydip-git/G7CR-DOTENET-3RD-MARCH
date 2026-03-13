@@ -570,6 +570,19 @@
           "bin/placeholder/BusinessEntities.dll": {}
         }
       },
+      "BusinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "DataAccessLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessLayer.dll": {}
+        }
+      },
       "DataAccessLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -1447,6 +1460,11 @@
       "path": "../BusinessEntities/BusinessEntities.csproj",
       "msbuildProject": "../BusinessEntities/BusinessEntities.csproj"
     },
+    "BusinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../BusinessLayer/BusinessLayer.csproj",
+      "msbuildProject": "../BusinessLayer/BusinessLayer.csproj"
+    },
     "DataAccessLayer/1.0.0": {
       "type": "project",
       "path": "../DataAccessLayer/DataAccessLayer.csproj",
@@ -1455,7 +1473,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "DataAccessLayer >= 1.0.0",
+      "BusinessLayer >= 1.0.0",
       "Microsoft.Data.SqlClient >= 6.1.4"
     ]
   },
@@ -1491,8 +1509,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+            "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }
