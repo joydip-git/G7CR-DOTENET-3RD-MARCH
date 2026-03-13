@@ -5,3 +5,94 @@ Business Layer????
 Data Access Layer (DAL) is concerned about how and where to fetch data from. It contains ONLY data access logic.
 
 Data Transfer Object (DTO) or Data Object (DO) or Business Entities or Domain Neutral Object (DNO)
+
+
+LINQ:
+--------------------
+LINQ (Language Integrated Query) is a feature in C# and the .NET Framework
+It provides a consistent, declarative way to query and manipulate data from various sources directly within the language without learning any query language such as SQL.
+
+It hides the complexities of different data formats,such as, in-memory collections, SQL databases, and XML
+It allows developers to use the same query syntax across all of them
+
+3 parts of LINQ query:
+-------------------------
+1. data source
+2. create query
+3. execute the query
+
+Deferred/Delayed Execution:
+---------------------------------
+Most LINQ queries do not execute immediately when defined. 
+Instead, the query variable stores the commands, and execution only happens when you iterate over the results (ex.: using a foreach loop).
+
+Immediate Execution: 
+------------------------------
+Some operations, such as Count(), Max(), Average(), or forcing a result into a collection using ToList() or ToArray(), will force the runtime to execute the query immediately
+
+Type Safety: 
+--------------------
+Unlike traditional SQL strings, LINQ queries are checked by the compiler for type safety and support IntelliSense in development environments
+
+Standard Query Operators
+---------------------------------------
+LINQ includes over 50 operators for various data tasks: 
+
+a. Filtering: Where() filters elements based on a condition.
+
+b. Projection: Select() transforms elements into a new form, while SelectMany() flattens sequences of collections.
+
+c. Sorting/Ordering: OrderBy() and OrderByDescending() sort the data.
+
+d. Grouping: GroupBy() categorizes data into groups based on a key.
+
+e. Joining: Join() and GroupJoin() combine two data sources based on matching keys.
+
+f. Set Operations: Distinct(), Union(), Intersect(), and Except() perform set-based logic.
+
+g. Aggregation: Count(), Sum(), Min(), Max(), and Average() calculate values from a sequence
+
+LINQ Providers:
+-----------------
+1. LINQ to Objects: Used for querying in-memory collections like List<T>, arrays, or any type implementing IEnumerable<T>.
+
+2. LINQ to SQL / Entities: Connects to relational databases. LINQ to Entities is commonly used with Entity Framework Core to translate C# queries into database-specific SQL.
+
+3. LINQ to XML: Provides a modern way to query and modify XML documents using the System.Xml.Linq namespace.
+
+4. LINQ to DataSet: Allows querying of ADO.NET DataSet and DataTable objects
+
+
+Has-a relationship: (association)
+---------------------------------------
+simple association:
+
+A -> B: one to many
+B -> A: one to many
+-------------------------
+A <-> many to many
+
+aggregation: (lifecycle of one entity might or might not depends on another - loose dependency)
+-------------------------------------------------------------
+A <-> B (1:1/1:M)
+
+composition: (lifecycle of one entity depends on another - tight dependency)
+------------------------------------------------------------------------------
+A <-> B (1:1/1:M/1:1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
