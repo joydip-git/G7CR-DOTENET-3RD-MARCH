@@ -4,5 +4,8 @@
     {
         IEnumerable<T>? GetAll();
         T? Get(TPKey id);
+        bool Add(T data);
+        bool Update(TPKey id, T data);
+        bool Delete(TPKey id);
     }
 }

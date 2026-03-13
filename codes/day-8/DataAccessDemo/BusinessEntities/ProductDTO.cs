@@ -1,13 +1,13 @@
 ﻿namespace BusinessEntities
 {
-    public class Product
+    public class ProductDTO
     {
-        public Product()
+        public ProductDTO()
         {
             
         }
 
-        public Product(int id, string name, decimal? price, string? description)
+        public ProductDTO(int id, string name, decimal? price, string? description)
         {
             Id = id;
             Name = name;
@@ -24,12 +24,12 @@
         {
             ArgumentNullException.ThrowIfNull(obj);
 
-            if (obj is Product p)
+            if (obj is ProductDTO p)
             {
                 return this.Id.Equals(p.Id);
             }
             else
-                throw new ArgumentException($"{nameof(obj)} is not of type {nameof(Product)}");
+                throw new ArgumentException($"{nameof(obj)} is not of type {nameof(ProductDTO)}");
         }
 
         public override int GetHashCode()
@@ -39,6 +39,6 @@
         }
 
         public override string? ToString() =>
-            $"Name:{Name}, Price:{Price}";
+            $"Id:{Id}, Name:{Name}, Price:{Price}";
     }
 }

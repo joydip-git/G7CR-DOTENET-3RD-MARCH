@@ -3,3 +3,5 @@ UI (Presentation Layer) is not aware of where the data is coming from. It contai
 Business Layer????
 
 Data Access Layer (DAL) is concerned about how and where to fetch data from. It contains ONLY data access logic.
+
+Data Transfer Object (DTO) or Data Object (DO) or Business Entities or Domain Neutral Object (DNO)
