@@ -3,8 +3,15 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydi\\AppData\\Local\\Temp\\0cburpjy..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7713E787-280A-4CF6-8993-95CF11900723}|DataAccessDemo\\DataAccessDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\dataaccessdemo\\dataaccessdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7713E787-280A-4CF6-8993-95CF11900723}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DD92E1-4343-44AD-9106-1CE58B1279A8}|BusinessEntities\\BusinessEntities.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\dataaccessdemo\\businessentities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DD92E1-4343-44AD-9106-1CE58B1279A8}|BusinessEntities\\BusinessEntities.csproj|solutionrelative:businessentities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\dataaccessdemo\\dataaccesslayer\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +22,20 @@
       "RelativeMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\dataaccessdemo\\dataaccesslayer\\v1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\v1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/appdb/True/SqlTable/dbo.products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydi\\AppData\\Local\\Temp\\ol1st2qm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydi\\AppData\\Local\\Temp\\ol1st2qm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydi\\AppData\\Local\\Temp\\0cburpjy..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydi\\AppData\\Local\\Temp\\ol1st2qm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydi\\AppData\\Local\\Temp\\0cburpjy..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,63 +45,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\joydi\\AppData\\Local\\Temp\\0cburpjy..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-13T04:31:51.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\BusinessEntities\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessEntities\\Product.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\BusinessEntities\\Product.cs",
+              "RelativeToolTip": "BusinessEntities\\Product.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:58:01.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "V1.txt",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\V1.txt",
+              "RelativeDocumentMoniker": "DataAccessLayer\\V1.txt",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\V1.txt",
+              "RelativeToolTip": "DataAccessLayer\\V1.txt",
+              "ViewState": "AgIAACIAAAAAAAAAAAA3wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-13T03:47:26.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\IRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IRepository.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\IRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T10:58:39.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\ProductRepository.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\ProductRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAEwDgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T10:57:48.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SQLQuery2.sql ",
+              "DocumentIndex": 7,
+              "Title": "ol1st2qm..sql",
               "DocumentMoniker": "C:\\Users\\joydi\\AppData\\Local\\Temp\\ol1st2qm..sql",
-              "ToolTip": "SQLQuery2.sql *",
+              "ToolTip": "C:\\Users\\joydi\\AppData\\Local\\Temp\\ol1st2qm..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-12T09:54:24.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T09:54:24.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.products [Data]",
+              "DocumentIndex": 6,
+              "Title": "dbo.products.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/appdb/True/SqlTable/dbo.products.sql",
-              "ToolTip": "dbo.products [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/appdb/True/SqlTable/dbo.products.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-12T09:48:41.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T09:48:41.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessDemo\\Program.cs",
               "RelativeDocumentMoniker": "DataAccessDemo\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessDemo\\Program.cs",
               "RelativeToolTip": "DataAccessDemo\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T09:05:45.664Z",
               "EditorCaption": ""

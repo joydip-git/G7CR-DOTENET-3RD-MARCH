@@ -1,51 +1,25 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using DataAccessLayer;
+using BusinessEntities;
 
-SqlConnection? connection = null;
-SqlCommand? command = null;
-SqlDataReader? reader = null;
-
-string fetchAllQuery = "select productid as ID, productname as NAME, price as PRICE, product_description as DESCRIPTION from products";
+IRepository<Product,int>? repository = null;
 try
 {
-    connection = new("server=JOYDIP-PC\\SQLEXPRESS;database=appdb;Integrated Security=True;Trust Server Certificate=True;");
-    connection?.Open();
-    //Console.WriteLine(connection?.State.ToString());
+    repository = new ProductRepository();
+    var allProducts = repository.GetAll();
 
-    //command = new();
-    //command?.CommandText = fetchAllQuery;
-    //command?.Connection = connection;
-
-    //command = new SqlCommand(fetchAllQuery, connection);
-    command = connection?.CreateCommand();
-    //command?.CommandText = fetchAllQuery;
-    if(command != null)
+    if (allProducts != null && allProducts.Count() > 0)
     {
-        command.CommandText = fetchAllQuery;
-        reader = command.ExecuteReader();
-
-        if(reader !=null && reader.HasRows)
+        foreach (var item in allProducts)
         {
-            while (reader.Read())
-            {
-                int id = (int)reader["ID"];
-                //int id = reader.GetInt32(0);
-                //int id = (int)reader.GetValue(0);
-                string name = (string)reader["NAME"];
-                decimal? price = (decimal?)reader["PRICE"];
-                string? desc = (string?)reader["DESCRIPTION"];
-                Console.WriteLine($"Id:{id}, Name:{name}, Price:{price}, Description:{desc}");
-            }
-            reader.Close();
+            Console.WriteLine(item);
         }
     }
-
-
+    Console.WriteLine("\n\n");
+    var product =  repository.Get(100);
+    Console.WriteLine(product?.ToString());
+    
 }
 catch (Exception e)
 {
     Console.WriteLine(e);
-}
-finally
-{
-    connection?.Close();
 }

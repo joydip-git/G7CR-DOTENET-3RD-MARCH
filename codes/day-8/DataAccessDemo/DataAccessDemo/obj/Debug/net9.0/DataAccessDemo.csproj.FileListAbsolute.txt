@@ -63,3 +63,7 @@ E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\ob
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\obj\Debug\net9.0\DataAccessDemo.pdb
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\obj\Debug\net9.0\DataAccessDemo.genruntimeconfig.cache
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\obj\Debug\net9.0\ref\DataAccessDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\BusinessEntities.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\DataAccessLayer.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\DataAccessLayer.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-8\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\BusinessEntities.pdb

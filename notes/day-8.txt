@@ -115,9 +115,9 @@ non-select query: value
 
 file name:
 class name:
-	1. method name:
+	1. method name: GetAll()
 		- will have code to return all product records
-	2. method name:
+	2. method name: Get(int id)
 		- will have code to return a single product record
 	3. method name:
 		- will have code to insert a new product record in table and return an int value

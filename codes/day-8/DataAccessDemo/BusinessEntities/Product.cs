@@ -1,11 +1,24 @@
 ﻿namespace BusinessEntities
 {
-    public class Product(int id, string name, decimal? price, string? description)
+    public class Product
     {
-        public int Id { get; set; } = id;
-        public string Name { get; set; } = name;
-        public decimal? Price { get; set; } = price;
-        public string? Description { get; set; } = description;
+        public Product()
+        {
+            
+        }
+
+        public Product(int id, string name, decimal? price, string? description)
+        {
+            Id = id;
+            Name = name;
+            Price = price;
+            Description = description;
+        }
+
+        public int Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public decimal? Price { get; set; }
+        public string? Description { get; set; }
 
         public override bool Equals(object? obj)
         {

@@ -1,7 +1,8 @@
 ﻿namespace DataAccessLayer
 {
-    public interface IRepository<T> where T : class
+    public interface IRepository<T, TPKey> where T : class
     {
-        IEnumerable<T> GetAll();
+        IEnumerable<T>? GetAll();
+        T? Get(TPKey id);
     }
 }
