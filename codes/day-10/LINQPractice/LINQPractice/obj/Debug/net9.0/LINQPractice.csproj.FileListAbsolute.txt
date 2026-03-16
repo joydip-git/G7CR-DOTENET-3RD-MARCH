@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\bin\Debug\net9.0\LINQPractice.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\bin\Debug\net9.0\LINQPractice.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\bin\Debug\net9.0\LINQPractice.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\bin\Debug\net9.0\LINQPractice.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\bin\Debug\net9.0\LINQPractice.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\LINQPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\LINQPractice.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\LINQPractice.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\LINQPractice.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\LINQPractice.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\LINQPractice.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\refint\LINQPractice.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\LINQPractice.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\LINQPractice.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\LINQPractice\LINQPractice\obj\Debug\net9.0\ref\LINQPractice.dll

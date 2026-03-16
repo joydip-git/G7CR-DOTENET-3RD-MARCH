@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\bin\Debug\net9.0\HasARelationship.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\bin\Debug\net9.0\HasARelationship.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\bin\Debug\net9.0\HasARelationship.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\bin\Debug\net9.0\HasARelationship.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\bin\Debug\net9.0\HasARelationship.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\HasARelationship.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\HasARelationship.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\HasARelationship.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\HasARelationship.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\HasARelationship.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\HasARelationship.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\refint\HasARelationship.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\HasARelationship.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\HasARelationship.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\HasARelationship\HasARelationship\obj\Debug\net9.0\ref\HasARelationship.dll

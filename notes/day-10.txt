@@ -1,0 +1,39 @@
+Has-a relationship:
+--------------------------
+
+categories => cid (pk,int) and cname(varchar(50),not null)
+products => pid(pk, int), pname, price, cid(int, fk)
+
+books	=> bid(pk,int), title, price
+authors => authmobno (pk, bigint), authorname,
+customer => customerid(pk,int), customername
+books_authors => bid (int,fk), authmobno (fk, bigint)
+customers_books => entry_id(pk), customerid(fk), bookid(fk), borrow_date, ret_date (null)
+
+
+books_authors => bid (int,fk), authmobno (fk, bigint)
+		---------------------------------------
+		1		9090909090
+		1		9090909091
+		2		9090909090
+		2		9090909092
+
+customers_books -> entry_id	customerid(fk), bookid(fk), borrow_date, ret_date
+-------------------------------------------------------------------------
+			1		1		1	16/03/2026	NULL		
+			2		1		2	16/03/2026	NULL
+			3		2		1	7/03/2026	16/03/2026
+			4		2		3	7/03/2026	16/03/2026
+
+
+Category => CId, CName
+Product => PId, PName, Price, CId, CategoryInfo
+
+Category mobile = new(){ CId=1, CName="mobile"};
+Category laptop = new(){ CId=2, CName="laptop"};
+Category book = new(){ CId=3, CName="book"};
+
+Product book1 = new(){ PId=1, PName="...", Price=100, CId=3, CategoryInfo=book};
+
+		
+
