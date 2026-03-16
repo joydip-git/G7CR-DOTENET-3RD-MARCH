@@ -18,12 +18,13 @@ books_authors => bid (int,fk), authmobno (fk, bigint)
 		2		9090909090
 		2		9090909092
 
-customers_books -> entry_id	customerid(fk), bookid(fk), borrow_date, ret_date
--------------------------------------------------------------------------
-			1		1		1	16/03/2026	NULL		
-			2		1		2	16/03/2026	NULL
-			3		2		1	7/03/2026	16/03/2026
-			4		2		3	7/03/2026	16/03/2026
+customers_books -> 
+entry_id	customerid(fk), bookid(fk), borrow_date, ret_date
+------------------------------------------------------------------------------------
+1		1		1	16/03/2026	NULL		
+2		1		2	16/03/2026	NULL
+3		2		1	7/03/2026	16/03/2026
+4		2		3	7/03/2026	16/03/2026
 
 
 Category => CId, CName
@@ -34,6 +35,34 @@ Category laptop = new(){ CId=2, CName="laptop"};
 Category book = new(){ CId=3, CName="book"};
 
 Product book1 = new(){ PId=1, PName="...", Price=100, CId=3, CategoryInfo=book};
+
+dotnet tool:
+---------------------------
+CLI (Command Line Interface) tool
+	- create app
+	- create solution
+	- add project into solution
+	- add references
+		- package
+		- project
+	- compile app
+	- run app
+
+Entity Framework (EF) for .NET Framework
+
+Entity Framework Core for .NET (.Net Core)
+------------------------------------------------------------------
+Object-relational Mapping Model (OR/M)
+
+
+
+1. Add Reference to the package: Microsoft.EntityFrameworkCore.SqlServer 
+2. Create a POCO (Plain Old CLR Object) class for a table and necessary properties
+3. Map the class to a table and each of its property to individual column
+	- using annotations
+	- using Fluent API
+4. create another class which will map to database. Inherit it from DbContext class from the package: Microsoft.EntityFrameworkCore
+
 
 		
 

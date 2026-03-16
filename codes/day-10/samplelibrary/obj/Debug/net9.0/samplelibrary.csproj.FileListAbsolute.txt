@@ -1,0 +1,12 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\bin\Debug\net9.0\samplelibrary.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\bin\Debug\net9.0\samplelibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\bin\Debug\net9.0\samplelibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\obj\Debug\net9.0\samplelibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\obj\Debug\net9.0\samplelibrary.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\obj\Debug\net9.0\samplelibrary.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\obj\Debug\net9.0\samplelibrary.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\obj\Debug\net9.0\samplelibrary.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\obj\Debug\net9.0\samplelibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\obj\Debug\net9.0\refint\samplelibrary.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\obj\Debug\net9.0\samplelibrary.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-10\samplelibrary\obj\Debug\net9.0\ref\samplelibrary.dll
