@@ -1,0 +1,12 @@
+books	=> bid(pk,int), title, price
+customers => customerid(pk,int), customername
+customers_books => entryid(pk), customerid(fk), bookid(fk), borrowdate, retdate (null)
+
+
+customers_books -> 
+entryid	customerid(fk), bookid(fk), borrowdate, retdate
+------------------------------------------------------------------------------------
+1		1		1	16/03/2026	NULL		
+2		1		2	16/03/2026	NULL
+3		2		1	7/03/2026	16/03/2026
+4		2		3	7/03/2026	16/03/2026

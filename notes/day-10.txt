@@ -54,13 +54,43 @@ Entity Framework Core for .NET (.Net Core)
 ------------------------------------------------------------------
 Object-relational Mapping Model (OR/M)
 
+Mapping table with POCO:
+-------------------------
+1. Data Annotation (attributes)
+2. Fluent API (an API -> ModelBuilder)
 
+Approaches to use EF Core:
+---------------------------------
+1. DB first approach
+2. code first approach
 
+Migration:
+	to maintain a history of 
+		- db and table creation
+		- db and table drop
+
+		- table update (such as add new column, key, dropping a column etc.)
+
+Migration commands:
+--------------------------
+Add-Migration
+Drop-Migration
+Update-Database
+
+NuGet package manager console -> use this console for migration commands
+
+package: Microsoft.EntityFrameworkCore.Tools
+details: 
+The Entity Framework Core tools help with design-time development tasks. They're primarily used to manage Migrations and to scaffold a DbContext and entity types by reverse engineering the schema of a database.
+This package, Microsoft.EntityFrameworkCore.Tools is for PowerShell tooling that works in the Visual Studio Package Manager Console (PMC).
+
+use EF Core:
+--------------------
 1. Add Reference to the package: Microsoft.EntityFrameworkCore.SqlServer 
 2. Create a POCO (Plain Old CLR Object) class for a table and necessary properties
 3. Map the class to a table and each of its property to individual column
-	- using annotations
-	- using Fluent API
+	- by using annotations
+	- by using Fluent API
 4. create another class which will map to database. Inherit it from DbContext class from the package: Microsoft.EntityFrameworkCore
 
 

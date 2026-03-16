@@ -1,10 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EFCoreDemo.models;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 
 AppDbContext? db = null;
 try
 {
-    db = new AppDbContext(@"server=joydip-pc\sqlexpress;database=appdb;integrated security=true; trust server certificate=true;");
+    //db = new AppDbContext(@"server=joydip-pc\sqlexpress;database=appdb;integrated security=true; trust server certificate=true;");
+    db = new AppDbContext();
 
     //first fetch all the records (behind the scene SQL SELECT quey will be fired to fetch all the records)
     DbSet<Product> setOfProducts = db.Products;
@@ -22,6 +24,7 @@ try
 
     //4. show all records
     ShowProducts(setOfProducts);
+    //ShowCategories(db);
 
     #endregion
 }
@@ -33,7 +36,17 @@ finally
 {
     db?.Dispose();
 }
-
+static void ShowCategories(AppDbContext? db)
+{
+    var all = db?.Categories;
+    all?.ToList().ForEach(c =>
+    {
+        Console.WriteLine(c.CategoryId + ":" + c.CategoryName);
+        //Console.WriteLine("--------------------------------------");
+        //c.Products.ToList().ForEach(p => Console.WriteLine(p.ProductName));
+        Console.WriteLine("\n\n");
+    });
+}
 static void AddProduct(AppDbContext? db, DbSet<Product> setOfProducts)
 {
     var newProduct = new Product { ProductId = 105, ProductName = "i phone 16", Description = "new phone from apple", Price = 115000.00M };
@@ -78,6 +91,6 @@ static void ShowProducts(DbSet<Product> setOfProducts)
 {
     foreach (var product in setOfProducts)
     {
-        System.Console.WriteLine(product.ProductId + ":" + product.ProductName + ":" + product.Price);
+        System.Console.WriteLine(product.ProductId + ":" + product.ProductName + ":" + product.Price + ":" + product.Category.CategoryName);
     }
 }
