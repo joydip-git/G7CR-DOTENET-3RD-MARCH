@@ -12,4 +12,17 @@ Blog posts has different categories, such as blog posts on .NET, Java, IoT, Pyth
 6. maintain a counter for number of views for a blog post
 7. blog posts can be liked, unliked and commented upon. anyone can like, unlike or comment on a blog post, but the user have to be logged in to do that
 
+technologies to be used:
+---------------------------
+database: SQL Server or MongoDB
+backend RESTful API: ASP.NET Core Web API
+front end: ASP.NET Core MVC Web Application/React JS
+architecture: 3 tier, loosely coupled with dependency injection. follow SOLID principle.
+separate DAL, BL, Service Layer and Presentation Layer
+SEO if possible
+authentication using JWT (Json Web Token)
+
+
+
+
  
