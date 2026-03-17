@@ -1,0 +1,16 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\MemoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\MemoryManagement.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\MemoryManagement.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\MemoryManagement.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\MemoryManagement.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\bin\Debug\net9.0\MemoryManagement.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\bin\Debug\net9.0\MemoryManagement.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\bin\Debug\net9.0\MemoryManagement.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\bin\Debug\net9.0\MemoryManagement.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\bin\Debug\net9.0\MemoryManagement.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\MemoryManagement.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\refint\MemoryManagement.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\MemoryManagement.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\MemoryManagement.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\obj\Debug\net9.0\ref\MemoryManagement.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\MemoryManagement\MemoryManagement\bin\Debug\net9.0\data.txt

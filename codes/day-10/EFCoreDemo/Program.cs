@@ -6,36 +6,40 @@ AppDbContext? db = null;
 try
 {
     //db = new AppDbContext(@"server=joydip-pc\sqlexpress;database=appdb;integrated security=true; trust server certificate=true;");
-    db = new AppDbContext();
+    using (db = new AppDbContext())
+    {
+        if (db.Database.EnsureCreated())
+        {
+            //first fetch all the records (behind the scene SQL SELECT quey will be fired to fetch all the records)
+            DbSet<Product> setOfProducts = db.Products;
 
-    //first fetch all the records (behind the scene SQL SELECT quey will be fired to fetch all the records)
-    DbSet<Product> setOfProducts = db.Products;
+            #region Operations    
 
-    #region Operations    
+            //1. add a new record
+            //AddProduct(db, setOfProducts);
 
-    //1. add a new record
-    //AddProduct(db, setOfProducts);
+            //2. update an existing record
+            //UpdateProduct(db, setOfProducts);
 
-    //2. update an existing record
-    //UpdateProduct(db, setOfProducts);
+            //3. delete an existing product
+            //DeleteProduct(db, setOfProducts);
 
-    //3. delete an existing product
-    //DeleteProduct(db, setOfProducts);
+            //4. show all records
+            ShowProducts(setOfProducts);
+            //ShowCategories(db);
 
-    //4. show all records
-    ShowProducts(setOfProducts);
-    //ShowCategories(db);
-
-    #endregion
+            #endregion
+        }
+    }
 }
 catch (Exception e)
 {
     Console.WriteLine(e);
 }
-finally
-{
-    db?.Dispose();
-}
+//finally
+//{
+//    db?.Dispose();
+//}
 static void ShowCategories(AppDbContext? db)
 {
     var all = db?.Categories;

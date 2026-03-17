@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7713E787-280A-4CF6-8993-95CF11900723}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\dataaccessdemo\\dataaccesslayer\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDE6E75F-0916-4937-932D-B3648B3B8343}|BusinessLayer\\BusinessLayer.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-8\\dataaccessdemo\\businesslayer\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDE6E75F-0916-4937-932D-B3648B3B8343}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductRepository.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessLayer\\ProductRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:38:11.816Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +49,14 @@
               "RelativeDocumentMoniker": "DataAccessDemo\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\DataAccessDemo\\Program.cs",
               "RelativeToolTip": "DataAccessDemo\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAawCwAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T11:26:01.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IManager.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\BusinessLayer\\IManager.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\IManager.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "BusinessLayer\\IManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:10:43.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:10:43.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-8\\DataAccessDemo\\BusinessLayer\\ProductManager.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\ProductManager.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "BusinessLayer\\ProductManager.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAzwDkAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:09:53.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:09:53.846Z"
             }
           ]
         }

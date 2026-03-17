@@ -1,0 +1,68 @@
+CLR manages automatic destruction/clearance of an object
+
+A. Garbage collection
+----------------------------
+GC "collects" objects automatically when it feels necessary
+when the runtime heap memory is not sufficient then the GC needs to clear the some of the memory by "collecting" some of the objects.
+
+Active root: the objects which are still in use (they are still being references from stack or from another object in the heap)
+GC generally does not try to collect them
+
+Inactive root: the objects which are NOT in use (they are NOT being references from stack or from another object in the heap)
+GC generally does try to collect them.
+
+to make an active root an inactive root:
+after the use you can assign NULL to the reference variable
+you can create "weak reference"
+
+generally when you call a Garbage Collector (GC class in System namespace) by using "Collect()" method of GC class, it might or might not "collect" the objects. at least, the GC will "mark" the objects for future destruction.
+
+every object created in an aplication during the runtime, belongs to some "generation". the "generation" is used to categorize objects for garbage collection.
+
+when any object is created it belongs "generation 0" by default
+
+when you call the GC (GC.Collect()), all the objects will be "marked" for future destruction if not destroyed immediately. some objects might be "collected".
+the surviving objects are moved to "generation: 1".
+
+
+when you call the GC (GC.Collect()) once again, all the surviving and new objects will be "marked" for future destruction if not destroyed immediately. some objects might be "collected".
+
+the surviving new objects (are in gen: 0 currently) are moved to "generation: 1" and "gen: 1" objects are moved to "gen: 2".
+
+when you call the GC (GC.Collect()) once again, all the surviving and new objects will be "marked" for future destruction if not destroyed immediately. some objects might be "collected".
+
+the surviving new objects (are in gen: 0 currently) are moved to "generation: 1" and "gen: 1" objects are moved to "gen: 2".
+the "gen: 2" objects will remain in the same, as there is no generation beyond 2.
+
+B. Releasing unmanaged resources:
+----------------------------------------
+there are unmanaged resources such as file, web socket, db connection etc. which are not managed by .NET runtime.
+If any object is having connection to them, they must be disconnected from those resources, before those objects can be garbage collected by runtime.
+
+finalizer:
+----------------------------------
+does not finalization work (clean up resources, disconnect unmanaged resources etc.)
+gets invoked implicitly by runtime
+gets executed in separate "thread"
+gets executed at the end of everything
+
+IDisposable interface and Dispose() method:
+------------------------------------------------
+IDisposable interface offers void Dispose() method so that you can write any clean up code for any .NET classes, such as file, web socket, database provider related classes, which handles unmanaged resources, such files, web socket or database etc.
+
+Dispose method can be called explicitly whenever you feel the work with the resource is over
+It runs on the same "thread" where the Main method or the application runs
+Dispose method gets called implicitly when the object scope ends (considering you have used "using" block for the scoping)
+
+
+using block:
+--------------------
+it is used to create a scope for a class object which handles unmanaged resources. at the end of that scope Dispose method gets called implicitly.
+
+using(var obj = new <class-which-implements-IDisposable>())
+{
+// code to use unmanaged resources
+// at the end of the scope the Dispose method will be called
+}
+
+Note: inside using block you can create instance of such class which implements IDisposable interface

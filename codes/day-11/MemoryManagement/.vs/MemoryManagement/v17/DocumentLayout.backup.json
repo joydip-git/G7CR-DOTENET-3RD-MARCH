@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\MemoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCA1654-A841-4916-83F5-A926892594F3}|MemoryManagement\\MemoryManagement.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\memorymanagement\\memorymanagement\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCA1654-A841-4916-83F5-A926892594F3}|MemoryManagement\\MemoryManagement.csproj|solutionrelative:memorymanagement\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCA1654-A841-4916-83F5-A926892594F3}|MemoryManagement\\MemoryManagement.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\memorymanagement\\memorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCA1654-A841-4916-83F5-A926892594F3}|MemoryManagement\\MemoryManagement.csproj|solutionrelative:memorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCA1654-A841-4916-83F5-A926892594F3}|MemoryManagement\\MemoryManagement.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\memorymanagement\\memorymanagement\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BCA1654-A841-4916-83F5-A926892594F3}|MemoryManagement\\MemoryManagement.csproj|solutionrelative:memorymanagement\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.txt",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\MemoryManagement\\MemoryManagement\\data.txt",
+              "RelativeDocumentMoniker": "MemoryManagement\\data.txt",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\MemoryManagement\\MemoryManagement\\data.txt",
+              "RelativeToolTip": "MemoryManagement\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-17T03:52:10.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\MemoryManagement\\MemoryManagement\\FileHandler.cs",
+              "RelativeDocumentMoniker": "MemoryManagement\\FileHandler.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\MemoryManagement\\MemoryManagement\\FileHandler.cs",
+              "RelativeToolTip": "MemoryManagement\\FileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:51:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\MemoryManagement\\MemoryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "MemoryManagement\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\MemoryManagement\\MemoryManagement\\Program.cs",
+              "RelativeToolTip": "MemoryManagement\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:51:22.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
