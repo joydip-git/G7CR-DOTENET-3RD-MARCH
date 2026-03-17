@@ -1,0 +1,15 @@
+This is an web application where anyone can create blog posts on various technological topics.
+Blog posts has different categories, such as blog posts on .NET, Java, IoT, Python etc.
+	example blog post:
+	category: .NET
+	title: Reflection in .NET
+
+1. Any one can access the web app and view all the blog posts
+2. An user can add a new blog post, update or delete an existing blog post
+3. Only an admin and the author of the blog post can modify the blog post
+4. Blog posts can be filtered based on category, author, title
+5. Blog posts can be sorted based on title of the post, date and author etc.
+6. maintain a counter for number of views for a blog post
+7. blog posts can be liked, unliked and commented upon. anyone can like, unlike or comment on a blog post, but the user have to be logged in to do that
+
+ 
