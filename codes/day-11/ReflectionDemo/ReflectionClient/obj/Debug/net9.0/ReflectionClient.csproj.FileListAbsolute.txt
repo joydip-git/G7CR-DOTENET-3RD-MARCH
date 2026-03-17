@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\bin\Debug\net9.0\ReflectionClient.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\bin\Debug\net9.0\ReflectionClient.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\bin\Debug\net9.0\ReflectionClient.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\bin\Debug\net9.0\ReflectionClient.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\bin\Debug\net9.0\ReflectionClient.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\ReflectionClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\ReflectionClient.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\ReflectionClient.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\ReflectionClient.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\ReflectionClient.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\ReflectionClient.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\refint\ReflectionClient.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\ReflectionClient.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\ReflectionClient.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\ReflectionDemo\ReflectionClient\obj\Debug\net9.0\ref\ReflectionClient.dll

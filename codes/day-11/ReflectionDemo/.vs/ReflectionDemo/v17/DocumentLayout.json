@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\ReflectionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED797B9-390E-4D36-BF7A-31B3740EC29F}|ReflectionClient\\ReflectionClient.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\reflectiondemo\\reflectionclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED797B9-390E-4D36-BF7A-31B3740EC29F}|ReflectionClient\\ReflectionClient.csproj|solutionrelative:reflectionclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A168DC-3196-4E0E-B669-FCA716DACE0F}|SampleLibrary\\SampleLibrary.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\reflectiondemo\\samplelibrary\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A168DC-3196-4E0E-B669-FCA716DACE0F}|SampleLibrary\\SampleLibrary.csproj|solutionrelative:samplelibrary\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A168DC-3196-4E0E-B669-FCA716DACE0F}|SampleLibrary\\SampleLibrary.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\reflectiondemo\\samplelibrary\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A168DC-3196-4E0E-B669-FCA716DACE0F}|SampleLibrary\\SampleLibrary.csproj|solutionrelative:samplelibrary\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A168DC-3196-4E0E-B669-FCA716DACE0F}|SampleLibrary\\SampleLibrary.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\reflectiondemo\\samplelibrary\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A168DC-3196-4E0E-B669-FCA716DACE0F}|SampleLibrary\\SampleLibrary.csproj|solutionrelative:samplelibrary\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\ReflectionDemo\\ReflectionClient\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionClient\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\ReflectionDemo\\ReflectionClient\\Program.cs",
+              "RelativeToolTip": "ReflectionClient\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:02:19.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\ReflectionDemo\\SampleLibrary\\OperationResult.cs",
+              "RelativeDocumentMoniker": "SampleLibrary\\OperationResult.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\ReflectionDemo\\SampleLibrary\\OperationResult.cs",
+              "RelativeToolTip": "SampleLibrary\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:58:26.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOperations.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\ReflectionDemo\\SampleLibrary\\IOperations.cs",
+              "RelativeDocumentMoniker": "SampleLibrary\\IOperations.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\ReflectionDemo\\SampleLibrary\\IOperations.cs",
+              "RelativeToolTip": "SampleLibrary\\IOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:56:59.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\ReflectionDemo\\SampleLibrary\\Operations.cs",
+              "RelativeDocumentMoniker": "SampleLibrary\\Operations.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\ReflectionDemo\\SampleLibrary\\Operations.cs",
+              "RelativeToolTip": "SampleLibrary\\Operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:56:34.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
