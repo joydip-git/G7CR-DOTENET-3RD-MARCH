@@ -1,0 +1,12 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\bin\Debug\net9.0\ApplicationExceptions.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\bin\Debug\net9.0\ApplicationExceptions.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\bin\Debug\net9.0\ApplicationExceptions.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\obj\Debug\net9.0\ApplicationExceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\obj\Debug\net9.0\ApplicationExceptions.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\obj\Debug\net9.0\ApplicationExceptions.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\obj\Debug\net9.0\ApplicationExceptions.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\obj\Debug\net9.0\ApplicationExceptions.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\obj\Debug\net9.0\ApplicationExceptions.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\obj\Debug\net9.0\refint\ApplicationExceptions.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\obj\Debug\net9.0\ApplicationExceptions.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\ApplicationExceptions\obj\Debug\net9.0\ref\ApplicationExceptions.dll

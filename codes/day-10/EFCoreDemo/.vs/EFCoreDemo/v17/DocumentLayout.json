@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-10\\EFCoreDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9F841E3-E985-A09E-A76B-FEDBF7B1A5BA}|EFCoreDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-10\\efcoredemo\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9F841E3-E985-A09E-A76B-FEDBF7B1A5BA}|EFCoreDemo.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9F841E3-E985-A09E-A76B-FEDBF7B1A5BA}|EFCoreDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-10\\efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9F841E3-E985-A09E-A76B-FEDBF7B1A5BA}|EFCoreDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F841E3-E985-A09E-A76B-FEDBF7B1A5BA}|EFCoreDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-10\\efcoredemo\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F841E3-E985-A09E-A76B-FEDBF7B1A5BA}|EFCoreDemo.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/appdb/True/SqlTable/dbo.products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -32,14 +32,14 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.products.sql",
+              "Title": "dbo.products [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/appdb/True/SqlTable/dbo.products.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/appdb/True/SqlTable/dbo.products.sql",
+              "ToolTip": "dbo.products [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-03-16T11:29:15.507Z"
             },
@@ -54,26 +54,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-10\\EFCoreDemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-10\\EFCoreDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawBUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T11:21:10.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-10\\EFCoreDemo\\models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "models\\AppDbContext.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-10\\EFCoreDemo\\models\\AppDbContext.cs",
               "RelativeToolTip": "models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T10:27:28.531Z",
               "EditorCaption": ""
@@ -88,7 +88,8 @@
               "RelativeToolTip": "models\\Product.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T10:24:35.01Z"
+              "WhenOpened": "2026-03-16T10:24:35.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,7 +101,8 @@
               "RelativeToolTip": "models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T10:22:54.367Z"
+              "WhenOpened": "2026-03-16T10:22:54.367Z",
+              "EditorCaption": ""
             }
           ]
         }

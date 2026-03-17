@@ -37,9 +37,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.products.sql",
+              "Title": "dbo.products [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/appdb/True/SqlTable/dbo.products.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/appdb/True/SqlTable/dbo.products.sql",
+              "ToolTip": "dbo.products [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-03-16T11:29:15.507Z"
             },
@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-10\\EFCoreDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawBUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T11:21:10.399Z",
               "EditorCaption": ""
@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "models\\AppDbContext.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-10\\EFCoreDemo\\models\\AppDbContext.cs",
               "RelativeToolTip": "models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T10:27:28.531Z",
               "EditorCaption": ""
@@ -88,7 +88,8 @@
               "RelativeToolTip": "models\\Product.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T10:24:35.01Z"
+              "WhenOpened": "2026-03-16T10:24:35.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,7 +101,8 @@
               "RelativeToolTip": "models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T10:22:54.367Z"
+              "WhenOpened": "2026-03-16T10:22:54.367Z",
+              "EditorCaption": ""
             }
           ]
         }

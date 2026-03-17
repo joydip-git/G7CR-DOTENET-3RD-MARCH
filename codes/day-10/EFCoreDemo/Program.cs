@@ -5,31 +5,52 @@ using Microsoft.EntityFrameworkCore.ChangeTracking;
 AppDbContext? db = null;
 try
 {
+
     //db = new AppDbContext(@"server=joydip-pc\sqlexpress;database=appdb;integrated security=true; trust server certificate=true;");
     using (db = new AppDbContext())
     {
-        if (db.Database.EnsureCreated())
+        var pro = new Product { ProductId = 107, Price = 1, Description = "asjhsag", ProductName = "sample1" };
+        //first fetch all the records (behind the scene SQL SELECT quey will be fired to fetch all the records)
+        DbSet<Product> setOfProducts = db.Products;
+        setOfProducts.ToList().ForEach(p => Console.WriteLine(p.ProductName));
+
+        var first = setOfProducts.FirstOrDefault();
+        if (first != null)
+            first.ProductName = "the aclemist of bangalore";
+
+        if (first != null)
+            setOfProducts.Remove(first);
+
+        setOfProducts.Add(new Product { ProductId = 106, Price = 1, Description = "asjhsag", ProductName = "sample" });
+
+        var contextTracker = db.ChangeTracker;
+        var allEntries = contextTracker.Entries<Product>();
+        foreach (var entry in allEntries)
         {
-            //first fetch all the records (behind the scene SQL SELECT quey will be fired to fetch all the records)
-            DbSet<Product> setOfProducts = db.Products;
-
-            #region Operations    
-
-            //1. add a new record
-            //AddProduct(db, setOfProducts);
-
-            //2. update an existing record
-            //UpdateProduct(db, setOfProducts);
-
-            //3. delete an existing product
-            //DeleteProduct(db, setOfProducts);
-
-            //4. show all records
-            ShowProducts(setOfProducts);
-            //ShowCategories(db);
-
-            #endregion
+            Console.WriteLine($"{entry.Entity.ProductName}: {entry.State}");
         }
+
+        var entryForPro = setOfProducts.Entry(pro);
+        Console.WriteLine(entryForPro.Entity.ProductName + ":" + entryForPro.State);
+
+
+        #region Operations    
+
+        //1. add a new record
+        //AddProduct(db, setOfProducts);
+
+        //2. update an existing record
+        //UpdateProduct(db, setOfProducts);
+
+        //3. delete an existing product
+        //DeleteProduct(db, setOfProducts);
+
+        //4. show all records
+        ShowProducts(setOfProducts);
+        //ShowCategories(db);
+
+        #endregion
+
     }
 }
 catch (Exception e)
@@ -95,6 +116,6 @@ static void ShowProducts(DbSet<Product> setOfProducts)
 {
     foreach (var product in setOfProducts)
     {
-        System.Console.WriteLine(product.ProductId + ":" + product.ProductName + ":" + product.Price + ":" + product.Category.CategoryName);
+        System.Console.WriteLine(product.ProductId + ":" + product.ProductName + ":" + product.Price);
     }
 }
