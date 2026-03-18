@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\diwithoutkeyedservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|solutionrelative:diwithoutkeyedservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\diwithoutkeyedservice\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|solutionrelative:diwithoutkeyedservice\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\diwithoutkeyedservice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|solutionrelative:diwithoutkeyedservice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\diwithoutkeyedservice\\doublecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|solutionrelative:diwithoutkeyedservice\\doublecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\diwithoutkeyedservice\\intcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|solutionrelative:diwithoutkeyedservice\\intcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\diwithoutkeyedservice\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D8C190-57AB-4712-B4B5-6F7E345FC59B}|DIWithoutKeyedService\\DIWithoutKeyedService.csproj|solutionrelative:diwithoutkeyedservice\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\netcorefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|solutionrelative:netcorefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\netcorefeatures\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|solutionrelative:netcorefeatures\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\netcorefeatures\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|solutionrelative:netcorefeatures\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\netcorefeatures\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|solutionrelative:netcorefeatures\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\netcorefeatures\\netcorefeatures\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D5F6D4-7704-4D88-82E9-F577CA54B291}|NETCoreFeatures\\NETCoreFeatures.csproj|solutionrelative:netcorefeatures\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ITransaction.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\ITransaction.cs",
-              "RelativeDocumentMoniker": "NETCoreFeatures\\ITransaction.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\ITransaction.cs",
-              "RelativeToolTip": "NETCoreFeatures\\ITransaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\UserInterface.cs",
+              "RelativeDocumentMoniker": "DIWithoutKeyedService\\UserInterface.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\UserInterface.cs",
+              "RelativeToolTip": "DIWithoutKeyedService\\UserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T07:54:50.141Z",
+              "WhenOpened": "2026-03-18T10:11:36.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BankTransaction.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\BankTransaction.cs",
-              "RelativeDocumentMoniker": "NETCoreFeatures\\BankTransaction.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\BankTransaction.cs",
-              "RelativeToolTip": "NETCoreFeatures\\BankTransaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\Calculator.cs",
+              "RelativeDocumentMoniker": "DIWithoutKeyedService\\Calculator.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\Calculator.cs",
+              "RelativeToolTip": "DIWithoutKeyedService\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T07:54:19.065Z",
+              "WhenOpened": "2026-03-18T10:10:43.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoubleCalculator.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\DoubleCalculator.cs",
+              "RelativeDocumentMoniker": "DIWithoutKeyedService\\DoubleCalculator.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\DoubleCalculator.cs",
+              "RelativeToolTip": "DIWithoutKeyedService\\DoubleCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:10:16.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntCalculator.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\IntCalculator.cs",
+              "RelativeDocumentMoniker": "DIWithoutKeyedService\\IntCalculator.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\IntCalculator.cs",
+              "RelativeToolTip": "DIWithoutKeyedService\\IntCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:09:45.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\ICalculator.cs",
+              "RelativeDocumentMoniker": "DIWithoutKeyedService\\ICalculator.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\ICalculator.cs",
+              "RelativeToolTip": "DIWithoutKeyedService\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:09:21.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\Program.cs",
+              "RelativeDocumentMoniker": "DIWithoutKeyedService\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\Program.cs",
+              "RelativeToolTip": "DIWithoutKeyedService\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:52:51.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankTransaction.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\BankTransaction.cs",
+              "RelativeDocumentMoniker": "NETCoreFeatures\\BankTransaction.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\BankTransaction.cs",
+              "RelativeToolTip": "NETCoreFeatures\\BankTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:41:28.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "NETCoreFeatures\\SavingsAccount.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\SavingsAccount.cs",
+              "RelativeToolTip": "NETCoreFeatures\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:37:47.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "NETCoreFeatures\\CurrentAccount.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\CurrentAccount.cs",
+              "RelativeToolTip": "NETCoreFeatures\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:37:24.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\Program.cs",
               "RelativeDocumentMoniker": "NETCoreFeatures\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\Program.cs",
               "RelativeToolTip": "NETCoreFeatures\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T06:15:13.698Z",
               "EditorCaption": ""

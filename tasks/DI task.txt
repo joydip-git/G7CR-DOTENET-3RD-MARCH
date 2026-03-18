@@ -1,0 +1,7 @@
+a logger class to log exception in file which logs exceptions to a file
+a logger class to log exception in console which prints the exception detail in console
+
+dependency inject both 
+	- logger class object and 
+	- a ICalculator<T> type object
+into the User Interface class object

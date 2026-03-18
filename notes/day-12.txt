@@ -20,7 +20,8 @@ D: Dependency Inversion
 	1. Dependency Injection
 	2. Configuration
 	3. Logging
-	4. Hosting and application lifetime
+	4. Options pattern
+	5. Hosting and application lifetime
 
 Features			packages		
 
@@ -40,3 +41,51 @@ Configuration	Microsoft.Extensions.Configuration.Abstractions
 	Microsoft.Extensions.Configuration.UserSecrets
 	Microsoft.Extensions.Configuration.CommandLine
 	Microsoft.Extensions.Configuration.FileExtensions
+
+Options
+	Microsoft.Extensions.Options
+
+Hosting	Microsoft.Extensions.Hosting.Abstractions
+	Microsoft.Extensions.Hosting
+
+
+
+Dependency Injection:
+-------------------------
+A "dependency" is an object that another object depends on.
+
+.NET supports the dependency injection (DI) software design pattern, which is a technique for achieving Inversion of Control (IoC) between classes and their dependencies. 
+
+Dependency injection in .NET is a built-in part of the framework, along with configuration, logging, and the options pattern.
+
+Dependency injection addresses hard-coded dependency problems through:
+	1. The use of an interface or base class to abstract the dependency implementation.
+	2. Registration of the dependency in a service container.
+		A. .NET provides a built-in service container, IServiceProvider
+		B. Services are typically registered at the app's start-up and appended to an IServiceCollection
+		C. Once all services are added, use BuildServiceProvider to create the service container.
+
+	3. Injection of the service into the constructor of the class where it's used.
+
+The framework takes on the responsibility of creating an instance of the dependency and disposing of it when it's no longer needed.
+
+
+Service Lifetime:
+--------------------------------
+Enum => ServiceLifeTime
+		Singleton
+		Scoped
+		Transient
+
+IServiceProvider
+	-> GetKeyedService	    => used to create a service registered with a key and returns null if no such key found
+	-> GetRequiredKeyedService  => used to create a service registered with a key and throws exception if no such key found
+
+	-> GetService		    => used to create a service (not registered with a key) and return null if no such key found
+	-> GetRequiredService       => used to create a service (not registered with a key) and throws exception if no such key found
+
+
+
+	
+
+

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "F2bZzUz9cq4=",
+  "dgSpecHash": "OX0kHvH0oSo=",
   "success": true,
   "projectFilePath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\NETCoreFeatures\\NETCoreFeatures.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.14\\microsoft.extensions.dependencyinjection.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.14\\microsoft.extensions.dependencyinjection.abstractions.9.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

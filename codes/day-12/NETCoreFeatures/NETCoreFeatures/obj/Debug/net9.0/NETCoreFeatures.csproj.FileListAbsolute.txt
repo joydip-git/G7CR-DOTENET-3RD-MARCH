@@ -13,3 +13,7 @@ E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.pdb
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.genruntimeconfig.cache
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\ref\NETCoreFeatures.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.csproj.AssemblyReference.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreF.0C4D5878.Up2Date

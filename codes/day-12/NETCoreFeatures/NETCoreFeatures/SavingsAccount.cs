@@ -2,6 +2,10 @@
 {
     public class SavingsAccount : BankAccount
     {
+        public SavingsAccount()
+        {
+            Console.WriteLine("savings account created");
+        }
         public override void Withdraw(double amount)
         {
             if (amount <= 0)

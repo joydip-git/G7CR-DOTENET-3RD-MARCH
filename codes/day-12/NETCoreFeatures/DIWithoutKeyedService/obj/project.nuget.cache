@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r572z1cfvOE=",
+  "success": true,
+  "projectFilePath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\NETCoreFeatures\\DIWithoutKeyedService\\DIWithoutKeyedService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.14\\microsoft.extensions.dependencyinjection.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.14\\microsoft.extensions.dependencyinjection.abstractions.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
