@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\EFCoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ACE4E7-36C6-4E1E-99B0-329A9977C6EF}|EFCoreDemo\\EFCoreDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\efcoredemo\\efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ACE4E7-36C6-4E1E-99B0-329A9977C6EF}|EFCoreDemo\\EFCoreDemo.csproj|solutionrelative:efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ACE4E7-36C6-4E1E-99B0-329A9977C6EF}|EFCoreDemo\\EFCoreDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\efcoredemo\\efcoredemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ACE4E7-36C6-4E1E-99B0-329A9977C6EF}|EFCoreDemo\\EFCoreDemo.csproj|solutionrelative:efcoredemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ACE4E7-36C6-4E1E-99B0-329A9977C6EF}|EFCoreDemo\\EFCoreDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\efcoredemo\\efcoredemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ACE4E7-36C6-4E1E-99B0-329A9977C6EF}|EFCoreDemo\\EFCoreDemo.csproj|solutionrelative:efcoredemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ACE4E7-36C6-4E1E-99B0-329A9977C6EF}|EFCoreDemo\\EFCoreDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-12\\efcoredemo\\efcoredemo\\repository\\emloyeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ACE4E7-36C6-4E1E-99B0-329A9977C6EF}|EFCoreDemo\\EFCoreDemo.csproj|solutionrelative:efcoredemo\\repository\\emloyeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\EFCoreDemo\\EFCoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\EFCoreDemo\\EFCoreDemo\\Program.cs",
+              "RelativeToolTip": "EFCoreDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:49:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\EFCoreDemo\\EFCoreDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCoreDemo\\Models\\Employee.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\EFCoreDemo\\EFCoreDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "EFCoreDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:10:55.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\EFCoreDemo\\EFCoreDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EFCoreDemo\\Models\\Department.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\EFCoreDemo\\EFCoreDemo\\Models\\Department.cs",
+              "RelativeToolTip": "EFCoreDemo\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:09:39.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmloyeeDbContext.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\EFCoreDemo\\EFCoreDemo\\Repository\\EmloyeeDbContext.cs",
+              "RelativeDocumentMoniker": "EFCoreDemo\\Repository\\EmloyeeDbContext.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-12\\EFCoreDemo\\EFCoreDemo\\Repository\\EmloyeeDbContext.cs",
+              "RelativeToolTip": "EFCoreDemo\\Repository\\EmloyeeDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:02:15.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
