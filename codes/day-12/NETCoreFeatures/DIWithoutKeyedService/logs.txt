@@ -1,0 +1,8 @@
+﻿Logged at: 18-03-2026 16:39:18
+Message: denominator: b should NOT be zero or negative
+Method: Int32 Divide(Int32, Int32)
+Source: DIWithoutKeyedService
+Details:    at DIWithoutKeyedService.IntCalculator.Divide(Int32 a, Int32 b) in E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\DIWithoutKeyedService\IntCalculator.cs:line 13
+   at DIWithoutKeyedService.Calculator`1.Calculate(T x, T y) in E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\DIWithoutKeyedService\Calculator.cs:line 11
+   at DIWithoutKeyedService.UserInterface.Run(Object[] args) in E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\DIWithoutKeyedService\UserInterface.cs:line 15
+

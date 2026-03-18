@@ -6,5 +6,12 @@
         {
             return a + b;
         }
+
+        public double Divide(double a, double b)
+        {
+            if (b <= 0)
+                throw new ArgumentException($"denominator: {nameof(b)} should NOT be zero or negative");
+            return a / b;
+        }
     }
 }

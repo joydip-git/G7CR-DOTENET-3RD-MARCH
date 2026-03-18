@@ -1,6 +1,6 @@
 ﻿namespace DIWithoutKeyedService
 {
-    public class Calculator<T>(ICalculator<T> calculator)
+    public class Calculator<T>(ICalculator<T> calculator) : ICalculationContract<T>
     {
         private readonly ICalculator<T> calculator = calculator;
 
@@ -8,6 +8,7 @@
         {
             try
             {
+                _ = calculator.Divide(x, y);
                 return calculator.Add(x, y);
             }
             catch

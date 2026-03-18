@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIWithoutKeyedService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5e175463dd6bbf73a77310b7e16a76578c92ede")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e4c2343d67a27dcba5429122756125674ebdd94")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIWithoutKeyedService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIWithoutKeyedService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

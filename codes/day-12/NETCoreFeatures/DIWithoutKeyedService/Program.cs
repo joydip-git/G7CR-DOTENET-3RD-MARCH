@@ -7,13 +7,22 @@ IServiceCollection serviceRegistry = new ServiceCollection();
 IServiceProvider container = serviceRegistry
     .AddSingleton<ICalculator<int>, IntCalculator>()
     .AddSingleton<ICalculator<double>, DoubleCalculator>()
-    .AddSingleton<Calculator<int>>()
+    .AddSingleton<ICalculationContract<int>, Calculator<int>>()
+    .AddKeyedSingleton<IExceptionLogger, FileLogger>(LoggerType.FileLogger)
+    .AddKeyedSingleton<IExceptionLogger, ConsoleLogger>(LoggerType.ConsoleLogger)
     .BuildServiceProvider();
 
-//Calculator<int> intCalc = container.GetRequiredService<Calculator<int>>();
+ICalculationContract<int> intCalc = container.GetRequiredService<ICalculationContract<int>>();
+IExceptionLogger logger = container.GetRequiredKeyedService<IExceptionLogger>(LoggerType.FileLogger);
 
-UserInterface userInterface = new();
-userInterface.Run();
+UserInterface userInterface = new(intCalc, logger);
+userInterface.Run(12, 0);
+
+enum LoggerType
+{
+    FileLogger,
+    ConsoleLogger
+}
 
 
 

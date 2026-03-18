@@ -17,3 +17,4 @@ E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\DIWithoutKeyedS
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\DIWithoutKeyedService\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\DIWithoutKeyedService\obj\Debug\net9.0\DIWithoutKeyedService.csproj.AssemblyReference.cache
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\DIWithoutKeyedService\obj\Debug\net9.0\DIWithou.33EE823C.Up2Date
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\DIWithoutKeyedService\bin\Debug\net9.0\logs.txt
