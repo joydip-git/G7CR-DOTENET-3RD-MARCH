@@ -2,3 +2,41 @@ EF Core:
 --------------
 OR/M tool
 change tracking facility
+
+dotnet ef migrations add 
+
+
+loose coupling and dependency inversion
+--------------------------------------------
+in s/w architecture an object should NOT rely on concrete object, rather it should rely on abstractness
+
+S: Single Responsibility
+O: Open Close 
+L: Liskov Substituion
+I: Interface Segregation
+D: Dependency Inversion
+
+.NET Core/Main Features:
+	1. Dependency Injection
+	2. Configuration
+	3. Logging
+	4. Hosting and application lifetime
+
+Features			packages		
+
+			abstractions and concrete/implementation
+------------------------------------------------------------------------
+DI	Microsoft.Extensions.DependencyInjection.Abstractions 
+	Microsoft.Extensions.DependencyInjection
+
+Logging	Microsoft.Extensions.Logging.Abstractions
+	Microsoft.Extensions.Logging
+
+Configuration	Microsoft.Extensions.Configuration.Abstractions
+	Microsoft.Extensions.Configuration
+	Microsoft.Extensions.Configuration.Binder
+	Microsoft.Extensions.Configuration.Json
+	Microsoft.Extensions.Configuration.EnvironmentVariables
+	Microsoft.Extensions.Configuration.UserSecrets
+	Microsoft.Extensions.Configuration.CommandLine
+	Microsoft.Extensions.Configuration.FileExtensions

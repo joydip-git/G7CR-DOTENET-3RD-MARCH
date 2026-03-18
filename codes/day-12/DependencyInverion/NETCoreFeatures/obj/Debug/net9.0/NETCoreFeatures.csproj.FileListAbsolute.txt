@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\bin\Debug\net9.0\NETCoreFeatures.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\bin\Debug\net9.0\NETCoreFeatures.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\bin\Debug\net9.0\NETCoreFeatures.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\bin\Debug\net9.0\NETCoreFeatures.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\bin\Debug\net9.0\NETCoreFeatures.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\refint\NETCoreFeatures.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\NETCoreFeatures.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-12\NETCoreFeatures\NETCoreFeatures\obj\Debug\net9.0\ref\NETCoreFeatures.dll
