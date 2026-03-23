@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/logdb/True/SqlTable/dbo.errorlogs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\optionspattern\\optionspattern\\repository\\errorloggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\repository\\errorloggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\optionspattern\\optionspattern\\models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\optionspattern\\optionspattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\optionspattern\\optionspattern\\errorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\errorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\optionspattern\\optionspattern\\ierrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\ierrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\optionspattern\\optionspattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\optionspattern\\optionspattern\\errors.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\errors.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\optionspattern\\optionspattern\\optionspattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\optionspattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\optionspattern\\optionspattern\\loggersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39C82E-7911-4797-998C-37A73982B768}|OptionsPattern\\OptionsPattern.csproj|solutionrelative:optionspattern\\loggersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.errorlogs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JOYDIP_PC_SQLEXPRESS/logdb/True/SqlTable/dbo.errorlogs.sql",
+              "ToolTip": "dbo.errorlogs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-23T11:26:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorLoggerDbContext.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\Repository\\ErrorLoggerDbContext.cs",
+              "RelativeDocumentMoniker": "OptionsPattern\\Repository\\ErrorLoggerDbContext.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\Repository\\ErrorLoggerDbContext.cs",
+              "RelativeToolTip": "OptionsPattern\\Repository\\ErrorLoggerDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:06:25.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorLog.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\Models\\ErrorLog.cs",
+              "RelativeDocumentMoniker": "OptionsPattern\\Models\\ErrorLog.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\Models\\ErrorLog.cs",
+              "RelativeToolTip": "OptionsPattern\\Models\\ErrorLog.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:59:45.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "errors.txt",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\errors.txt",
+              "RelativeDocumentMoniker": "OptionsPattern\\errors.txt",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\errors.txt",
+              "RelativeToolTip": "OptionsPattern\\errors.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-23T10:56:03.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggerSettings.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\LoggerSettings.cs",
+              "RelativeDocumentMoniker": "OptionsPattern\\LoggerSettings.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\LoggerSettings.cs",
+              "RelativeToolTip": "OptionsPattern\\LoggerSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:38:37.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OptionsPattern",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\OptionsPattern.csproj",
+              "RelativeDocumentMoniker": "OptionsPattern\\OptionsPattern.csproj",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\OptionsPattern.csproj",
+              "RelativeToolTip": "OptionsPattern\\OptionsPattern.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T10:30:27.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "OptionsPattern\\appsettings.json",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\appsettings.json",
+              "RelativeToolTip": "OptionsPattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T10:27:18.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorLogger.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\ErrorLogger.cs",
+              "RelativeDocumentMoniker": "OptionsPattern\\ErrorLogger.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\ErrorLogger.cs",
+              "RelativeToolTip": "OptionsPattern\\ErrorLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:19:57.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IErrorLogger.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\IErrorLogger.cs",
+              "RelativeDocumentMoniker": "OptionsPattern\\IErrorLogger.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\IErrorLogger.cs",
+              "RelativeToolTip": "OptionsPattern\\IErrorLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:19:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\Program.cs",
+              "RelativeDocumentMoniker": "OptionsPattern\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\OptionsPattern\\OptionsPattern\\Program.cs",
+              "RelativeToolTip": "OptionsPattern\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:17:11.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

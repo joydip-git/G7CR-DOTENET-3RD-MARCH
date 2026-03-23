@@ -1,0 +1,14 @@
+﻿Logged at: 23-03-2026 16:25:27
+Message: Attempted to divide by zero.
+Method: Int32 <<Main>$>g__Divide|0_0()
+Source: OptionsPattern
+Details:    at Program.<<Main>$>g__Divide|0_0() in E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-13\OptionsPattern\OptionsPattern\Program.cs:line 25
+   at Program.<Main>$(String[] args) in E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-13\OptionsPattern\OptionsPattern\Program.cs:line 9
+
+Logged at: 23-03-2026 16:25:59
+Message: Attempted to divide by zero.
+Method: Int32 <<Main>$>g__Divide|0_0()
+Source: OptionsPattern
+Details:    at Program.<<Main>$>g__Divide|0_0() in E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-13\OptionsPattern\OptionsPattern\Program.cs:line 25
+   at Program.<Main>$(String[] args) in E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-13\OptionsPattern\OptionsPattern\Program.cs:line 9
+
