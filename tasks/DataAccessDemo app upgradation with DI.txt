@@ -1,0 +1,6 @@
+DataAccessDemo app upgradation:
+Use DI to inject
+	1. DbContextOptions<ProductDbContext> in the ProductDbContext class constructor
+	2. ProductDbContext in the ProductRepository class constructor
+	3. IRepository type (ProductRepository) in the ProductManager class constructor
+	4. IManager type (ProductManager) in the Main method

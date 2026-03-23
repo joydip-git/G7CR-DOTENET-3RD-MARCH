@@ -2,7 +2,6 @@
 using BusinessEntities;
 using DataAccessLayer.Models;
 using DataAccessLayer.Repository;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace DataAccessLayer
 {

@@ -7,10 +7,10 @@ namespace DataAccessLayer.Repository
     public class ProductDbContext : DbContext
     {
         public DbSet<ProductEntity> ProductEntities { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(@"server=joydip-pc\sqlexpress;database=productdb;integrated security=true; trust server certificate=true;");
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer(@"server=joydip-pc\sqlexpress;database=productdb;integrated security=true; trust server certificate=true;");
+        //}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

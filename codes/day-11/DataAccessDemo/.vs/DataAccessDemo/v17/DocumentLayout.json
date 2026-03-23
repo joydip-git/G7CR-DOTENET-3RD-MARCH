@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\dataaccessdemo\\dataaccesslayer\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C92A4D-5038-4532-8DF1-298933D494BB}|ApplicationExceptions\\ApplicationExceptions.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\dataaccessdemo\\applicationexceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C92A4D-5038-4532-8DF1-298933D494BB}|ApplicationExceptions\\ApplicationExceptions.csproj|solutionrelative:applicationexceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7713E787-280A-4CF6-8993-95CF11900723}|DataAccessDemo\\DataAccessDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\dataaccessdemo\\dataaccessdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7713E787-280A-4CF6-8993-95CF11900723}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDE6E75F-0916-4937-932D-B3648B3B8343}|BusinessLayer\\BusinessLayer.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\dataaccessdemo\\businesslayer\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDE6E75F-0916-4937-932D-B3648B3B8343}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8DD92E1-4343-44AD-9106-1CE58B1279A8}|BusinessEntities\\BusinessEntities.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\dataaccessdemo\\businessentities\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8DD92E1-4343-44AD-9106-1CE58B1279A8}|BusinessEntities\\BusinessEntities.csproj|solutionrelative:businessentities\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\dataaccessdemo\\dataaccesslayer\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\dataaccessdemo\\dataaccesslayer\\models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-11\\dataaccessdemo\\dataaccesslayer\\repository\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B509DB-21DA-4D6B-A182-A5AF3FF22DC7}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductNotFoundException.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\ApplicationExceptions\\ProductNotFoundException.cs",
-              "RelativeDocumentMoniker": "ApplicationExceptions\\ProductNotFoundException.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\ApplicationExceptions\\ProductNotFoundException.cs",
-              "RelativeToolTip": "ApplicationExceptions\\ProductNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\DataAccessDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccessDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\DataAccessDemo\\Program.cs",
+              "RelativeToolTip": "DataAccessDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:38:28.653Z",
+              "WhenOpened": "2026-03-23T05:18:41.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\BusinessLayer\\ProductManager.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\ProductManager.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\BusinessLayer\\ProductManager.cs",
               "RelativeToolTip": "BusinessLayer\\ProductManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:36:31.378Z",
+              "WhenOpened": "2026-03-23T05:17:51.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\BusinessEntities\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "BusinessEntities\\ProductDTO.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\BusinessEntities\\ProductDTO.cs",
-              "RelativeToolTip": "BusinessEntities\\ProductDTO.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T10:39:56.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductEntity.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\DataAccessLayer\\Models\\ProductEntity.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\ProductEntity.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\DataAccessLayer\\Models\\ProductEntity.cs",
-              "RelativeToolTip": "DataAccessLayer\\Models\\ProductEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T10:24:53.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\DataAccessLayer\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\ProductRepository.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\DataAccessLayer\\ProductRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\ProductRepository.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAABIAAAB8AAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T10:22:25.199Z",
+              "WhenOpened": "2026-03-23T05:16:42.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\DataAccessLayer\\Repository\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\ProductDbContext.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-11\\DataAccessDemo\\DataAccessLayer\\Repository\\ProductDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\ProductDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:15:05.936Z",
               "EditorCaption": ""
             }
           ]
