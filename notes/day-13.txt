@@ -1,0 +1,32 @@
+.NET Core Features:
+	- Dependency Injection
+	- Configuration
+	- Options pattern
+	- Logging
+	- Hosting
+
+
+DI of DbContext:
+---------------------------
+use extension method "AddDbContext" of IServiceCollection to register the DbContext type
+
+Note: 
+1. the extension method is added to IServiceCollection from Microsoft.EntityFrameworkCore namespace from Microsoft.EntityFrameworkCore package [when you add reference to Microsoft.EntityFrameworkCore.SqlServer package, the reference to Microsoft.EntityFrameworkCore package is also added as transitive reference]
+2. There is no need of an interface for registering DbContext type
+
+the AddDbContext method can be registered in 2 ways:
+A. serviceRegistryObject.AddDbContext() => use when you are having a default constructor in the DbContext class and you have overridden the "OnConfiguring" method in the DbContext class to provide database provider information
+
+B. serviceRegistryObject.AddDbContext((Action<DbContextOptionsBuilder> builder)=> buolder.UseSqlServer("connection string")) => use when you are having a parameterized constructor in the DbContext class accepting an argument of type DbContextOptions<T> and you have either NOT overridden the "OnConfiguring" method in the DbContext class or has overriden the "OnConfiguring" method but is commented after migration, to provide database provider information.
+
+use the GetService/GetRequiredService method of the IServiceProvider type to instantiate the DbContext type.
+
+
+Unhandled exception. System.InvalidOperationException: No database provider has been configured for this DbContext. 
+A provider can be configured
+1. by overriding the 'DbContext.OnConfiguring' method or 
+2. by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+
+
+Unhandled exception. System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ProductDbContext'.
