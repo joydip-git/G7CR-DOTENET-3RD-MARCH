@@ -2,7 +2,15 @@
 using DependencyInjectionDemo;
 using DependencyInjectionDemo.Repository;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+
+IConfigurationBuilder configBuilder = new ConfigurationBuilder();
+IConfigurationRoot configurationProvider =
+       configBuilder
+       .SetBasePath(Directory.GetCurrentDirectory())
+       .AddJsonFile(@"appsettings.json", false, true)
+       .Build();
 
 IServiceCollection serviceRegistry = new ServiceCollection();
 ServiceDescriptor serviceDescriptor = new(
@@ -12,8 +20,9 @@ ServiceDescriptor serviceDescriptor = new(
     );
 serviceRegistry.Add(serviceDescriptor);
 
-Action<DbContextOptionsBuilder> action = (optionsBuilder) => optionsBuilder.UseSqlServer(@"server=.\sqlexpress; database=productdb; integrated security=true;trust server certificate=true;");
-serviceRegistry.AddDbContext<ProductDbContext>(action, contextLifetime: ServiceLifetime.Scoped);
+Action<DbContextOptionsBuilder> action = (optionsBuilder) => optionsBuilder.UseSqlServer(configurationProvider.GetConnectionString("ProductDbConStr"));
+serviceRegistry
+    .AddDbContext<ProductDbContext>(action, contextLifetime: ServiceLifetime.Scoped);
 
 IServiceProvider provider = serviceRegistry.BuildServiceProvider();
 using (var context = provider.GetRequiredService<ProductDbContext>())

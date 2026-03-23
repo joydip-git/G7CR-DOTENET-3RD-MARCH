@@ -37,6 +37,25 @@ Object name: 'ProductDbContext'.
 
 2. Configuration:
 --------------------
+packages:
+
+Microsoft.Extensions.Configutaion.Abstractions (interfaces)
+Microsoft.Extensions.Configutaion (implementations)
+
+for JOSON file:
+Microsoft.Extensions.Configutaion.Json
+
+for binding setting with an object:
+Microsoft.Extensions.Configutaion.Binder (for extra extension methods like Get<T>())
+
+3. options pattern
+----------------------------
+packages:
+
+Microsoft.Extensions.Options
+
+with configuration 
+Microsoft.Extensions.Options.ConfigutaionExtensions (IServiceCollection.Configure<TOptions>() method)
 
 
 

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QYVbd0Rf6U=",
+  "success": true,
+  "projectFilePath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\OptionsPatternDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.14\\microsoft.extensions.configuration.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.14\\microsoft.extensions.configuration.abstractions.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.14\\microsoft.extensions.configuration.binder.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.14\\microsoft.extensions.configuration.fileextensions.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.14\\microsoft.extensions.configuration.json.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.14\\microsoft.extensions.dependencyinjection.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.14\\microsoft.extensions.dependencyinjection.abstractions.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.14\\microsoft.extensions.fileproviders.abstractions.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.14\\microsoft.extensions.fileproviders.physical.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.14\\microsoft.extensions.filesystemglobbing.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.options\\9.0.14\\microsoft.extensions.options.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.14\\microsoft.extensions.options.configurationextensions.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.14\\microsoft.extensions.primitives.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

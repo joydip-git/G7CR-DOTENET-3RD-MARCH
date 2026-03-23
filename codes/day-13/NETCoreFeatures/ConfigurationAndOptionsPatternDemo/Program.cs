@@ -12,12 +12,14 @@ configBuilder
     .AddJsonFile(@"appsettings.json", false, true);
 
 IConfigurationRoot configProvider = configBuilder.Build();
+
 //var data = configProvider["key1"];
 var data = configProvider.GetSection("key1").Value;
 var data2 = configProvider["key2"];
 Console.WriteLine(data2);
 //var server = configProvider.GetSection("productDbConStr").GetSection("server").Value;
-var server = configProvider.GetSection("productDbConStr:server").Value;
+//var server = configProvider.GetSection("productDbConStr:server").Value;
+var server = configProvider["productDbConStr:server"];
 Console.WriteLine(data);
 Console.WriteLine(server);
 
@@ -36,6 +38,3 @@ var productDbConStr = configProvider
     .Get<ProductDbConStr>(action);
 
 Console.WriteLine(productDbConStr);
-
-
-

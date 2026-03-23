@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EABE7F9-6D56-4297-BD36-25FAE83099F0}|ConfigurationAndOptionsPatternDemo\\ConfigurationAndOptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\configurationandoptionspatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EABE7F9-6D56-4297-BD36-25FAE83099F0}|ConfigurationAndOptionsPatternDemo\\ConfigurationAndOptionsPatternDemo.csproj|solutionrelative:configurationandoptionspatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\optionspatterndemo\\fileoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|solutionrelative:optionspatterndemo\\fileoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EABE7F9-6D56-4297-BD36-25FAE83099F0}|ConfigurationAndOptionsPatternDemo\\ConfigurationAndOptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\configurationandoptionspatterndemo\\productdbconstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EABE7F9-6D56-4297-BD36-25FAE83099F0}|ConfigurationAndOptionsPatternDemo\\ConfigurationAndOptionsPatternDemo.csproj|solutionrelative:configurationandoptionspatterndemo\\productdbconstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\optionspatterndemo\\filesettingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|solutionrelative:optionspatterndemo\\filesettingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EABE7F9-6D56-4297-BD36-25FAE83099F0}|ConfigurationAndOptionsPatternDemo\\ConfigurationAndOptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\configurationandoptionspatterndemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0EABE7F9-6D56-4297-BD36-25FAE83099F0}|ConfigurationAndOptionsPatternDemo\\ConfigurationAndOptionsPatternDemo.csproj|solutionrelative:configurationandoptionspatterndemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\optionspatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|solutionrelative:optionspatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEABC76-3C11-4EEE-AF71-3895EDDA1CF4}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEABC76-3C11-4EEE-AF71-3895EDDA1CF4}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEABC76-3C11-4EEE-AF71-3895EDDA1CF4}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\dependencyinjectiondemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCEABC76-3C11-4EEE-AF71-3895EDDA1CF4}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\optionspatterndemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|solutionrelative:optionspatterndemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\optionspatterndemo\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|solutionrelative:optionspatterndemo\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\optionspatterndemo\\ifileoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE78C380-A5B0-46A1-A2DA-04C020267EAB}|OptionsPatternDemo\\OptionsPatternDemo.csproj|solutionrelative:optionspatterndemo\\ifileoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\DependencyInjectionDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "DependencyInjectionDemo\\appsettings.json",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\DependencyInjectionDemo\\appsettings.json",
+              "RelativeToolTip": "DependencyInjectionDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T09:36:45.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\ConfigurationAndOptionsPatternDemo\\Program.cs",
-              "RelativeDocumentMoniker": "ConfigurationAndOptionsPatternDemo\\Program.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\ConfigurationAndOptionsPatternDemo\\Program.cs",
-              "RelativeToolTip": "ConfigurationAndOptionsPatternDemo\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\DependencyInjectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\DependencyInjectionDemo\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionDemo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T07:07:29.794Z",
+              "WhenOpened": "2026-03-23T09:34:12.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileOperations.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\FileOperations.cs",
+              "RelativeDocumentMoniker": "OptionsPatternDemo\\FileOperations.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\FileOperations.cs",
+              "RelativeToolTip": "OptionsPatternDemo\\FileOperations.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:31:42.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "data.txt",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\data.txt",
+              "RelativeDocumentMoniker": "OptionsPatternDemo\\data.txt",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\data.txt",
+              "RelativeToolTip": "OptionsPatternDemo\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-23T09:21:51.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductDbConStr.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\ConfigurationAndOptionsPatternDemo\\ProductDbConStr.cs",
-              "RelativeDocumentMoniker": "ConfigurationAndOptionsPatternDemo\\ProductDbConStr.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\ConfigurationAndOptionsPatternDemo\\ProductDbConStr.cs",
-              "RelativeToolTip": "ConfigurationAndOptionsPatternDemo\\ProductDbConStr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Title": "FileSettingOptions.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\FileSettingOptions.cs",
+              "RelativeDocumentMoniker": "OptionsPatternDemo\\FileSettingOptions.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\FileSettingOptions.cs",
+              "RelativeToolTip": "OptionsPatternDemo\\FileSettingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T07:06:28.386Z",
+              "WhenOpened": "2026-03-23T08:53:23.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "OptionsPatternDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\Program.cs",
+              "RelativeToolTip": "OptionsPatternDemo\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:42:10.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFileOperations.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\IFileOperations.cs",
+              "RelativeDocumentMoniker": "OptionsPatternDemo\\IFileOperations.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\IFileOperations.cs",
+              "RelativeToolTip": "OptionsPatternDemo\\IFileOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:40:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\ConfigurationAndOptionsPatternDemo\\appsettings.json",
-              "RelativeDocumentMoniker": "ConfigurationAndOptionsPatternDemo\\appsettings.json",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\ConfigurationAndOptionsPatternDemo\\appsettings.json",
-              "RelativeToolTip": "ConfigurationAndOptionsPatternDemo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "OptionsPatternDemo\\appsettings.json",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\OptionsPatternDemo\\appsettings.json",
+              "RelativeToolTip": "OptionsPatternDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-23T07:06:06.899Z",
+              "WhenOpened": "2026-03-23T08:39:33.824Z",
               "EditorCaption": ""
             }
           ]
