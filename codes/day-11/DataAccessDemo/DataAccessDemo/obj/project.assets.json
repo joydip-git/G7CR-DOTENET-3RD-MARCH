@@ -1922,7 +1922,8 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "BusinessLayer >= 1.0.0",
-      "Microsoft.Data.SqlClient >= 6.1.4"
+      "Microsoft.Data.SqlClient >= 6.1.4",
+      "Microsoft.Extensions.DependencyInjection >= 9.0.14"
     ]
   },
   "packageFolders": {
@@ -1982,6 +1983,10 @@
           "Microsoft.Data.SqlClient": {
             "target": "Package",
             "version": "[6.1.4, )"
+          },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[9.0.14, )"
           }
         },
         "imports": [

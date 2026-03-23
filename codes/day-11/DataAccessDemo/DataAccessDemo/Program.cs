@@ -1,15 +1,21 @@
 ﻿using BusinessLayer;
 using BusinessEntities;
+using Microsoft.Extensions.DependencyInjection;
+using DataAccessLayer;
+using DataAccessLayer.Repository;
+using Microsoft.EntityFrameworkCore;
 
 IManager<ProductDTO, int>? manager = null;
 try
 {
+    var provider = ConfigureServices();
     char toContinue = 'n';
     do
     {
         ShowMenu();
         int choice = GetChoice();
-        manager = new ProductManager();
+        //manager = new ProductManager();
+        manager = provider.GetRequiredService<IManager<ProductDTO, int>>();
         Execute(manager, choice);
         Decide(ref toContinue);
     } while (toContinue != 'n');
@@ -17,6 +23,21 @@ try
 catch (Exception e)
 {
     Console.WriteLine(e);
+}
+
+static IServiceProvider ConfigureServices()
+{
+    IServiceCollection registry = new ServiceCollection();
+
+    Action<DbContextOptionsBuilder> action = (DbContextOptionsBuilder builder) => builder.UseSqlServer(@"server=joydip-pc\sqlexpress;database=productdb;integrated security=true; trust server certificate=true;");
+
+    registry
+        .AddDbContext<ProductDbContext>(action, contextLifetime: ServiceLifetime.Singleton)
+        .AddSingleton<IRepository<ProductDTO, int>, ProductRepository>()
+        .AddSingleton<IManager<ProductDTO, int>, ProductManager>();
+
+    IServiceProvider provider = registry.BuildServiceProvider();
+    return provider;
 }
 
 #region Local Utility Functions
@@ -49,22 +70,36 @@ static void ShowAllProducts(IManager<ProductDTO, int> manager)
 static void ShowARecord(IManager<ProductDTO, int> manager)
 {
     Console.WriteLine("\n\n");
-    var product = manager.Fetch(100);
-    Console.WriteLine(product?.ToString());
+    Console.Write("enter id: ");
+    bool possible = int.TryParse(Console.ReadLine(), out int id);
+    if (possible)
+    {
+        var product = manager.Fetch(id);
+        Console.WriteLine(product?.ToString());
+    }
+    else
+        Console.WriteLine("not possible to convert your input into integer");
 }
 static void AddProduct(IManager<ProductDTO, int> manager)
 {
     var status = manager.Insert(
-        new ProductDTO { Name = "Pillars of the Earth", Price = 699.00M, Description = "New book from Ken Follet" }
+        new ProductDTO { Id = 0, Name = "Pillars of the Earth", Price = 699.00M, Description = "New book from Ken Follet" }
         );
     Console.WriteLine(status ? "Product Added Successfully" : "Operation failed");
 }
 static void UpdateProduct(IManager<ProductDTO, int> manager)
 {
-    var status = manager.Modify(103,
-        new ProductDTO { Name = "The Alchemist", Price = 799.00M, Description = "New book from Paul Cohelo" }
-        );
-    Console.WriteLine(status ? "Product Updated Successfully" : "Operation failed");
+    Console.Write("enter id: ");
+    bool possible = int.TryParse(Console.ReadLine(), out int id);
+    if (possible)
+    {
+        var status = manager.Modify(id,
+            new ProductDTO { Name = "The Alchemist", Price = 799.00M, Description = "New book from Paul Cohelo" }
+            );
+        Console.WriteLine(status ? "Product Updated Successfully" : "Operation failed");
+    }
+    else
+        Console.WriteLine("not possible to convert your input into integer");
 }
 static void DeleteProduct(IManager<ProductDTO, int> manager)
 {

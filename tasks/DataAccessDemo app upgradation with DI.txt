@@ -4,3 +4,15 @@ Use DI to inject
 	2. ProductDbContext in the ProductRepository class constructor
 	3. IRepository type (ProductRepository) in the ProductManager class constructor
 	4. IManager type (ProductManager) in the Main method
+
+An object of ProductDbContext "depends on" an object of DbContextOptions<ProductDbContext>
+	=> create a parameterized constructor inside the ProductDbContext class which accepts one argument of type DbContextOptions<ProductDbContext>
+
+An object of IRepository type (ProductRepository) "depends on" an object of ProductDbContext
+	=>  create a parameterized constructor inside the ProductRepository class which accepts one argument of type ProductDbContext
+
+An object of IManager type (ProductManager) "depends on" an object of IRepository type (ProductRepository)
+	=> create a parameterized constructor inside the ProductManager class which accepts one argument of type IRepository (ProductRepository)
+
+Main method "depends on" an object of IManager type (ProductManager)
+

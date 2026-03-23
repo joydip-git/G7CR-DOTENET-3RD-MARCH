@@ -6,7 +6,12 @@ namespace BusinessLayer
     public class ProductManager : IManager<ProductDTO, int>
     {
         private readonly IRepository<ProductDTO, int> _repository;
-        public ProductManager() => _repository = new ProductRepository();
+        //public ProductManager() => _repository = new ProductRepository();
+        public ProductManager(IRepository<ProductDTO, int> repository)
+        {
+            _repository = repository;
+            Console.WriteLine("manager created...");
+        }
 
         public ProductDTO? Fetch(int id)
         {
@@ -54,7 +59,7 @@ namespace BusinessLayer
                 if (string.IsNullOrEmpty(value))
                     throw new ArgumentException($"{nameof(value)} is either null or empty");
 
-               var all = _repository.GetAll();
+                var all = _repository.GetAll();
                 return all?.Where(p => p.Name.ToLower().Contains(value.ToLower()));
             }
             catch
@@ -67,9 +72,9 @@ namespace BusinessLayer
         {
             try
             {
-                int id = 100;
-                data.Id = id;
-                return false;
+                //int id = 100;
+                //data.Id = id;
+                return _repository.Add(data);
             }
             catch
             {
@@ -81,7 +86,10 @@ namespace BusinessLayer
         {
             try
             {
-                return false;
+                if (id <= 0)
+                    throw new ArgumentException($"{nameof(id)} should not be zero or negative");
+                else
+                    return _repository.Update(id, data);
             }
             catch
             {
@@ -93,7 +101,10 @@ namespace BusinessLayer
         {
             try
             {
-                return false;
+                if (id <= 0)
+                    throw new ArgumentException($"{nameof(id)} should not be zero or negative");
+                else
+                    return _repository.Delete(id);
             }
             catch
             {

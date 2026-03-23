@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCEABC76-3C11-4EEE-AF71-3895EDDA1CF4}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCEABC76-3C11-4EEE-AF71-3895EDDA1CF4}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCEABC76-3C11-4EEE-AF71-3895EDDA1CF4}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\dependencyinjectiondemo\\repository\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCEABC76-3C11-4EEE-AF71-3895EDDA1CF4}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\repository\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EABE7F9-6D56-4297-BD36-25FAE83099F0}|ConfigurationAndOptionsPatternDemo\\ConfigurationAndOptionsPatternDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-13\\netcorefeatures\\configurationandoptionspatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABE7F9-6D56-4297-BD36-25FAE83099F0}|ConfigurationAndOptionsPatternDemo\\ConfigurationAndOptionsPatternDemo.csproj|solutionrelative:configurationandoptionspatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\DependencyInjectionDemo\\Repository\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "DependencyInjectionDemo\\Repository\\ProductDbContext.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\DependencyInjectionDemo\\Repository\\ProductDbContext.cs",
-              "RelativeToolTip": "DependencyInjectionDemo\\Repository\\ProductDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T04:39:49.692Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\DependencyInjectionDemo\\Program.cs",
-              "RelativeDocumentMoniker": "DependencyInjectionDemo\\Program.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\DependencyInjectionDemo\\Program.cs",
-              "RelativeToolTip": "DependencyInjectionDemo\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\ConfigurationAndOptionsPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigurationAndOptionsPatternDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-13\\NETCoreFeatures\\ConfigurationAndOptionsPatternDemo\\Program.cs",
+              "RelativeToolTip": "ConfigurationAndOptionsPatternDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T04:30:09.566Z",
+              "WhenOpened": "2026-03-23T05:37:40.986Z",
               "EditorCaption": ""
             }
           ]

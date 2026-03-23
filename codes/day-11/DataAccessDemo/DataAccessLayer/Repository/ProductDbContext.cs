@@ -6,6 +6,11 @@ namespace DataAccessLayer.Repository
 {
     public class ProductDbContext : DbContext
     {
+        public ProductDbContext(DbContextOptions<ProductDbContext> options) : base(options) 
+        {
+            Console.WriteLine("db context created...");
+        }
+
         public DbSet<ProductEntity> ProductEntities { get; set; }
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         //{

@@ -102,14 +102,11 @@ E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\b
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.ClientModel.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
-E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.Formats.Asn1.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.Memory.Data.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\System.Text.Json.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
 E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-11\DataAccessDemo\DataAccessDemo\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
