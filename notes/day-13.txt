@@ -6,7 +6,7 @@
 	- Hosting
 
 
-DI of DbContext:
+1. DI and DI of DbContext:
 ---------------------------
 use extension method "AddDbContext" of IServiceCollection to register the DbContext type
 
@@ -21,12 +21,23 @@ B. serviceRegistryObject.AddDbContext((Action<DbContextOptionsBuilder> builder)=
 
 use the GetService/GetRequiredService method of the IServiceProvider type to instantiate the DbContext type.
 
+Different errors:
+-------------------------------
+A. If you don't provide connection string (provider information) to DbContext class
 
 Unhandled exception. System.InvalidOperationException: No database provider has been configured for this DbContext. 
 A provider can be configured
 1. by overriding the 'DbContext.OnConfiguring' method or 
 2. by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
 
+B. If you try to use an already disposed DbContext instance though the instance is Singleton and you created instance of that DbContext class inside a scope
 
 Unhandled exception. System.ObjectDisposedException: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
 Object name: 'ProductDbContext'.
+
+2. Configuration:
+--------------------
+
+
+
+
