@@ -17,8 +17,8 @@ If you use Hosting service then you don't need to
 etc.
 
 Types of Host
-	- generic host
-	- web host (asp.net core)
+	- generic host => IHost (HostBuilder/HostApplicationBuilder)
+	- web host (asp.net core) => WebApplication (WebApplicationBuilder)
 	- host for hosted service (legacy windows service)
 
 ApplicatiomExceptions 	- ProductNotFoundException
@@ -28,6 +28,29 @@ Repository 		- ProductDbContext
 DataAccessLayer		- IRepository<T,TPkey>, ProductRepository
 settings		- appsettings.json
 OptionsEntities		- LoggerSettings
+
+.NET
+--------------
+runtimes:
+	core app: 	.Net runtime
+	web app:  	Asp.Net Core runtime
+	desktop app: 	Desktop runtime
+
+ASP.NET Core
+-----------------------
+runtime: Asp.Net Core runtime
+
+web apps:
+	Asp.Net Core Blazor app
+	Asp.Net Core Razor Pages Web App 
+	Asp.Net Core MVC Web App 
+
+	Asp.Net Core Web API 
+	Asp.Net Core gRpc service
+
+	Asp.Net Core Empty App
+
+
 
 
 

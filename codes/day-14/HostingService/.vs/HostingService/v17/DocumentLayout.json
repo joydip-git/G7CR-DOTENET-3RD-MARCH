@@ -42,8 +42,7 @@
               "RelativeToolTip": "HostingService\\OptionsEntities\\LoggerSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T06:00:08.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T06:00:08.184Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "HostingService\\appsettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-24T05:37:13.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T05:37:13.758Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "HostingService\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-14\\HostingService\\HostingService\\Program.cs",
               "RelativeToolTip": "HostingService\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAqwDAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T05:18:42.707Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "HostingService\\Repository\\ProductDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T05:18:20.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T05:18:20.154Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "HostingService\\DataAccessLayer\\ProductRepository.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T05:18:16.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T05:18:16.421Z"
             }
           ]
         }

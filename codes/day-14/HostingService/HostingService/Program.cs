@@ -12,28 +12,45 @@ using Microsoft.Extensions.Options;
 
 try
 {
-    var hostBuilder = new HostApplicationBuilder();
-    //HostApplicationBuilder when created, automatically instances of IServiceCollection (ServiceCollection) and IConfigurationBuilder (ConfigurationManager) are created
-    //use HostApplicationBuilder.Configuration poperty to get the IConfigurationBuilder [ConfigurationManager]
+    //IServiceCollection serviceRegistry = new ServiceCollection();
+    //IConfigurationManager configurationBuilder = new ConfigurationManager();
+    
+    HostApplicationBuilder hostBuilder = new HostApplicationBuilder();
+
+    //HostApplicationBuilder when created, automatically instances of
+    //1. IServiceCollection (ServiceCollection)
+    //2. IConfigurationBuilder and IConfiguration (ConfigurationManager) 
+    //3. ILoggingBuilder
+    //are created
+
+    //use HostApplicationBuilder.Configuration poperty to get the IConfigurationBuilder and IConfiguration [ConfigurationManager]
     //use HostApplicationBuilder.Services poperty to get the IServiceCollection
+    //use HostApplicationBuilder.Logging property get the ILoggingBuilder
 
     IConfigurationManager configurationManager = hostBuilder.Configuration;
+
+    //congigure configuration builder
     configurationManager
         .SetBasePath(Directory.GetCurrentDirectory())
         .AddJsonFile("appsettings.json", false, true);
 
-    var loggerBuilder = hostBuilder.Logging;
+    ILoggingBuilder loggerBuilder = hostBuilder.Logging;
+
+    //configure logging service
     loggerBuilder
         .AddSimpleConsole(
         logOptions => logOptions.ColorBehavior = LoggerColorBehavior.Enabled);
 
-    var registry = hostBuilder.Services;
+    IServiceCollection registry = hostBuilder.Services;
+    
+    //register services
     registry
         .Configure<LoggerSettings>(configurationManager.GetRequiredSection("loggerSettings"))
         .AddDbContext<ProductDbContext>(optionsBuilder => optionsBuilder.UseSqlServer(configurationManager.GetConnectionString("productDbConStr")))
         .AddSingleton<IRepository<ProductDTO, int>, ProductRepository>();
 
     IHost host = hostBuilder.Build();
+
     //IHost.Services will return the IServiceProvider
     IServiceProvider provider = host.Services;
 
@@ -55,7 +72,7 @@ try
     var repo = provider.GetRequiredService<IRepository<ProductDTO, int>>();
     repo.GetAll()?.ToList().ForEach(p => Console.WriteLine(p));
 
-
+    //var context = provider.GetRequiredService<ProductDbContext>();
     host.Run();
 }
 catch (Exception e)
