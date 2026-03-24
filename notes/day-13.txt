@@ -37,6 +37,9 @@ Object name: 'ProductDbContext'.
 
 2. Configuration:
 --------------------
+Configuration service is a built in service. You don't need to register this service.
+It is configured using ConfigurationBuilder class. You can dependency inject the Configuration service also.
+
 packages:
 
 Microsoft.Extensions.Configutaion.Abstractions (interfaces)
@@ -50,6 +53,13 @@ Microsoft.Extensions.Configutaion.Binder (for extra extension methods like Get<T
 
 3. options pattern
 ----------------------------
+used to dependency inject any object that is NOT considered as "Service".
+the IOptions type wraps the actual object to pass to the dependent class object.
+IOptions<T> has a property "Value", through which actual wrapped instance can be retrieved
+Used to pass database provider information, file settings etc. by reading from configuration etc.
+Options service is a built in service. You don't need to register this service.
+It is configured using Configure() method of IServiceCollection to indicate which type of object to wrap. You can dependency inject the IOptions service also.
+
 packages:
 
 Microsoft.Extensions.Options

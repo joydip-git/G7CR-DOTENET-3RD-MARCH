@@ -40,7 +40,8 @@ static IServiceProvider ConfigureServices(IConfigurationRoot configurationProvid
     //var setting = configurationProvider.GetRequiredSection("loggerSettings").Get<LoggerSettings>();
 
     IServiceCollection serviceRegistry = new ServiceCollection();
-    //configuring/registering the IOptions<T> service (built-in) for LoggerSettings whereas the LoggerSettings instance will be created and will be bound to the "loggerSettings" section
+
+    //configuring the IOptions<T> service (built-in) for LoggerSettings whereas the LoggerSettings instance will be created and will be bound to the "loggerSettings" section
     //this IOptions<LoggerSettings> will be created then and dependency injected in ErrorLogger instance
     IServiceProvider provider = serviceRegistry
         .Configure<LoggerSettings>(configurationProvider.GetRequiredSection("loggerSettings"))

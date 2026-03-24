@@ -1,0 +1,33 @@
+Hosting in .NET:
+--------------------
+A host is an object that encapsulates an app's resources and lifetime functionality, such as:
+
+Dependency injection (DI)
+Logging
+Configuration
+App shutdown
+IHostedService implementations
+
+If you use Hosting service then you don't need to
+	- create service registry and provider manually
+	- create configuration builder and provider manually
+	- create logger manually
+	- manage the individual features
+	- add reference to individual packages
+etc.
+
+Types of Host
+	- generic host
+	- web host (asp.net core)
+	- host for hosted service (legacy windows service)
+
+ApplicatiomExceptions 	- ProductNotFoundException
+DTOs 			- ProductDTO
+Models 			- ProductEntity
+Repository 		- ProductDbContext
+DataAccessLayer		- IRepository<T,TPkey>, ProductRepository
+settings		- appsettings.json
+OptionsEntities		- LoggerSettings
+
+
+
