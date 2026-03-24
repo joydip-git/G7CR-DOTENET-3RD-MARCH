@@ -50,6 +50,74 @@ web apps:
 
 	Asp.Net Core Empty App
 
+Services:
+	add the required services for middlewares to work
+
+Middleware:
+	a piece of logic that is applied on the reques-response pipeline, when the request or response passes through the pipeline.
+
+	1. Every middleware class must have an instance of RequestDelegate
+
+	private readonly RequestDelegate _next;
+	public ConstructorName(RequestDelegate _next) => this._next = next;
+
+	Note: this delegate is used to invoke the next middleware in the pipeline and passes the context object to the next middleware
+
+	2. Every middleware class must have a specific method: "Invoke" or "InvokeAsync"
+	public async Task Invoke/InvokeAsync(HttpContext context)
+
+	Note: this method must pass the context object to the next miidleware
+	_next(context)
+
+Note: if any middleware is dependent on a service, register the service with the IApplicationBuilder (WebApplicationBuilder)
+
+
+
+Pipeline???
+	IApplicationBuilder chains multiple middleware to work on the request or the response. It calls the "Invoke" or "InvokeAsync" method on the middleware instance and passes the HttpContext object to that method so that middleware can access the request, response and anything else from the context object.
+
+How to register the middleware:
+	1. create an extension class 
+	public static class MiddlewareExtensions{}
+
+	2. add a static method to register the middleware with IApplicationBuilder
+
+	public static IApplicationBuilder Use...(this IApplicationBuilder builder)
+
+	3. inside the method call "UseMiddleware<T>()" of IApplicationBuilder to finally register the middleware
+	return builder.UseMiddleware<MiddlewareClassName>()
+
+How to use the extension method?
+	the extension method created in the previous step will be available as instance method of WebApplication (since the class implements IApplicationBuilder interface)
+	host-instance.Use...();
+
+Note: when the extension method is called on the web host instance, then the instance of the middleware class is created and the Invoke/InvokeAsync method is called and the web host passes the instance of the HttpContext to the method
+	
+
+
+Routing:
+	Attributed routing
+	Programmatical routing
+
+Route table:
+------------------
+Route -1: 
+	url: home/welcome/{name}
+	controller: HomeComtroller
+	method: SayWelcome([FR(Name="name")] string personName)
+
+Route -2: 
+	url: home/hello
+	controller: HomeComtroller
+	method: SayHello
+
+
+https://localhost:7038/home/welcome/joydip
+
+key		value
+-----------------------------
+controller: 	Home
+name: 		joydip
 
 
 

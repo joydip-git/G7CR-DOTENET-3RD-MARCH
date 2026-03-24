@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A4FYbjZBEGE=",
+  "success": true,
+  "projectFilePath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-14\\ProductServiceAPI\\ProductServiceAPI\\ProductServiceAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.14\\microsoft.aspnetcore.openapi.9.0.14.nupkg.sha512",
+    "C:\\Users\\joydi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

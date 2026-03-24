@@ -4,9 +4,11 @@
     {
         private readonly RequestDelegate requestDelegate;
         private readonly ILogger<LoggerMiddleware> logger;
+        private readonly ISampleService sampleService;
 
-        public LoggerMiddleware(RequestDelegate requestDelegate, ILogger<LoggerMiddleware> logger)
+        public LoggerMiddleware(RequestDelegate requestDelegate, ILogger<LoggerMiddleware> logger, ISampleService sample)
         {
+            this.sampleService = sample;
             this.requestDelegate = requestDelegate;
             this.logger = logger;
             logger.LogInformation($"{nameof(LoggerMiddleware)} created");
@@ -16,6 +18,7 @@
         {
             logger.LogInformation($"Logged At: {DateTime.Now}");
             logger.LogInformation(httpContext.Request.Path);
+            logger.LogInformation(sampleService.SayHello());
             await requestDelegate(context: httpContext);
         }
     }
