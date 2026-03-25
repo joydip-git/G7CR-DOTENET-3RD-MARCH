@@ -1,0 +1,144 @@
+An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate and exchange data with one another. It functions as an intermediary messenger, taking a request from one system (the client), delivering it to another (the server), and then returning the result back to the requester.
+
+A RESTful API (Representational State Transfer Application Programming Interface) is an architectural style for designing networked applications that allows different software systems to communicate over the internet. 
+Introduced by computer scientist Roy Fielding in 2000, it is currently the most widely used approach for creating web services.
+
+Key Characteristics of RESTful APIs
+-------------------------------------
+1. Resource-Based: Everything is a resource identified by a unique URL/URI.
+
+2. Statelessness: No client session info is stored on the server; each request is self-contained.
+
+3. Uniform Interface: Uses standard HTTP methods for consistent communication.
+
+4. Client-Server: Decouples the user interface from data storage for independent evolution.
+
+5. Cacheable & Layered: Supports caching to improve performance and uses layered systems (like proxies) for scalability
+
+How they operate?
+----------------------------
+They operate via a request-response cycle using HTTP
+
+Request: Client sends an HTTP method (GET, POST), headers, and optional body (JSON/XML) to a specific URL.
+
+Response: Server returns a status code (e.g., 200 OK) and a data representation
+
+
+Distributed architecture:
+-------------------------------------------
+interface: Service/Contract
+class: Service Type/Implementation
+method: action
+
+Rules:
+------------
+1. services should always share data in neutral and platform agonistic manner. they should never share the strict data type.
+
+2. services should expose some URLs/URIs so that APIs can be accessed
+...
+
+Service creation technologies in .NET
+---------------------------------------------
+
+A. .NET Framework techniques to create services
+a. Remote Service: for Intranet environment class X:MarshalRefByObject{}
+b. Web Service: for Internet environment class X:WebService{}
+c. Component service: .NET service leveraging COM service class X:ComponentService{}
+
+2007:
+-------------
+Windows Communication Foundation (WCF) - a common platform to create any of the above 3 types of services as well as RESTful services.
+
+class X: IX{}
+
+2010:
+------------------
+MVC architecture
+	ASP.NET Web API:  a technique to create RESTful API service application
+
+.NET or .NET Core
+2016:
+-----------------------
+	ASP.NET Core Web API
+
+[ApiController]
+class XController:ControllerBase{
+
+	[Route("/all")]
+	[HttpGet]
+	[Produces] -> ???
+	[Consumes] -> ???
+	public ActionResult Get(){
+	}
+}
+
+Model Binder:
+--------------------
+bind the data from route parameter (appended at the end of the request URL) or request body to a type (built-in type or user-defined type)
+
+string, int
+ProductDTO
+
+
+
+Filters:
+-----------------------------
+in ASP.NET Core Web API, filters are components that allow you to execute custom code before or after specific stages in the request processing pipeline. 
+They are primarily used to handle cross-cutting concerns—such as 
+	- logging, 
+	- validation, 
+	- authorization, and 
+	- caching
+without cluttering controller actions with repetitive logic
+
+Types of Filters:
+----------------------
+1. Authorization Filters: Often used with the built-in [Authorize] attribute, these decide if the user can call the action at all. If unauthorized, they can return a ForbidResult or UnauthorizedResult.
+
+2. Resource Filters: Ideal for performance-related tasks. 
+For example, a [ResponseCache] filter can return a cached result before any model binding occurs.
+
+3. Action Filters: These are the most common "workhorse" filters. They can access and modify action arguments before the method runs or modify the result after it finishes.
+
+4. Exception Filters: Provide a centralized place for error handling. While they are useful, but the recommendation is to use global exception handling middleware instead for production APIs.
+
+5. Result Filters: Used for response shaping, such as wrapping every successful response in a standard envelope format.
+
+6. Endpoint Filters: A lightweight alternative introduced in .NET 7 specifically for Minimal APIs. They wrap route handlers similar to how action filters wrap controller methods. 
+
+Filter Pipeline and Execution Order
+----------------------------------------
+Filters run within the Action Invocation Pipeline, which begins after ASP.NET Core selects the specific action to execute. The standard execution order is: 
+
+1. Authorization Filters: Run first to check if an user is authorized for the request.
+
+2. Resource Filters: Run immediately after authorization and wrap the rest of the pipeline. They are useful for short-circuiting, such as returning a cached response.
+
+3. Action Filters: Run immediately before and after an individual action method executes, after model binding is complete. They are typically used for logging, modifying inputs/outputs, or validation.
+
+4. Result Filters: Run before and after the action result is executed (just before JSON is written to the response - such as for, adding headers or compressing the response)
+
+5. Exception Filters: Exception filters run last and handle any unhandled exceptions that occur during the execution of the action method.
+
+Scopes:
+-------------
+Filters can be implemented as attributes (decorators) or as classes. 
+
+They can be applied at three different scopes: 
+
+1. Global Scope: Applied to all controllers and actions by registering them in Program.cs.
+
+2. Controller Scope: Applied to every action within a specific controller class.
+
+3. Action Scope: Applied only to a specific action method. 
+
+Filters vs. Middleware
+----------------------
+Use Middleware when the logic applies to all requests regardless of routing, such as CORS, authentication, or global logging.
+Use Filters when you need access to MVC context, such as ModelState, action arguments, or specific action results. Filters offer "action-level precision" that middleware lacks
+
+
+
+
+
+

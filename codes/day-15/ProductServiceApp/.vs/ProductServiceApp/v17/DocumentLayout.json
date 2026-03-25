@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\models\\repository\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\models\\repository\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\productserviceapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\productserviceapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\models\\repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\models\\repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\models\\context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\models\\context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\productserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\productserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\models\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\models\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\applicationexceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\applicationexceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductServiceApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T06:19:19.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Program.cs",
+              "RelativeToolTip": "ProductServiceApp\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:07:31.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Repository\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Models\\Repository\\Implementation\\ProductRepository.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Repository\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "ProductServiceApp\\Models\\Repository\\Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:07:19.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Repository\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Models\\Repository\\Abstractions\\IRepository.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Repository\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "ProductServiceApp\\Models\\Repository\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:07:15.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Context\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Models\\Context\\ProductDbContext.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Context\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductServiceApp\\Models\\Context\\ProductDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:06:50.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Models\\Entities\\ProductEntity.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "ProductServiceApp\\Models\\Entities\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:06:28.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductServiceApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwDkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:05:55.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\DTOs\\ProductDTO.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "ProductServiceApp\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:06:19.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductServiceApp.http",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\ProductServiceApp.http",
+              "RelativeDocumentMoniker": "ProductServiceApp\\ProductServiceApp.http",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\ProductServiceApp.http",
+              "RelativeToolTip": "ProductServiceApp\\ProductServiceApp.http",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-25T05:19:45.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductServiceApp.csproj",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\ProductServiceApp.csproj",
+              "RelativeDocumentMoniker": "ProductServiceApp\\ProductServiceApp.csproj",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\ProductServiceApp.csproj",
+              "RelativeToolTip": "ProductServiceApp\\ProductServiceApp.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T06:17:25.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\ApplicationExceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\ApplicationExceptions\\ProductNotFoundException.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\ApplicationExceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "ProductServiceApp\\ApplicationExceptions\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:05:42.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

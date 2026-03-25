@@ -1,0 +1,17 @@
+@ProductServiceApp_HostAddress = http://localhost:5011
+
+GET {{ProductServiceApp_HostAddress}}/api/product/all
+
+###
+GET {{ProductServiceApp_HostAddress}}/api/product/100
+
+###
+POST {{ProductServiceApp_HostAddress}}/api/product/add
+Content-Type: application/json
+
+{
+  "id": 0,
+  "name": "sample1",
+  "price": 101,
+  "description": "sample product 1"
+}

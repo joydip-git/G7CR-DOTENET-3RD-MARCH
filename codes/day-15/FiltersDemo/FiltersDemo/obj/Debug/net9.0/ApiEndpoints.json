@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "FiltersDemo.Controllers.HomeController",
+    "Method": "SayHello",
+    "RelativePath": "api/Home/hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FiltersDemo.Controllers.HomeController",
+    "Method": "Get",
+    "RelativePath": "api/Home/welcome/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FiltersDemo.Controllers.ValuesController",
+    "Method": "SayHello",
+    "RelativePath": "api/Values/hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
