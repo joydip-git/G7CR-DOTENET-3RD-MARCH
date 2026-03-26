@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\models\\repository\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\models\\repository\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-15\\productserviceapp\\productserviceapp\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02BCF845-4E07-4024-BFA6-E2B082E26FB8}|ProductServiceApp\\ProductServiceApp.csproj|solutionrelative:productserviceapp\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Repository\\Implementation\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ProductServiceApp\\Models\\Repository\\Implementation\\ProductRepository.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Models\\Repository\\Implementation\\ProductRepository.cs",
-              "RelativeToolTip": "ProductServiceApp\\Models\\Repository\\Implementation\\ProductRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Controllers\\ValuesController.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Controllers\\ValuesController.cs*",
+              "RelativeToolTip": "ProductServiceApp\\Controllers\\ValuesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T05:46:41.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Program.cs",
-              "RelativeDocumentMoniker": "ProductServiceApp\\Program.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Program.cs",
-              "RelativeToolTip": "ProductServiceApp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T05:45:36.515Z",
+              "WhenOpened": "2026-03-26T07:25:10.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Mapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ProductServiceApp\\Mapper\\MappingProfile.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Mapper\\MappingProfile.cs",
-              "RelativeToolTip": "ProductServiceApp\\Mapper\\MappingProfile.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Program.cs",
+              "RelativeToolTip": "ProductServiceApp\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T05:42:22.685Z",
+              "WhenOpened": "2026-03-26T07:20:25.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductServiceApp\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductServiceApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:19:58.633Z",
               "EditorCaption": ""
             }
           ]

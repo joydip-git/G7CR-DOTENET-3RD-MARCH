@@ -1,4 +1,5 @@
 using AutoMapper;
+using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using ProductServiceApp.DTOs;
 using ProductServiceApp.Mapper;
@@ -26,6 +27,15 @@ builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+Action<CorsOptions> setupAction = options => options.AddPolicy(
+    "mypolicy", 
+    policyBuilder => policyBuilder
+    .WithOrigins("*")
+    .AllowAnyHeader()
+    .AllowAnyMethod()    
+    );
+builder.Services.AddCors(setupAction);
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -36,7 +46,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+
+
+//app.UseHttpsRedirection();
+app.UseCors();
 
 app.UseAuthorization();
 

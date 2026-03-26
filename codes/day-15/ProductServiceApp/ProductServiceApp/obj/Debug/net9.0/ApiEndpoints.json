@@ -68,5 +68,15 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "ProductServiceApp.Controllers.ValuesController",
+    "Method": "Hello",
+    "RelativePath": "api/Values/welcome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

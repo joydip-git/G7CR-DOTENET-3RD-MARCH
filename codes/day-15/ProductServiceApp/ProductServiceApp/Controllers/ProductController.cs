@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Formatters;
 using ProductServiceApp.DTOs;
@@ -7,9 +8,10 @@ using ProductServiceApp.Models.Repository.Abstractions;
 namespace ProductServiceApp.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]
+    [ApiController]    
     public class ProductController(IRepository<ProductDTO, int> repository) : ControllerBase
     {
+        [EnableCors("mypolicy")]
         [Route("all")]
         [HttpGet]
         [Produces("application/json")]
