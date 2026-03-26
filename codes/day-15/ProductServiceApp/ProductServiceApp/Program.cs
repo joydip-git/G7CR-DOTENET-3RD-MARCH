@@ -1,10 +1,20 @@
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using ProductServiceApp.DTOs;
+using ProductServiceApp.Mapper;
 using ProductServiceApp.Models.Context;
 using ProductServiceApp.Models.Repository.Abstractions;
 using ProductServiceApp.Models.Repository.Implementation;
 
 var builder = WebApplication.CreateBuilder(args);
+
+Action<IMapperConfigurationExpression> configAction = expressionconfig => expressionconfig.AddProfile<MappingProfile>();
+
+builder
+    .Services
+    .AddAutoMapper(configAction);
+
+//builder.Services.AddOptions<EntityMapper>("MapperOption");
 
 builder.Services.AddDbContext<ProductDbContext>(
     options => options.UseSqlServer(builder.Configuration.GetConnectionString("ProductDbConStr")));

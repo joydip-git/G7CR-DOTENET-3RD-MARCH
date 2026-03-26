@@ -2,18 +2,18 @@
 {
     public class ProductDTO
     {
-        public ProductDTO()
-        {
+        //public ProductDTO()
+        //{
             
-        }
+        //}
 
-        public ProductDTO(int id, string name, decimal? price, string? description)
-        {
-            Id = id;
-            Name = name;
-            Price = price;
-            Description = description;
-        }
+        //public ProductDTO(int id, string name, decimal? price, string? description)
+        //{
+        //    Id = id;
+        //    Name = name;
+        //    Price = price;
+        //    Description = description;
+        //}
 
         public int Id { get; set; }
         public required string Name { get; set; }

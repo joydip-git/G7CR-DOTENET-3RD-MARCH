@@ -1,13 +1,16 @@
-﻿using Microsoft.EntityFrameworkCore.ChangeTracking;
+﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
+using Microsoft.Extensions.Options;
 using ProductServiceApp.ApplicationExceptions;
 using ProductServiceApp.DTOs;
+using ProductServiceApp.Mapper;
 using ProductServiceApp.Models.Context;
 using ProductServiceApp.Models.Entities;
 using ProductServiceApp.Models.Repository.Abstractions;
 
 namespace ProductServiceApp.Models.Repository.Implementation
 {
-    public class ProductRepository(ProductDbContext db) : IRepository<ProductDTO, int>
+    public class ProductRepository(ProductDbContext db, IMapper mapper) : IRepository<ProductDTO, int>
     {
         private readonly ProductDbContext db = db;
 
@@ -15,18 +18,23 @@ namespace ProductServiceApp.Models.Repository.Implementation
         {
             try
             {
-                var entity = new ProductEntity { Name = data.Name, Description = data.Description, Price = data.Price, Id = data.Id };
-
-                var all = db.ProductEntities;               
-                EntityEntry<ProductEntity> tracker = all.Add(entity);
-                var res = db.SaveChanges();
-                if (res > 0)
+                //var entity = new ProductEntity { Name = data.Name, Description = data.Description, Price = data.Price, Id = data.Id };
+                var entity = mapper.Map<ProductEntity>(data);
+                if (entity != null)
                 {
-                    data.Id = tracker.Entity.Id;
-                    return data;
+                    var all = db.ProductEntities;
+                    EntityEntry<ProductEntity> tracker = all.Add(entity);
+                    var res = db.SaveChanges();
+                    if (res > 0)
+                    {
+                        data.Id = tracker.Entity.Id;
+                        return data;
+                    }
+                    else
+                        throw new Exception("could not be added");
                 }
                 else
-                    throw new Exception("could not be added");
+                    throw new Exception("mapping could not take place");
             }
             catch
             {
@@ -46,7 +54,12 @@ namespace ProductServiceApp.Models.Repository.Implementation
                     var res = db.SaveChanges();
                     if (res > 0)
                     {
-                        return new() { Name = found.Name, Description = found.Description, Id = found.Id, Price = found.Price };
+                        //return new() { Name = found.Name, Description = found.Description, Id = found.Id, Price = found.Price };
+                        var dto = mapper.Map<ProductDTO>(found);
+                        if (dto != null)
+                            return dto;
+                        else
+                            throw new Exception("mapping could not take place");
                     }
                     else
                         throw new Exception("could not delete");
@@ -66,7 +79,19 @@ namespace ProductServiceApp.Models.Repository.Implementation
             try
             {
                 var entity = db.ProductEntities.Find(id);
-                return entity != null ? new() { Name = entity.Name, Price = entity.Price, Description = entity.Description, Id = entity.Id } : throw new ProductNotFoundException($"product with id: {id} does not exist...");
+                //return entity != null ? new() { Name = entity.Name, Price = entity.Price, Description = entity.Description, Id = entity.Id } : throw new ProductNotFoundException($"product with id: {id} does not exist...");
+                if (entity != null)
+                {
+                    //var dto = mapper.Map<ProductDTO>(entity);
+                   
+                    var dto = EntityMapper.Map<ProductEntity, ProductDTO>(entity);
+                    if (dto != null)
+                        return dto;
+                    else
+                        throw new Exception("mapping could not take place");
+                }
+                else
+                    throw new ProductNotFoundException($"product with id: {id} does not exist...");
             }
             catch
             {
@@ -85,15 +110,16 @@ namespace ProductServiceApp.Models.Repository.Implementation
                 {
                     foreach (var entity in all)
                     {
-                        dtos.Add(
-                            new()
-                            {
-                                Name = entity.Name,
-                                Price = entity.Price,
-                                Description = entity.Description,
-                                Id = entity.Id
-                            }
-                        );
+                        //dtos.Add(
+                        //    new()
+                        //    {
+                        //        Name = entity.Name,
+                        //        Price = entity.Price,
+                        //        Description = entity.Description,
+                        //        Id = entity.Id
+                        //    }
+                        //);
+                        dtos.Add(mapper.Map<ProductDTO>(entity));
                     }
                 }
                 return dtos;
@@ -116,11 +142,12 @@ namespace ProductServiceApp.Models.Repository.Implementation
                     entity.Description = data.Description;
 
                     db.ProductEntities.Update(entity);
-                    if(db.SaveChanges() > 0)
+                    if (db.SaveChanges() > 0)
                     {
                         data.Id = id;
                         return data;
-                    }else
+                    }
+                    else
                         throw new Exception("could not update");
                 }
                 else
