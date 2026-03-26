@@ -1,0 +1,21 @@
+﻿@model SampleWebApp.Models.Person;
+@{
+    ViewBag.ViewTitle = "Add Person";
+}
+
+<form asp-action="AddPerson" asp-controller="Home" method="post">
+    <fieldset>
+        <div>
+            <label asp-for="Name">Name: &nbsp;</label>
+            <input type="text" asp-for="Name"/>
+        </div>
+        <div>
+            <label asp-for="Location">Location: &nbsp;</label>
+            <input type="text" asp-for="Location"/>
+        </div>
+        <div>
+            <input type="submit" value="Submit"/>
+        </div>
+    </fieldset>
+</form>
+

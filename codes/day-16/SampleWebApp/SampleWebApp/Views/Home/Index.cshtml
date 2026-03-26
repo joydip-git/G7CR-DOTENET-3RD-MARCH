@@ -1,0 +1,26 @@
+﻿@using SampleWebApp.Models
+@model List<Person>
+
+@{
+    ViewBag.ViewTitle = "Index";
+}
+<h2>List of People</h2>
+@{
+    <ul>
+        @{
+            // ViewDataDictionary dictionary = this.ViewData;
+            // var people = dictionary["Data"] as List<Person>;
+
+            // dynamic viewBagObject = this.ViewBag;
+            // var people = viewBagObject.Data;
+
+            var people = this.Model;
+            foreach (Person item in people)
+            {
+                <li>@item.Name</li>
+            }
+        }
+    </ul>
+    <br/>
+    <span>@this.ViewData["Value"]</span>
+}

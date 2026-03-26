@@ -1,0 +1,15 @@
+ASP.NET Core Services:
+	- AddMvcCore() => support for basic ASP.NET Core app
+
+	- AddControllers() => support for Core Web API
+	- AddControllerWithViews() => support for MVC Core Web App
+	- AddRazorPages() => support for Razor Page application
+	- AddMvc() => support for MVC Core Web App and Razor Page application
+new Person()
+{
+	Name: "joydip",
+	Location: "bangalore"
+}
+
+
+
