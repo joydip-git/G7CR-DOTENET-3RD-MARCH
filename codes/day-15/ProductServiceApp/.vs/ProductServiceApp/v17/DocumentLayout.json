@@ -42,8 +42,7 @@
               "RelativeToolTip": "ProductServiceApp\\DTOs\\ProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T05:19:36.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T05:19:36.552Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "ProductServiceApp\\Models\\Repository\\Implementation\\ProductRepository.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T05:13:06.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T05:13:06.599Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "ProductServiceApp\\Controllers\\ValuesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:25:10.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:25:10.315Z"
             },
             {
               "$type": "Document",
@@ -91,7 +88,7 @@
               "RelativeDocumentMoniker": "ProductServiceApp\\Controllers\\ProductController.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-15\\ProductServiceApp\\ProductServiceApp\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductServiceApp\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwF0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T07:19:58.633Z",
               "EditorCaption": ""

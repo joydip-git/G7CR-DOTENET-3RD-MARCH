@@ -1,10 +1,21 @@
-﻿namespace ProductWebApp.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ProductWebApp.Models
 {
     public class ProductModel
     {
+        //[Required]
         public int Id { get; set; }
+
+        [Required]
+        [MaxLength(5, ErrorMessage = "length should be 50")]
         public required string Name { get; set; }
+
+        [Required]
+        [Range(100, 100000, ErrorMessage = "value should be between 100 and 100000")]
         public decimal? Price { get; set; }
+
+
         public string? Description { get; set; }
 
         public override bool Equals(object? obj)

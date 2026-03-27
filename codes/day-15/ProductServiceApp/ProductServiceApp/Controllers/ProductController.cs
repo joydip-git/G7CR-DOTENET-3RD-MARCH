@@ -68,5 +68,35 @@ namespace ProductServiceApp.Controllers
                 return this.Problem(detail: e.Message, statusCode: 500);
             }
         }
+
+        [HttpPut]
+        [Route("edit/{id}")]
+        public ActionResult<ProductDTO> UpdateProduct([FromRoute(Name="id")] int productId, [FromBody] ProductDTO product)
+        {
+            try
+            {
+                var editedDto = repository.Update(productId,product);
+                return this.CreatedAtAction(nameof(UpdateProduct), editedDto);
+            }
+            catch (Exception e)
+            {
+                return this.Problem(detail: e.Message, statusCode: 500);
+            }
+        }
+
+        [HttpDelete]
+        [Route("delete/{id}")]
+        public ActionResult<ProductDTO> DeleteProduct([FromRoute(Name = "id")] int productId)
+        {
+            try
+            {
+                var deletedDto = repository.Delete(productId);
+                return this.Ok(deletedDto);
+            }
+            catch (Exception e)
+            {
+                return this.Problem(detail: e.Message, statusCode: 500);
+            }
+        }
     }
 }

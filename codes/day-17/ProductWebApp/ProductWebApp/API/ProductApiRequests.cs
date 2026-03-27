@@ -4,8 +4,8 @@ using ProductWebApp.Models;
 namespace ProductWebApp.API
 {
     public class ProductApiRequests(IConfiguration configuration, IOptions<ApiRequestBaseUrls> options) : IProductApiRequests
-    {        
-        public async Task<IEnumerable<ProductModel>?> SendAllProductsRequest()
+    {
+        public async Task<IEnumerable<ProductModel>?> SendAllProductsRequestAsync()
         {
             try
             {
@@ -20,7 +20,7 @@ namespace ProductWebApp.API
             }
         }
 
-        public async Task<ProductModel?> SendAProductRequest(int id)
+        public async Task<ProductModel?> SendAProductRequestAsync(int id)
         {
             using HttpClient httpClient = new();
             string requestUrl = $"{options.Value.ProductApiBaseUrl}/{id}";
@@ -28,13 +28,30 @@ namespace ProductWebApp.API
             return single;
         }
 
-        public async Task<ProductModel?> SendAnAddProductRequest(ProductModel productModel)
+        public async Task<ProductModel?> SendAnAddProductRequestAsync(ProductModel productModel)
         {
             using HttpClient httpClient = new();
             string requestUrl = $"{options.Value.ProductApiBaseUrl}/add";
             HttpResponseMessage? response = await httpClient.PostAsJsonAsync<ProductModel>(requestUrl, productModel);
             var single = await response.Content.ReadFromJsonAsync<ProductModel>();
             return single;
+        }
+
+        public async Task<ProductModel?> SendAnUpdateProductRequestAsync(ProductModel productModel)
+        {
+            using HttpClient httpClient = new();
+            string requestUrl = $"{options.Value.ProductApiBaseUrl}/edit/{productModel.Id}";
+            HttpResponseMessage? response = await httpClient.PutAsJsonAsync<ProductModel>(requestUrl, productModel);
+            var single = await response.Content.ReadFromJsonAsync<ProductModel>();
+            return single;
+        }
+
+        public async Task<ProductModel?> SendADeleteProductRequestAsync(int id)
+        {
+            using HttpClient httpClient = new();
+            string requestUrl = $"{options.Value.ProductApiBaseUrl}/delete/{id}";
+            ProductModel? deletedProduct = await httpClient.DeleteFromJsonAsync<ProductModel>(requestUrl);
+            return deletedProduct;
         }
     }
 }

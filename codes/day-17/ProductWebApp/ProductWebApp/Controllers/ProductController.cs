@@ -16,7 +16,7 @@ namespace ProductWebApp.Controllers
         {
             try
             {
-                var all = await productApi.SendAllProductsRequest();
+                IEnumerable<ProductModel>? all = await productApi.SendAllProductsRequestAsync();
                 return this.View(all);
             }
             catch
@@ -24,13 +24,13 @@ namespace ProductWebApp.Controllers
                 throw;
             }
         }
-        
+
         public async Task<IActionResult> GetProductById(int id)
         {
             try
             {
                 logger.LogInformation(id.ToString());
-                var single = await productApi.SendAProductRequest(id);
+                ProductModel? single = await productApi.SendAProductRequestAsync(id);
                 return View(single);
             }
             catch
@@ -50,9 +50,57 @@ namespace ProductWebApp.Controllers
         {
             try
             {
-                logger.LogInformation(product.Name);
-                var addedProduct = await productApi.SendAnAddProductRequest(product);
+                if (this.ModelState.IsValid)
+                {
+                    logger.LogInformation(product.Name);
+                    ProductModel? addedProduct = await productApi.SendAnAddProductRequestAsync(product);
+                    return RedirectToAction("AllProducts");
+                }
+                else
+                    throw new Exception("Model is invalid");
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> UpdateProduct(int id)
+        {
+            try
+            {
+                logger.LogInformation("in update: " + id.ToString());
+                ProductModel? single = await productApi.SendAProductRequestAsync(id);
+                logger.LogInformation(single != null ? single.Name : "NA");
+                return View(single);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> UpdateProduct(ProductModel product)
+        {
+            try
+            {
+                _ = await productApi.SendAnUpdateProductRequestAsync(product);
                 return RedirectToAction("AllProducts");
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
+        public async Task<IActionResult> DeleteProduct(int productId)
+        {
+            try
+            {
+                _ = await productApi.SendADeleteProductRequestAsync(productId);
+                return this.RedirectToAction("AllProducts");
             }
             catch
             {
