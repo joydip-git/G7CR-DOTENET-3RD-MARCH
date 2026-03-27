@@ -11,7 +11,7 @@ function App() {
   const fetchProducts = async () => {
     try {
       const response = await fetch("http://localhost:5011/api/product/all");
-      const data = await response.json();
+      const data = (await response.json()) as Product[];
       setProducts(data);
       setErrorMessage('')
       setLoadingOver(true)

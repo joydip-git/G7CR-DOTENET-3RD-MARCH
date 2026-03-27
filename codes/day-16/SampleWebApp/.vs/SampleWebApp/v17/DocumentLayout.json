@@ -11,6 +11,22 @@
       "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\views\\home\\addperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,24 +35,16 @@
       "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\data\\peoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\data\\peoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\data\\peoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\data\\peoplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|solutionrelative:samplewebapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B179111A-9846-4558-AE85-6BA079DD1C94}|SampleWebApp\\SampleWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-16\\samplewebapp\\samplewebapp\\views\\shared\\applayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +62,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleWebApp\\appsettings.json",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\appsettings.json",
+              "RelativeToolTip": "SampleWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-27T04:55:47.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SampleWebApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SampleWebApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T04:52:38.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SampleWebApp\\Views\\_ViewImports.cshtml",
@@ -80,33 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PeopleRepository.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Data\\PeopleRepository.cs",
-              "RelativeDocumentMoniker": "SampleWebApp\\Data\\PeopleRepository.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Data\\PeopleRepository.cs",
-              "RelativeToolTip": "SampleWebApp\\Data\\PeopleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T10:02:08.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Person.cs",
-              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "SampleWebApp\\Models\\Person.cs",
-              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Models\\Person.cs",
-              "RelativeToolTip": "SampleWebApp\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T10:01:17.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AppLayout.cshtml",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Views\\Shared\\AppLayout.cshtml",
               "RelativeDocumentMoniker": "SampleWebApp\\Views\\Shared\\AppLayout.cshtml",
@@ -114,25 +122,24 @@
               "RelativeToolTip": "SampleWebApp\\Views\\Shared\\AppLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-26T09:49:50.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T09:49:50.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SampleWebApp\\Views\\_ViewStart.cshtml",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "SampleWebApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-26T09:49:15.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "About.cshtml",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "SampleWebApp\\Views\\Home\\About.cshtml",
@@ -145,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SampleWebApp\\Views\\Home\\Index.cshtml",
@@ -164,23 +171,47 @@
               "RelativeDocumentMoniker": "SampleWebApp\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SampleWebApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAgwDQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwDgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T09:06:43.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Program.cs",
               "RelativeDocumentMoniker": "SampleWebApp\\Program.cs",
               "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Program.cs",
               "RelativeToolTip": "SampleWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T09:01:15.975Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "SampleWebApp\\Models\\Person.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Models\\Person.cs",
+              "RelativeToolTip": "SampleWebApp\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:01:17.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PeopleRepository.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Data\\PeopleRepository.cs",
+              "RelativeDocumentMoniker": "SampleWebApp\\Data\\PeopleRepository.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-16\\SampleWebApp\\SampleWebApp\\Data\\PeopleRepository.cs",
+              "RelativeToolTip": "SampleWebApp\\Data\\PeopleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:02:08.379Z"
             }
           ]
         }

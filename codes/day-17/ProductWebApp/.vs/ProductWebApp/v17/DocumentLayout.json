@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-17\\productwebapp\\productwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|solutionrelative:productwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-17\\productwebapp\\productwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|solutionrelative:productwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-17\\productwebapp\\productwebapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|solutionrelative:productwebapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-17\\productwebapp\\productwebapp\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|solutionrelative:productwebapp\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-17\\productwebapp\\productwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|solutionrelative:productwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-17\\productwebapp\\productwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|solutionrelative:productwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-17\\productwebapp\\productwebapp\\api\\productapirequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|solutionrelative:productwebapp\\api\\productapirequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-17\\productwebapp\\productwebapp\\models\\apirequestbaseurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C78C4B-D66F-4992-8447-BB9048EECD66}|ProductWebApp\\ProductWebApp.csproj|solutionrelative:productwebapp\\models\\apirequestbaseurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T07:58:52.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ProductWebApp\\wwwroot\\js\\site.js",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ProductWebApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-27T07:58:44.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T07:37:36.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:37:33.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "ProductWebApp\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "ProductWebApp\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T07:35:27.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductApiRequests.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\API\\ProductApiRequests.cs",
+              "RelativeDocumentMoniker": "ProductWebApp\\API\\ProductApiRequests.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\API\\ProductApiRequests.cs",
+              "RelativeToolTip": "ProductWebApp\\API\\ProductApiRequests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:33:53.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiRequestBaseUrls.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Models\\ApiRequestBaseUrls.cs",
+              "RelativeDocumentMoniker": "ProductWebApp\\Models\\ApiRequestBaseUrls.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Models\\ApiRequestBaseUrls.cs",
+              "RelativeToolTip": "ProductWebApp\\Models\\ApiRequestBaseUrls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:33:46.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductWebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-17\\ProductWebApp\\ProductWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductWebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:32:21.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

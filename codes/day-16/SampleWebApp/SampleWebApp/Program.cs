@@ -7,6 +7,7 @@ builder.Services.AddScoped<IPeopleRepository, PeopleRepository>();
 
 var app = builder.Build();
 
+
 app.UseAuthorization();
 app.MapControllerRoute(
     "default",

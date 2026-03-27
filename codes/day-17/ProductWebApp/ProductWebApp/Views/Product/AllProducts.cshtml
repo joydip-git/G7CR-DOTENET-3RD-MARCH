@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ProductModel>
+
+@{
+    ViewData["Title"] = "AllProducts";
+}
+
+<h1>List of Products</h1>
+
+<table>
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Price</td>
+            <td>Description</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in this.Model)
+        {
+            if (item != null)
+            {
+                <tr>
+                    <td>
+                        @* <a asp-action="GetProductById" asp-route-id="" *@
+                        @this.Html.ActionLink(@item.Name, "GetProductById", new { id = item.Id })
+                    </td>
+                    <td>
+                        @item.Price
+                    </td>
+                    <td>
+                        @item.Description
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

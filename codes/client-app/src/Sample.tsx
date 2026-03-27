@@ -6,7 +6,7 @@ const Sample = () => {
     const [errorMessage, setErrorMessage] = useState('')
     const fetchMessage = async () => {
         try {
-            const res = await fetch("http://localhost:5011/api/values/welcome")
+            const res: Response = await fetch("http://localhost:5011/api/values/welcome")
             const data = await res.json()
             console.log(data);
             setMessageData(data.message)
@@ -21,7 +21,7 @@ const Sample = () => {
     useEffect(
         () => {
             fetchMessage()
-         },
+        },
         []
     )
     if (!loadingOver)

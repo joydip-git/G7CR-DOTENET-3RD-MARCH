@@ -5,11 +5,22 @@ ASP.NET Core Services:
 	- AddControllerWithViews() => support for MVC Core Web App
 	- AddRazorPages() => support for Razor Page application
 	- AddMvc() => support for MVC Core Web App and Razor Page application
-new Person()
-{
-	Name: "joydip",
-	Location: "bangalore"
-}
 
+1. Auto mapper
+2. CORS
+
+3. ASP.NET MVC Razor View app
+	- services [AddControllerWithViews()]
+	- middleware [MapControllerRoute()]
+	- views
+		- razor view (*.cshtml file) - content
+		- layout view - content place holder 
+			- RenderBody()
+		- view start file
+		- view imports file (all the common namespaces or assets that will be required by all the views)
+	- tag helpers
+	- html helpers
+	- get and post
+		- submit form data
 
 

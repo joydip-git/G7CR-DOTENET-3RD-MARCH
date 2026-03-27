@@ -8,10 +8,11 @@ using ProductServiceApp.Models.Repository.Abstractions;
 namespace ProductServiceApp.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]    
+    [ApiController]
+    [EnableCors("mypolicy")]
     public class ProductController(IRepository<ProductDTO, int> repository) : ControllerBase
     {
-        [EnableCors("mypolicy")]
+        //[EnableCors("mypolicy")]
         [Route("all")]
         [HttpGet]
         [Produces("application/json")]

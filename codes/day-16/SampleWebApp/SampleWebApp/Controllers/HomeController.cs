@@ -9,7 +9,7 @@ namespace SampleWebApp.Controllers
     {
         private readonly IPeopleRepository repository;
         private readonly ILogger<HomeController> logger;
-        
+
         public HomeController(IPeopleRepository repository, ILogger<HomeController> logger)
         {
             this.repository = repository;
@@ -50,8 +50,16 @@ namespace SampleWebApp.Controllers
         public IActionResult AddPerson([FromForm] Person person)
         {
             //logger.LogInformation(person.Name);
-            repository.People.Add(person);            
-            return this.RedirectToAction("Index");
+            try
+            {
+                //throw new Exception("error occurred");
+                repository.People.Add(person);
+                return this.RedirectToAction("Index");
+            }
+            catch (Exception e)
+            {
+                return RedirectToPage("Error");
+            }
         }
     }
 }
