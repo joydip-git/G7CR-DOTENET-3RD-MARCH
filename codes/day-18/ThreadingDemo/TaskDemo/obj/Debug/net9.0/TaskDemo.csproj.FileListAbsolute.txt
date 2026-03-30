@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\TaskDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\TaskDemo.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\TaskDemo.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\TaskDemo.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\TaskDemo.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\bin\Debug\net9.0\TaskDemo.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\bin\Debug\net9.0\TaskDemo.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\bin\Debug\net9.0\TaskDemo.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\bin\Debug\net9.0\TaskDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\bin\Debug\net9.0\TaskDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\TaskDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\refint\TaskDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\TaskDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\TaskDemo.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\TaskDemo\obj\Debug\net9.0\ref\TaskDemo.dll

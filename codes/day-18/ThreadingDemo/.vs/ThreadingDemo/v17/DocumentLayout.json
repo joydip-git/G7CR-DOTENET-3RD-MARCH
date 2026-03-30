@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-18\\ThreadingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75627F5B-6B71-4558-9AD0-DB2A66CC926F}|AsynAwait\\AsynAwait.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-18\\threadingdemo\\asynawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75627F5B-6B71-4558-9AD0-DB2A66CC926F}|AsynAwait\\AsynAwait.csproj|solutionrelative:asynawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268750B1-3893-4B2A-A8A6-EC9425C8B049}|TaskDemo\\TaskDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-18\\threadingdemo\\taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268750B1-3893-4B2A-A8A6-EC9425C8B049}|TaskDemo\\TaskDemo.csproj|solutionrelative:taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11256AAF-B317-409A-AA22-9491D93C9324}|MutexDemo\\MutexDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-18\\threadingdemo\\mutexdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11256AAF-B317-409A-AA22-9491D93C9324}|MutexDemo\\MutexDemo.csproj|solutionrelative:mutexdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9710E442-896F-449D-BC5A-ADFC0DC78AAF}|ThreadingDemo\\ThreadingDemo.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-18\\threadingdemo\\threadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9710E442-896F-449D-BC5A-ADFC0DC78AAF}|ThreadingDemo\\ThreadingDemo.csproj|solutionrelative:threadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-18\\ThreadingDemo\\AsynAwait\\Program.cs",
+              "RelativeDocumentMoniker": "AsynAwait\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-18\\ThreadingDemo\\AsynAwait\\Program.cs",
+              "RelativeToolTip": "AsynAwait\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:39:47.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-18\\ThreadingDemo\\TaskDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-18\\ThreadingDemo\\TaskDemo\\Program.cs",
+              "RelativeToolTip": "TaskDemo\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:01:34.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-18\\ThreadingDemo\\ThreadingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadingDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-18\\ThreadingDemo\\ThreadingDemo\\Program.cs",
+              "RelativeToolTip": "ThreadingDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:21:57.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-18\\ThreadingDemo\\MutexDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MutexDemo\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-18\\ThreadingDemo\\MutexDemo\\Program.cs",
+              "RelativeToolTip": "MutexDemo\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:17:46.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\bin\Debug\net9.0\AsynAwait.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\bin\Debug\net9.0\AsynAwait.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\bin\Debug\net9.0\AsynAwait.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\bin\Debug\net9.0\AsynAwait.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\bin\Debug\net9.0\AsynAwait.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\AsynAwait.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\AsynAwait.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\AsynAwait.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\AsynAwait.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\AsynAwait.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\AsynAwait.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\refint\AsynAwait.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\AsynAwait.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\AsynAwait.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\AsynAwait\obj\Debug\net9.0\ref\AsynAwait.dll

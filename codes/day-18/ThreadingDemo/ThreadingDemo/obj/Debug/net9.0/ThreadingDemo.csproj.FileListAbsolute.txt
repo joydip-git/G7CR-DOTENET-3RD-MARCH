@@ -1,0 +1,15 @@
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.exe
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.deps.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.runtimeconfig.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\bin\Debug\net9.0\ThreadingDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.AssemblyInfoInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.AssemblyInfo.cs
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.sourcelink.json
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\refint\ThreadingDemo.dll
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.pdb
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ThreadingDemo.genruntimeconfig.cache
+E:\trainings\G7CR-DOTENET-3RD-MARCH\codes\day-18\ThreadingDemo\ThreadingDemo\obj\Debug\net9.0\ref\ThreadingDemo.dll

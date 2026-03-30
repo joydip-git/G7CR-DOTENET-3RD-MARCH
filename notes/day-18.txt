@@ -1,0 +1,31 @@
+thread
+synchronous
+
+Main(){
+}
+
+delegates:
+delegate void ThreadStart();
+delegate void ParameterizedThreadStart(object arg);
+
+void and no args
+void and one argument of type Object
+
+1. threads can take either one value or no value at all
+	Task can execute any Task
+
+2. they don't return any data
+	Task return the result of the asynchronous method
+
+3. you are directly working with O/S threadpool
+	Task creates an abstraction over threads in system. you never manage any thread manually
+
+4. if any thread is suspended the thread is not in use but still blocked. can't be released for some other operation.
+	Task helps to release the blocked thread and takes responsibility of reallocating a thread when the task resumes
+
+
+Task => Promise
+
+
+CollectTheDelivery -> delegate ->  Task
+
