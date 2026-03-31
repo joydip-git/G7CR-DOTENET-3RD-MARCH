@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ProductServiceApp\\ProductServiceApp.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "AuthServiceApp\\AuthServiceApp.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

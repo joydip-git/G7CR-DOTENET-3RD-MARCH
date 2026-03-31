@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ProductModel>
+
+@{
+    ViewData["Title"] = "AllProducts";
+}
+
+<h1>List of Products</h1>
+
+<table>
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Price</td>
+            <td>Description</td>
+            <td>Delete</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in this.Model)
+        {
+            if (item != null)
+            {
+                <tr>
+                    <td>                        
+                        @this.Html.ActionLink(@item.Name, "GetProductById", new { id = item.Id })
+                    </td>
+                    <td>
+                        @item.Price
+                    </td>
+                    <td>
+                        @item.Description
+                    </td>
+                    <td>
+                        <a asp-action="DeleteProduct" asp-route-productId="@item.Id">
+                            <input type="button" value="Delete" class="btn btn-danger"/>
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

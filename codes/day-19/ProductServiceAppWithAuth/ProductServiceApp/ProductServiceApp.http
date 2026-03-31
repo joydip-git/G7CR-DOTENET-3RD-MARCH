@@ -1,0 +1,20 @@
+@ProductServiceApp_HostAddress = http://localhost:5011
+
+GET {{ProductServiceApp_HostAddress}}/api/product/all
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqb3lkaXBAZ21haWwuY29tIiwibmFtZSI6ImFkbWluIiwiZXhwIjoxNzc0OTQ0MjI0LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUxNTEiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjUxNTEifQ.NTIlA1RsD-hmOrsKFDmAOb1vvZe08utWL5tafsPjZ1w
+
+###
+GET {{ProductServiceApp_HostAddress}}/api/product/100
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqb3lkaXBAZ21haWwuY29tIiwibmFtZSI6ImFkbWluIiwiZXhwIjoxNzc0OTQxOTczLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUxNTEiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjUxNTEifQ.rDtm03MX42K0ijyZWo2dIM-8JXEofqtHbjX0QBEwkFI
+
+
+###
+POST {{ProductServiceApp_HostAddress}}/api/product/add
+Content-Type: application/json
+
+{
+  "id": 0,
+  "name": "sample1",
+  "price": 101,
+  "description": "sample product 1"
+}
