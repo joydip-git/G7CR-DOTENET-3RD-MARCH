@@ -1,0 +1,38 @@
+FluentValidation packages:
+
+1. FluentValidation
+//2. FluentValidation.DependencyInjectionExtensions (for extension method AddValidatorsFromAssemblyContaining<T>)
+
+a. create a class to valie a DTO and inherit from AbstractValidator<T>
+example:  public class ProductDTOValidator : AbstractValidator<ProductDTO>{}
+
+b. create a default constructor in the class and use "RuleFor" method to create validation  ruls for each and every property of the DTO
+
+3. in the Program.cs file register the validator class as a service for Fluent validation
+builder.Services.AddScoped<IValidator<ProductDTO>, ProductDTOValidator>();
+
+//alternate technique
+//builder.Services.AddValidatorsFromAssemblyContaining<Program>();
+
+4. in the action ask for dependency injection of IValidator<T> where T is the validator clas (ProductDTOValidator)
+example:  
+[HttpPost]
+[Route("add")]
+public async Task<ActionResult<ProductDTO>> AddProduct(ProductDTO product, [FromServices] IValidator<ProductDTO> validator)
+
+[FormServices] -> indicates to asp.net core runtime that the IValidator<ProductDTO> is a service type and should be fetched from the service provider
+
+5. in the action call ValidateAsync/Validate method to validate the model object
+
+var validationResult = await validator.ValidateAsync(product);
+
+6. use the IsValid property of the object to take a decision what to return as action result
+if(!validationResult.IsValid)
+	return BadRequest(validationResult.Errors);
+
+
+
+Interaction with MongoDB:
+---------------------------
+1. install the package MongoDB.Driver
+2. in the appsettings.json file save the mongo db connection string

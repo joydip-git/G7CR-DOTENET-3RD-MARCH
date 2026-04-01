@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\models\\productdatabaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\productdatabaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\models\\validators\\productdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\validators\\productdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\filters\\comonexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\filters\\comonexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\data\\repository\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\repository\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\data\\repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\repository\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|e:\\trainings\\g7cr-dotenet-3rd-march\\codes\\day-20\\webapiwithmongodb\\webapplication1\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03A6CAC-3C06-44B5-8546-AFE5F93C746B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Entities\\Product.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Entities\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T04:18:06.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T04:12:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDatabaseOptions.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Models\\ProductDatabaseOptions.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductDatabaseOptions.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Models\\ProductDatabaseOptions.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProductDatabaseOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:53:05.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Data\\Repository\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Repository\\Abstractions\\IRepository.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Data\\Repository\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Repository\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:23:19.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Data\\Repository\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Repository\\Implementations\\ProductRepository.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Data\\Repository\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Repository\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T04:28:01.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComonExceptionFilterAttribute.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Filters\\ComonExceptionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Filters\\ComonExceptionFilterAttribute.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Filters\\ComonExceptionFilterAttribute.cs",
+              "RelativeToolTip": "WebApplication1\\Filters\\ComonExceptionFilterAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T08:35:21.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDTOValidator.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Models\\Validators\\ProductDTOValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Validators\\ProductDTOValidator.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Models\\Validators\\ProductDTOValidator.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Validators\\ProductDTOValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T08:42:56.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Models\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductDTO.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Models\\ProductDTO.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:19:15.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T04:13:32.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T04:46:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T09:40:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Mapper\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Mapper\\MapperProfile.cs",
+              "ToolTip": "E:\\trainings\\G7CR-DOTENET-3RD-MARCH\\codes\\day-20\\WebAPIWithMongoDb\\WebApplication1\\Mapper\\MapperProfile.cs",
+              "RelativeToolTip": "WebApplication1\\Mapper\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:19:24.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

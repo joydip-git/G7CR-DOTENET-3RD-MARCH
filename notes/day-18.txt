@@ -29,3 +29,52 @@ Task => Promise
 
 CollectTheDelivery -> delegate ->  Task
 
+
+using var context = new ProductDbContext();
+var found = context.Products.Fnd(100);
+found.... = ...
+all.Update(...);
+context.SC();
+
+var all = db.Products;
+
+var found1 = context.Products.Fnd(100);
+all.ToList().ForEach(p=> cw(p));
+
+class Product {} -> POCO 
+
+class ProductDbContext{
+	public virtual DbSet<Product> Products {get;set;}
+}
+
+
+class ProductDynamicProxy:Product{
+....
+}
+
+class ProductDbContext:DbContext{
+	private DbSet<Product> _products
+	public override DbSet<Product> Products 
+	{	
+		get=>  _products;
+		set
+		{
+			using var con = new SC(...);
+			var cmd = con.CreateCommand();
+			con.open();
+			var reader = cmd.ExecuteReader();
+			_products = [];
+			while(reader.Read())
+			{
+				product p = new Product{};
+				_products.add(p);
+			}
+			reader.close();
+
+		}
+	}
+}
+
+
+
+
